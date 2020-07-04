@@ -1,0 +1,32 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 5 Hindi]]></title>
+        <description><![CDATA[NCERT Class 5 Hindi]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-5-hindi-9ce8dfd4d</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:43:40 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:43:40 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200701_162640_0007.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+        
+    </channel>
+
+</rss>

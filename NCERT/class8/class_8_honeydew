@@ -1,0 +1,677 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 8 Honeydew]]></title>
+        <description><![CDATA[NCERT Class 8 Honeydew]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:06:25 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:06:25 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_103917_0002.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 8 The great stone face 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-8-The-great-stone-face-1-d031</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-The-great-stone-face-1-d031.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-The-great-stone-face-1-d031.mp3"
+                               length="20925481"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:46:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A prophecy of a valley about a person who will be born resembling the face of the great stone.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:51</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 A short monsoon diary ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-8-A-short-monsoon-diary--22c9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-short-monsoon-diary--22c9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-short-monsoon-diary--22c9.mp3"
+                               length="16595722"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:44:27 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A diary account of rainy season in a hill station.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:08</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem 8 On the grasshopper and the cricket]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-8-On-the-grasshopper-and-the-cricket-a11d</link>
+                    <guid>http://awscdn.podcasts.com/Poem-8-On-the-grasshopper-and-the-cricket-a11d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-8-On-the-grasshopper-and-the-cricket-a11d.mp3"
+                               length="18458235"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:41:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The poetry of earth explained by the insects and the seasons.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:04</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem 3 Macavity the mystery cat Part  2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-3-Macavity-the-mystery-cat-Part-2-d276</link>
+                    <guid>http://awscdn.podcasts.com/Poem-3-Macavity-the-mystery-cat-Part-2-d276.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-3-Macavity-the-mystery-cat-Part-2-d276.mp3"
+                               length="13334272"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 10:03:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 2                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem 3 Macavity the mystery cat Part  1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-3-Macavity-the-mystery-cat-Part-1-e706</link>
+                    <guid>http://awscdn.podcasts.com/Poem-3-Macavity-the-mystery-cat-Part-1-e706.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-3-Macavity-the-mystery-cat-Part-1-e706.mp3"
+                               length="13352571"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 10:02:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 1                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem 7 When i set out for Lynnosse Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-7-When-i-set-out-for-Lynnosse-Part-1-ab8a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-When-i-set-out-for-Lynnosse-Part-1-ab8a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-When-i-set-out-for-Lynnosse-Part-1-ab8a.mp3"
+                               length="19121623"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 10:00:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This poem is about poet's job of restoration of a church in a parish.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:12</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 The visit to Cambridge]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-7-The-visit-to-Cambridge-9a35</link>
+                    <guid>http://awscdn.podcasts.com/Poem-7-The-visit-to-Cambridge-9a35.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-7-The-visit-to-Cambridge-9a35.mp3"
+                               length="17212836"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:58:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A meeting between the author and Stephen Hawking the great scientist both of who are disabled.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 This is Jody's fawn Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-6-This-is-Jodys-fawn-Part-2-930a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-This-is-Jodys-fawn-Part-2-930a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-This-is-Jodys-fawn-Part-2-930a.mp3"
+                               length="16742840"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:56:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A relation between a fawn and a little boy who decides to raise the doe's child because he was orphaned to save Penny's life.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:19</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 This is Jody's fawn Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-6-This-is-Jodys-fawn-Part-1-8d6b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-This-is-Jodys-fawn-Part-1-8d6b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-This-is-Jodys-fawn-Part-1-8d6b.mp3"
+                               length="16679864"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:53:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The story of a boy who saves a fawn whose mother is killed to save Jody's Father's life.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:27</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The summit within Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-5-The-summit-within-Part-3-ef7e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-summit-within-Part-3-ef7e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-summit-within-Part-3-ef7e.mp3"
+                               length="13437942"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:47:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 3 of the lesson                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The summit within Part 2 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-5-The-summit-within-Part-2--737d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-summit-within-Part-2--737d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-summit-within-Part-2--737d.mp3"
+                               length="13130639"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:46:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 2 of the lesson                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:12</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The summit within Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-5-The-summit-within-Part-1-2e44</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-summit-within-Part-1-2e44.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-summit-within-Part-1-2e44.mp3"
+                               length="13377341"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:46:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 1                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:01</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem 5 The school boy]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-5-The-school-boy-2159</link>
+                    <guid>http://awscdn.podcasts.com/Poem-5-The-school-boy-2159.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-5-The-school-boy-2159.mp3"
+                               length="16310026"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:42:04 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The poem is about a school going boy who is unhappy going to school on a summer morning because he wants to be out in the nature at the time                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>24:47</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The glimpses of the past Part 3 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-3-The-glimpses-of-the-past-Part-3--b2b4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-glimpses-of-the-past-Part-3--b2b4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-glimpses-of-the-past-Part-3--b2b4.mp3"
+                               length="13547756"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 09:15:36 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise and question and answers solved                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The Glimpses of the past Part 2 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-3-The-Glimpses-of-the-past-Part-2--6a87</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-Glimpses-of-the-past-Part-2--6a87.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-Glimpses-of-the-past-Part-2--6a87.mp3"
+                               length="14334843"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 09:14:41 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Lesson parte explained                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The glimpses of the past Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-3-The-glimpses-of-the-past-Part-1-cf1a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-glimpses-of-the-past-Part-1-cf1a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-glimpses-of-the-past-Part-1-cf1a.mp3"
+                               length="13884252"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 09:13:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part1                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:28</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem 4 The Last Bargain]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-4-The-Last-Bargain-c50c</link>
+                    <guid>http://awscdn.podcasts.com/Poem-4-The-Last-Bargain-c50c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-4-The-Last-Bargain-c50c.mp3"
+                               length="16760627"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 09:05:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The poem highlights the importance of freedom over anything else.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>23:36</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Bepin Chowdhury's lapse of memory Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-4-Bepin-Chowdhurys-lapse-of-memory-Part-2-d61c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Bepin-Chowdhurys-lapse-of-memory-Part-2-d61c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                              ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Bepin-Chowdhurys-lapse-of-memory-Part-2-d61c.mp3"
+                               length="18396396"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:29:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A humorous story in which an old man is made to believe he is unwell and has a lapse of memory but in reality it is nothing as such.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:10</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Bipin Chowdhury's lapse of memory]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-4-Bipin-Chowdhurys-lapse-of-memory-b039</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Bipin-Chowdhurys-lapse-of-memory-b039.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan Mehra                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Bipin-Chowdhurys-lapse-of-memory-b039.mp3"
+                               length="18318602"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:27:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A humorous story, a man came to believe he is sick when he actually is not.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan Mehra                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:30</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem Geography Lesson]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-Geography-Lesson-3206</link>
+                    <guid>http://awscdn.podcasts.com/Poem-Geography-Lesson-3206.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-Geography-Lesson-3206.mp3"
+                               length="17004001"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 13 May 2020 09:07:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The logic of geography poet understands when he observes the earth from a height.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:39</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 The Tsunami]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-2-The-Tsunami-37fb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-The-Tsunami-37fb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-The-Tsunami-37fb.mp3"
+                               length="17996739"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 13 May 2020 09:05:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The casualties caused by tsunami and stories of bravery during the natural calamity                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:01</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem The Ant and the Cricket]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Poem-The-Ant-and-the-Cricket-dbad</link>
+                    <guid>http://awscdn.podcasts.com/Poem-The-Ant-and-the-Cricket-dbad.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-The-Ant-and-the-Cricket-dbad.mp3"
+                               length="12713984"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 13 May 2020 09:02:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;A fable consisting of an ant and a cricket.
+The cricket wastes his summer singing and requires help from ant to survive the winter&quot;                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>23:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 The Best Christmas Present in the World ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-honeydew-c69d335dc                    /episode/Ch-1-The-Best-Christmas-Present-in-the-World--1d67</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-Best-Christmas-Present-in-the-World--1d67.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-Best-Christmas-Present-in-the-World--1d67.mp3"
+                               length="18581361"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 13 May 2020 08:47:25 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Story of a war and Christmas celebration between two armies and a letter from army personnel to his wife.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:23</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Honeydew]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

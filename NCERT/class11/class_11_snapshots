@@ -1,0 +1,368 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 11 Snapshots]]></title>
+        <description><![CDATA[NCERT Class 11Snapshots]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 18:50:26 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 18:50:26 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200514_160920_0001.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 8 The tale of the Melon City]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-8-The-tale-of-the-Melon-City-604d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-The-tale-of-the-Melon-City-604d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-The-tale-of-the-Melon-City-604d.mp3"
+                               length="13086751"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:44:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A satirical poem explaining the contemporary situation of the governance                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:00</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 The Birth]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-7-The-Birth-cbba</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-The-Birth-cbba.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-The-Birth-cbba.mp3"
+                               length="16704532"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:41:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A story of a doctor, who sees a miracle in his life by saving a lifeless baby.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 The ghat of the only world Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-6-The-ghat-of-the-only-world-Part-2-7250</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-The-ghat-of-the-only-world-Part-2-7250.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-The-ghat-of-the-only-world-Part-2-7250.mp3"
+                               length="16562545"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 12:57:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This chapter is the remembrance of Agha Shahid Ali by his friend, the writer, Amitav Ghosh. It mentions many instances from his life.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:15</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 The ghat of the only world Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-6-The-ghat-of-the-only-world-Part-1-821a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-The-ghat-of-the-only-world-Part-1-821a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-The-ghat-of-the-only-world-Part-1-821a.mp3"
+                               length="13882153"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 09:18:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This chapter is the remembrance of Agha Shahid Ali by his friend, the writer, Amitav Ghosh. It mentions many instances from his life.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:49</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Mother's day  Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-5-Mothers-day-Part-3-7f45</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Mothers-day-Part-3-7f45.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Mothers-day-Part-3-7f45.mp3"
+                               length="13817068"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:58:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A thought-provoking play about how the women in our house are treated.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:16</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Mother's day  Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-5-Mothers-day-Part-2-d8d9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Mothers-day-Part-2-d8d9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Mothers-day-Part-2-d8d9.mp3"
+                               length="14709699"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:56:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A thought-provoking story about how we treat the mothers and wives in our society                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:33</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Mother's day ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-5-Mothers-day--1453</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Mothers-day--1453.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Mothers-day--1453.mp3"
+                               length="14861906"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 08:00:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A play by J.B. Priestley pressing on the topic about respecting mothers and wives for their endless service in our lives.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Albert Einstein at school ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-4-Albert-Einstein-at-school--60bd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Albert-Einstein-at-school--60bd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Albert-Einstein-at-school--60bd.mp3"
+                               length="16752169"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:39:13 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[An abstract from Albert Einstein's life tells us he never approved of a schooling system that supports and encourages parrot learning.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:11</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Ranga's Marriage Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-3-Rangas-Marriage-Part-2-0a81</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Rangas-Marriage-Part-2-0a81.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Rangas-Marriage-Part-2-0a81.mp3"
+                               length="15705242"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:38:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Narrator wants to marry Ranga and sets up Shastri to convince Ranga that Ratna is the perfect girl for him.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Ranga's Marriage Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-3-Rangas-Marriage-Part-1-c132</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Rangas-Marriage-Part-1-c132.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Rangas-Marriage-Part-1-c132.mp3"
+                               length="12578980"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:37:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Ranga comes back to hosahalli village from Bangalore. The narrator is interested in finding a suitable girl for Ranga and settle him. But Ranga doesn't want to have a traditional arranged marriage                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 The address]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-2-The-address-3fc4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-The-address-3fc4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-The-address-3fc4.mp3"
+                               length="19297997"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:35:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is an account of the pre war and post war situation of a holocaust survivor who goes back to a house to take back her mother's belongings.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:40</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 The summer of the beautiful white horse Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-vistas-bab2dd5cf                    /episode/Ch-1-The-summer-of-the-beautiful-white-horse-Part-1-c8a7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-summer-of-the-beautiful-white-horse-Part-1-c8a7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-summer-of-the-beautiful-white-horse-Part-1-c8a7.mp3"
+                               length="18829967"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:31:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A beautiful story about 2 Armenian boys whose tribe is well know for their honesty, more than their poor status. They take the white horse of a farmer for a ride every morning until the farmer finds out.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:17</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Snapshots]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

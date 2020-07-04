@@ -1,0 +1,508 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 8 Civics]]></title>
+        <description><![CDATA[NCERT Class 8 Civics]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-8-civics-c7335611a</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:00:44 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:00:44 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_103917_0004.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 1 The Indian Constitution Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-1-The-Indian-Constitution-Part-2-7a5e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-Indian-Constitution-Part-2-7a5e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-Indian-Constitution-Part-2-7a5e.mp3"
+                               length="32399217"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:57:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Key features of our constitution and the fundamental rights it provides have been discussed.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>48:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 The Indian Constitution Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-1-The-Indian-Constitution-Part-1-fbd9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-Indian-Constitution-Part-1-fbd9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-Indian-Constitution-Part-1-fbd9.mp3"
+                               length="30360556"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:43:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the history of the making of the Indian Constitution, its key features, and the adoption of the Constitution in Nepal. We read why we needed the Constitution and its role in our existence as a society.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:46</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Kanoon aur samajik nyaye Part-2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-10-Kanoon-aur-samajik-nyaye-Part-2-6934</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Kanoon-aur-samajik-nyaye-Part-2-6934.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Kanoon-aur-samajik-nyaye-Part-2-6934.mp3"
+                               length="30398218"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:38:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the law-making and implementation of laws for the rights of people affected by the vicious circle of harassment at workplace and in common.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>46:53</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Kanoon aur samajik nyaye Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-10-Kanoon-aur-samajik-nyaye-Part-1-9d3a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Kanoon-aur-samajik-nyaye-Part-1-9d3a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Kanoon-aur-samajik-nyaye-Part-1-9d3a.mp3"
+                               length="22926275"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:23:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the law-making and implementation of laws for the rights of people affected by the vicious circle of harassment at workplace and in common.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:08</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Jansuvidhayein Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-9-Jansuvidhayein-Part-2-1a9a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Jansuvidhayein-Part-2-1a9a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Jansuvidhayein-Part-2-1a9a.mp3"
+                               length="18102579"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:18:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the problems, features, and accessibility of basic needs brought by the government to the people of our country.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:52</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Jansuvidhayein Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-9-Jansuvidhayein-Part-1-eb72</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Jansuvidhayein-Part-1-eb72.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Jansuvidhayein-Part-1-eb72.mp3"
+                               length="22780559"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:14:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the features and accessibility of basic needs bring to the people by the government in our country.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:06</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Hashiyakaran se nipatna Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-8-Hashiyakaran-se-nipatna-Part-2-333a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Hashiyakaran-se-nipatna-Part-2-333a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Hashiyakaran-se-nipatna-Part-2-333a.mp3"
+                               length="13444608"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:12:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the unlawful incidents happening with scheduled tribes and castes, and the help of laws and constitution in bringing them their rights.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>20:42</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Hashiyakaran se nipatna Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-8-Hashiyakaran-se-nipatna-Part-1-6ed0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Hashiyakaran-se-nipatna-Part-1-6ed0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Hashiyakaran-se-nipatna-Part-1-6ed0.mp3"
+                               length="32858307"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:09:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the struggles faced by the people of the reserved category and the process they followed according to the constitution in order to get equality in society.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>43:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Hashiyakaran ki samajh Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-7-Hashiyakaran-ki-samajh-Part-2-0aef</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Hashiyakaran-ki-samajh-Part-2-0aef.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Hashiyakaran-ki-samajh-Part-2-0aef.mp3"
+                               length="19035156"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 06:02:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the problems faced by minority communities and scheduled tribes in our country.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:59</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Hashiyakaran ki samajh Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-7-Hashiyakaran-ki-samajh-Part-1-c24e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Hashiyakaran-ki-samajh-Part-1-c24e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Hashiyakaran-ki-samajh-Part-1-c24e.mp3"
+                               length="30657147"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 05:38:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the problems faced by minority communities and scheduled tribes in our country.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:05</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Hamari aapradhik Nayay Pranali]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-6-Hamari-aapradhik-Nayay-Pranali-9b57</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Hamari-aapradhik-Nayay-Pranali-9b57.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Hamari-aapradhik-Nayay-Pranali-9b57.mp3"
+                               length="45440266"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 05:32:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We learned about the proceedings of a court and how a case is solved by the judge.we also got to know about the roles played by lawyers, police and judges.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>43:54</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Nyayapalika]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-5-Nyayapalika-d373</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Nyayapalika-d373.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Nyayapalika-d373.mp3"
+                               length="41174190"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 05:26:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We learned about the role, features and working of the judicial system in India                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>55:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Kaanoono ki Samajh]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-4-Kaanoono-ki-Samajh-40c0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Kaanoono-ki-Samajh-40c0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Kaanoono-ki-Samajh-40c0.mp3"
+                               length="47587686"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 05:20:32 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We learned about the process and features of lawmaking in India through some examples and explanations.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>44:10</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Hume Sansad Kyun Chahiye]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-3-Hume-Sansad-Kyun-Chahiye-68ae</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Hume-Sansad-Kyun-Chahiye-68ae.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Hume-Sansad-Kyun-Chahiye-68ae.mp3"
+                               length="30472960"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 05:12:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We learned about parliament, its role, and working in our country.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:46</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Dharmanirpekshta ki samaj]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-2-Dharmanirpekshta-ki-samaj-56cf</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Dharmanirpekshta-ki-samaj-56cf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Dharmanirpekshta-ki-samaj-56cf.mp3"
+                               length="41935933"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 05:04:48 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed secularism and its importance and features for India.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:56</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Bhartiya Sanvidhan Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-1-Bhartiya-Sanvidhan-Part-2-d610</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Bhartiya-Sanvidhan-Part-2-d610.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Bhartiya-Sanvidhan-Part-2-d610.mp3"
+                               length="31283077"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 04:55:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the importance, making and need of constitution for a country and discussed the principles of the Indian constitution                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>43:23</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Bhartiya Sanvidhan Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-8-civics-c7335611a                    /episode/Ch-1-Bhartiya-Sanvidhan-Part-1-9fc2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Bhartiya-Sanvidhan-Part-1-9fc2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Bhartiya-Sanvidhan-Part-1-9fc2.mp3"
+                               length="24791153"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 04:49:33 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[We discussed the importance, making, and need of constitution for a country and discussed the principles of the Indian constitution.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aayu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 8 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

@@ -1,0 +1,480 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 10 Kritika]]></title>
+        <description><![CDATA[NCERT Class 10 Kritika]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 18:26:37 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 18:26:37 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 5 à¤®à¥ˆà¤‚ à¤•à¥à¤¯à¥‹à¤‚ à¤²à¤¿à¤–à¤¤à¤¾ à¤¹à¥‚à¤ Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-5-Part-2-39cf</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Part-2-39cf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Part-2-39cf.mp3"
+                               length="170701"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 06:08:49 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[questions and answers                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>0:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 à¤®à¥ˆà¤‚ à¤•à¥à¤¯à¥‹à¤‚ à¤²à¤¿à¤–à¤¤à¤¾ à¤¹à¥‚à¤ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-5-Part-1-e5bd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Part-1-e5bd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Part-1-e5bd.mp3"
+                               length="17651108"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 06:08:13 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Nibandh                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:59</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 à¤à¤¹à¥€ à¤¥à¥ˆà¤¯à¤¾ à¤à¥à¤²à¤¨à¥€ à¤¹à¥ˆà¤°à¤¾à¤¨à¥€ à¤¹à¥‹ à¤°à¤¾à¤®  Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-4-Part-3-f2a3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Part-3-f2a3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Part-3-f2a3.mp3"
+                               length="16597361"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 06:05:56 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Questions and Answers                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:50</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 à¤à¤¹à¥€ à¤¥à¥ˆà¤¯à¤¾ à¤à¥à¤²à¤¨à¥€ à¤¹à¥ˆà¤°à¤¾à¤¨à¥€ à¤¹à¥‹ à¤°à¤¾à¤®  Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-4-Part-2-1e24</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Part-2-1e24.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Part-2-1e24.mp3"
+                               length="16281016"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 06:05:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[EHI THAIYA JHULNI HERANI HO RAMA                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:11</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 à¤à¤¹à¥€ à¤¥à¥ˆà¤¯à¤¾ à¤à¥à¤²à¤¨à¥€ à¤¹à¥ˆà¤°à¤¾à¤¨à¥€ à¤¹à¥‹ à¤°à¤¾à¤®  Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-4-Part-1-9d0e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Part-1-9d0e.mp3</guid>
+                    <description>
+                        <![CDATA[Raught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Part-1-9d0e.mp3"
+                               length="16206182"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 06:04:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Grameen parivesh or bhasha , vyaktigat aur desh prem                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Raught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤¸à¤¾à¤¨à¤¾ à¤¸à¤¾à¤¨à¤¾ à¤¹à¤¾à¤¥ à¤œà¥‹à¥œà¥€  Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-3-Part-5-af04</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Part-5-af04.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Part-5-af04.mp3"
+                               length="17803704"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 06:02:04 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Question and Answer                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤¸à¤¾à¤¨à¤¾ â€“ à¤¸à¤¾à¤¨à¤¾ à¤¹à¤¾à¤¥ à¤œà¥‹à¥œà¤¿â€¦ Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-3-Part-4-9c1c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Part-4-9c1c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by  Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Part-4-9c1c.mp3"
+                               length="18069524"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 11:00:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Yatra ka varnan                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by&nbsp; Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:19</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤¸à¤¾à¤¨à¤¾ â€“ à¤¸à¤¾à¤¨à¤¾ à¤¹à¤¾à¤¥ à¤œà¥‹à¥œà¤¿â€¦ Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-3-Part-3-3753</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Part-3-3753.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Part-3-3753.mp3"
+                               length="13986468"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 10:54:48 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Dard aur saundarya ka mishran                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:57</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤¸à¤¾à¤¨à¤¾ â€“ à¤¸à¤¾à¤¨à¤¾ à¤¹à¤¾à¤¥ à¤œà¥‹à¥œà¤¿â€¦ Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-3-Part-2-332a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Part-2-332a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Part-2-332a.mp3"
+                               length="15815639"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 10:50:33 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Yatra ka aage ka varnan                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:04</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤¸à¤¾à¤¨à¤¾ â€“ à¤¸à¤¾à¤¨à¤¾ à¤¹à¤¾à¤¥ à¤œà¥‹à¥œà¤¿â€¦ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-3-Part-1-afbb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Part-1-afbb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Part-1-afbb.mp3"
+                               length="15991706"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 10:47:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Yatra Vritant                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:15</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 à¤œà¥‰à¤°à¥à¤œ à¤ªà¤‚à¤šà¤® à¤•à¥€ à¤¨à¤¾à¤• Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-2-Part-3-17d9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Part-3-17d9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Part-3-17d9.mp3"
+                               length="15151677"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 10:43:41 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Questions and Answers                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:29</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 à¤œà¥‰à¤°à¥à¤œ à¤ªà¤‚à¤šà¤® à¤•à¥€ à¤¨à¤¾à¤• Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-2-Part-2-f7e1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Part-2-f7e1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Part-2-f7e1.mp3"
+                               length="17185628"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 07:25:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Bharat ki shaan aur dikhave ki soch, vikrit hoti soch                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:34</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 à¤œà¥‰à¤°à¥à¤œ à¤ªà¤‚à¤šà¤® à¤•à¥€ à¤¨à¤¾à¤• Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-2-Part-1-0783</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Part-1-0783.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Part-1-0783.mp3"
+                               length="17776876"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 07:24:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[upniveshik soch aur vyavsayik patrkarita                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:51</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤®à¤¾à¤¤à¤¾ à¤•à¤¾ à¤…à¤à¤šà¤² Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-1-Part-3-66e9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Part-3-66e9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Part-3-66e9.mp3"
+                               length="16273889"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 07:05:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Question and Answers                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤®à¤¾à¤¤à¤¾ à¤•à¤¾ à¤…à¤à¤šà¤² Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-1-Part-2-177d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Part-2-177d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Part-2-177d.mp3"
+                               length="18778839"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:11:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Grameen parivesh ka chitran aur mata ki mata ka varnan                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:59</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤®à¤¾à¤¤à¤¾ à¤•à¤¾ à¤…à¤à¤šà¤² Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-kritika-cb74da2a3                    /episode/Ch-1-Part-1-cf3d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Part-1-cf3d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Part-1-cf3d.mp3"
+                               length="16572539"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:09:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This part describes about the love of 'Mata' and 'Pita'.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anwita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

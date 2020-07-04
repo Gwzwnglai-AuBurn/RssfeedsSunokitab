@@ -1,0 +1,312 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 9 Moments]]></title>
+        <description><![CDATA[NCERT Class 9 Moments]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-9-moments-c7de72e73</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:13:50 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:13:50 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_160920_0000.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 10  The Beggar ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-10-The-Beggar--844c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-The-Beggar--844c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-The-Beggar--844c.mp3"
+                               length="15461898"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 08:53:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter and the exercise                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:08</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9  The Accidental Tourist ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-9-The-Accidental-Tourist--3af9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-The-Accidental-Tourist--3af9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-The-Accidental-Tourist--3af9.mp3"
+                               length="12857272"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 08:51:51 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The chapter explained and exercise solved                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:47</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8  A House Is Not a Home ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-8-A-House-Is-Not-a-Home--8505</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-House-Is-Not-a-Home--8505.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-House-Is-Not-a-Home--8505.mp3"
+                               length="12327578"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 08:49:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter and exercise solved                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:51</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 The Last Leaf]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-7-The-Last-Leaf-e49c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-The-Last-Leaf-e49c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-The-Last-Leaf-e49c.mp3"
+                               length="6400748"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 06:50:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;The Last Leaf&quot; is a short story by O. Henry published in 1907 in his collection The Trimmed Lamp and Other Story. The story is set in Greenwich Village during a pneumonia epidemic. It tells the story of an old artist who saves the life of a young neighb                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:44</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6  Weathering the Storm in Ersama ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-6-Weathering-the-Storm-in-Ersama--e636</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Weathering-the-Storm-in-Ersama--e636.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Weathering-the-Storm-in-Ersama--e636.mp3"
+                               length="14032067"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 06:49:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter with exercise                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:30</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5  The Happy Prince ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-5-The-Happy-Prince--1a7f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-Happy-Prince--1a7f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-Happy-Prince--1a7f.mp3"
+                               length="37262694"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 26 Apr 2020 07:08:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The Happy Prince by Oscar Wilde is the story of a statue, the Happy Prince, covered with gold and many fine jewels. It sits overlooking the city. One day, a swallow passing through seeks shelter under the statue and discovers the prince is not happy, but                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:49</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4  In the Kingdom of Fools ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-4-In-the-Kingdom-of-Fools--15ba</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-In-the-Kingdom-of-Fools--15ba.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-In-the-Kingdom-of-Fools--15ba.mp3"
+                               length="44948767"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 26 Apr 2020 07:04:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Kannada is a regional language mainly spoken in the state of Karnataka. This story is a Kannada folktale. Folktale is a story that is passed on from one generation to another. It is taken from the book â€˜Folk Tales from Indiaâ€™ written by AK Ramanujan.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3  Iswaran the Storyteller ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-3-Iswaran-the-Storyteller--bce5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Iswaran-the-Storyteller--bce5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Iswaran-the-Storyteller--bce5.mp3"
+                               length="30620477"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 26 Apr 2020 07:02:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Iswaran was a curious learner. He developed the art of storytelling by reading Tamil thrillers. He could narrate a story every day by mixing suspense, adventure, and horror to the episodes. He was a good and loyal companion to Mahendra and entertained hi                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:54</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 The Adventures of Toto ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-2-The-Adventures-of-Toto--edd1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-The-Adventures-of-Toto--edd1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-The-Adventures-of-Toto--edd1.mp3"
+                               length="36746527"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 26 Apr 2020 06:58:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The Adventures of Toto by Ruskin Bond is an amusing story highlighting the antics of a mischievous monkey. The narrator's grandfather bought Toto, a little red monkey from a tonga driver to add to his collection of animals in his private zoo. Toto was an                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:37</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1  The Lost Child ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-moments-c7de72e73                    /episode/Ch-1-The-Lost-Child--d0ed</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-Lost-Child--d0ed.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-Lost-Child--d0ed.mp3"
+                               length="7723827"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 26 Apr 2020 06:49:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The Lost Child is the story of a small child who gets lost in a fair. He had gone with his parents to the fair but loses them when he gets engrossed in looking at a roundabout swing. The story highlights the bond of love and affection that the child shar                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Hrithik Dua                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:47</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 Moments]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

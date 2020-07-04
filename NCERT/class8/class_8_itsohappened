@@ -1,0 +1,540 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 8 It so happened]]></title>
+        <description><![CDATA[English]]></description>
+        <link>
+        http://www.podcasts.com/class-8-7de7436ee</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:05:34 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:05:34 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[English]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_103917_0001.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 11 Ancient Indian education system Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-11-Ancient-Indian-education-system-Part-2-d57c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11-Ancient-Indian-education-system-Part-2-d57c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11-Ancient-Indian-education-system-Part-2-d57c.mp3"
+                               length="15153347"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:51:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The education system of ancient India and the world known Universities                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:07</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 Ancient Indian education system Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-11-Ancient-Indian-education-system-Part-1-7b7f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11-Ancient-Indian-education-system-Part-1-7b7f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught  Muskan                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11-Ancient-Indian-education-system-Part-1-7b7f.mp3"
+                               length="16568125"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:49:51 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The education system of ancient India and the famous world known Universities.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught&nbsp; Muskan&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Comet-2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-10-Comet-2-6341</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Comet-2-6341.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Comet-2-6341.mp3"
+                               length="16094771"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:04:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The project about a comet hitting the earth and finding way to avert this possibility.The project is successful but there is a divide between the people taking the scientific path and the ones who were superstitious.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 The comet 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-9-The-comet-1-e5fd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-The-comet-1-e5fd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-The-comet-1-e5fd.mp3"
+                               length="19059712"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:03:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A comet discovered by an amateur astronomer which may collide with earth and letting this information out in the world may create panic and havoc among the people                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:13</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Jalebis  Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-8-Jalebis-Part-2-81e4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Jalebis-Part-2-81e4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Jalebis-Part-2-81e4.mp3"
+                               length="13161738"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:01:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[An honest student uses up his school fees to buy jalebis and now fears the outcome of it.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>24:25</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Jalebis Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-8-Jalebis-Part-1-5f12</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Jalebis-Part-1-5f12.mp3</guid>
+                    <description>
+                        <![CDATA[                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Jalebis-Part-1-5f12.mp3"
+                               length="16423547"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:00:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A little school boy who eats jalebi out of the money given to him to pay his school fees and the story of how he deals with arranging the school fees.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 The open window]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-7-The-open-window-e3a5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-The-open-window-e3a5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-The-open-window-e3a5.mp3"
+                               length="17561221"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 05:58:49 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The story of a girl who makes up a story and scares a boy who has come to visit her aunt.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:54</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 The first Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-6-The-first-Part-2-655e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-The-first-Part-2-655e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-The-first-Part-2-655e.mp3"
+                               length="15264420"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 05:55:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The fight between two boys over a pool in the forest,as the story progresses,the boys turn into friends.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:42</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 The fight Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-6-The-fight-Part-1-421c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-The-fight-Part-1-421c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Muskan                         ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-The-fight-Part-1-421c.mp3"
+                               length="16747827"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 05:54:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The fight between two young boys over who will swim in a pond in a forest.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Muskan&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:30</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5  Princess September Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-5-Princess-September-Part-2-e49d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Princess-September-Part-2-e49d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Princess-September-Part-2-e49d.mp3"
+                               length="9943808"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 03:21:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Excercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>24:12</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5  Princess September Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-5-Princess-September-Part-1-9475</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Princess-September-Part-1-9475.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Princess-September-Part-1-9475.mp3"
+                               length="22068644"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 03:17:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Princess September is a story of a princess of Siam, now a day Siam is known as the Thailand. Princess father, the king of Siam had a strange idea about naming his children. When he had only two daughters, he named them Day and Night, when two more were                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:49</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4  The treasure within Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-4-The-treasure-within-Part-2-9014</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-treasure-within-Part-2-9014.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-treasure-within-Part-2-9014.mp3"
+                               length="60216586"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 23 Apr 2020 03:11:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Excercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:22</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4  The treasure within Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-4-The-treasure-within-Part-1-4e1a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-treasure-within-Part-1-4e1a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-treasure-within-Part-1-4e1a.mp3"
+                               length="14339635"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 10:06:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA['The treasure within' is a lesson based on a conversation between Ms. Bela, who is the editor of the newsletter ''sparsh'' and Mr. Hafeez who is one of India's leading architects. Hafeez in his childhood was not at all good in academics, he hardly passed                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>21:47</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The Selfish Giant Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-3-The-Selfish-Giant-cff8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-Selfish-Giant-cff8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-Selfish-Giant-cff8.mp3"
+                               length="29692191"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 01 Nov 2019 05:08:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 2
+This part tells us how Jesus Christ blessed the giant's soul and took him to his paradise and blessed his soul with white flowers ..                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:56</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The Selfish Giant Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-3-The-Selfish-Giant-6d50</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-Selfish-Giant-6d50.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-Selfish-Giant-6d50.mp3"
+                               length="13568358"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 01 Nov 2019 05:07:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 1
+&quot;This chapter covers the story of a giant who is selfish but eventually becomes a kind-hearted person as an innocent child converts his heart.
+This chapter teaches us that no person is bad and everybody deserves to be loved and cared for. A change                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:50</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Children At Work Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-2-Children-At-Work-af15</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Children-At-Work-af15.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Children-At-Work-af15.mp3"
+                               length="32408381"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 01 Nov 2019 05:03:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Excercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:45</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Children At Work Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-2-Children-At-Work-ba2a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Children-At-Work-ba2a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Children-At-Work-ba2a.mp3"
+                               length="27329649"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 01 Nov 2019 05:01:56 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Part 1 
+This is an adaptation of a famous Rudyard Kipling story which explains how the camel got his hump. ... Horse decided to go and see Camel on his own and make him work. When Horse went and told Camel that he was lazy and that he just wanted to stay                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:46</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 How The Camel Got His Hump]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-7de7436ee                    /episode/Ch-1-How-The-Camel-Got-His-Hump-a8b1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-How-The-Camel-Got-His-Hump-a8b1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-How-The-Camel-Got-His-Hump-a8b1.mp3"
+                               length="26040709"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 01 Nov 2019 04:53:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This is an adaptation of a famous Rudyard Kipling story which explains how the camel got his hump. ... Horse decided to go and see Camel on his own and make him work. When Horse went and told Camel that he was lazy and that he just wanted to stay in the                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Pooja                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

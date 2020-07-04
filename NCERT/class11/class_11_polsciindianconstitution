@@ -1,0 +1,732 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]></title>
+        <description><![CDATA[NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 18:39:24 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 18:39:24 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200514_160920_0003.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 10 Savidhan ek rajnitik darshan Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-10-Savidhan-ek-rajnitik-darshan-Part-2-8fe8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Savidhan-ek-rajnitik-darshan-Part-2-8fe8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Savidhan-ek-rajnitik-darshan-Part-2-8fe8.mp3"
+                               length="26694994"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 01:26:27 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains thinking about political philosophy of our Constitution and do critical analysis of Constitution                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>43:26</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10  Savidhan ek rajnitik darshan Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-10-Savidhan-ek-rajnitik-darshan-Part-1-9606</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Savidhan-ek-rajnitik-darshan-Part-1-9606.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Savidhan-ek-rajnitik-darshan-Part-1-9606.mp3"
+                               length="24102994"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 01:24:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains political philosophy behind making of Constitution                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:14</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Savidhan ek Jivant Dastavej Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-3-8631</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-3-8631.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-3-8631.mp3"
+                               length="18609613"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 01:23:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains the role of the judiciary in the amendment                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Savidhan ek Jivant Dastavej Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-2-15e0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-2-15e0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-2-15e0.mp3"
+                               length="17714555"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:05:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains power of the state in amendment and types of amendments.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:10</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Savidhan ek Jivant Dastavej Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-1-d783</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-1-d783.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Savidhan-ek-Jivant-Dastavej-Part-1-d783.mp3"
+                               length="21338266"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:03:30 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains article 368 for a constitutional amendment.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:06</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Sthaniya Shashan Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-8-Sthaniya-Shashan-Part-2-45e4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Sthaniya-Shashan-Part-2-45e4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Sthaniya-Shashan-Part-2-45e4.mp3"
+                               length="22323661"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:59:51 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains the election and other arrangements of 73 and 74 amendments.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:08</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Sthaniya Shashan Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-8-Sthaniya-Shashan-Part-1-3b3a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Sthaniya-Shashan-Part-1-3b3a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Sthaniya-Shashan-Part-1-3b3a.mp3"
+                               length="20013179"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:58:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains the local government of India. It put light on 73 and 74 amendments.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:50</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Sanghvaad Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-7-Sanghvaad-Part-2-3808</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Sanghvaad-Part-2-3808.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Sanghvaad-Part-2-3808.mp3"
+                               length="25993882"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:56:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains relationships and issues between the Centre and States. It explains the special powers of a few states.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Sanghvaad Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-7-Sanghvaad-Part-1-a28a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Sanghvaad-Part-1-a28a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Sanghvaad-Part-1-a28a.mp3"
+                               length="23493755"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:55:11 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains meaning of federalism and division of power.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:08</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Nyaypalika Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-6-Nyaypalika-Part-2-8757</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Nyaypalika-Part-2-8757.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Nyaypalika-Part-2-8757.mp3"
+                               length="22501427"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:52:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains judicial activism and PIL.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:17</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Nyaypalika Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-6-Nyaypalika-Part-1-e745</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Nyaypalika-Part-1-e745.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Nyaypalika-Part-1-e745.mp3"
+                               length="23507149"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:51:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains judicial freedom, appointment, and removal of judges, the structure, and the power of courts.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Vidhayika Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-5-Vidhayika-Part-3-9e1a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Vidhayika-Part-3-9e1a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Vidhayika-Part-3-9e1a.mp3"
+                               length="17195172"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:49:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains how the legislature controls the executive.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:13</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Vidhayika Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-5-Vidhayika-Part-2-2e1e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Vidhayika-Part-2-2e1e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Vidhayika-Part-2-2e1e.mp3"
+                               length="21658450"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:48:27 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains process of lawmaking and powers of the legislature.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Vidhayika Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-5-Vidhayika-Part-1-3b85</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Vidhayika-Part-1-3b85.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Vidhayika-Part-1-3b85.mp3"
+                               length="15529308"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:47:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains what is Parliament and houses structure                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:18</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Karyapalika Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-4-Karyapalika-Part-2-c2d8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Karyapalika-Part-2-c2d8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Karyapalika-Part-2-c2d8.mp3"
+                               length="17392906"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:45:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains the power of PM and bureaucracy.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:46</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Karyapalika Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-4-Karyapalika-Part-1-5851</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Karyapalika-Part-1-5851.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Karyapalika-Part-1-5851.mp3"
+                               length="21394504"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 10:44:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains the executive part of the government.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>42:09</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Chunav aur pratinidhitva Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-3-Chunav-aur-pratinidhitva-Part-3-75a1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Chunav-aur-pratinidhitva-Part-3-75a1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Chunav-aur-pratinidhitva-Part-3-75a1.mp3"
+                               length="17032253"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:36:04 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains executive part of government                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:53</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Chunav aur pratinidhitva Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-3-Chunav-aur-pratinidhitva-Part-2-2662</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Chunav-aur-pratinidhitva-Part-2-2662.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Chunav-aur-pratinidhitva-Part-2-2662.mp3"
+                               length="18867456"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:35:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains process of election of RS , first past the post system and adult franchise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Chunav aur Pratinidhtav Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-3-Chunav-aur-Pratinidhtav-Part-1-0ffe</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Chunav-aur-Pratinidhtav-Part-1-0ffe.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Chunav-aur-Pratinidhtav-Part-1-0ffe.mp3"
+                               length="18055680"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:34:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains direct and indirect democracy and election process.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:54</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Bhartiya savidhan mai adhikar Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-3-2504</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-3-2504.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-3-2504.mp3"
+                               length="16844503"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:32:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Directive principles have been explained                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:01</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Bhartiya savidhan mai adhikar Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-2-830c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-2-830c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-2-830c.mp3"
+                               length="18938092"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:32:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains fundamental rights                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Bhartiya savidhan mai adhikar Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-1-080f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-1-080f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Bhartiya-savidhan-mai-adhikar-Part-1-080f.mp3"
+                               length="13997466"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:31:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this our fundamental rights been explained. In this audio focus on right to equality                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Samvidhan- kyo aur kaise Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-1-Samvidhan-kyo-aur-kaise-Part-3-2239</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Samvidhan-kyo-aur-kaise-Part-3-2239.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Samvidhan-kyo-aur-kaise-Part-3-2239.mp3"
+                               length="14023393"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:29:59 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this, we learn about the working style of constituent assembly and provisions of the constitution which we adopted from other nations                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:14</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Samvidhan- kyo aur kaise Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-1-Samvidhan-kyo-aur-kaise-Part-2-c844</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Samvidhan-kyo-aur-kaise-Part-2-c844.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Samvidhan-kyo-aur-kaise-Part-2-c844.mp3"
+                               length="14373407"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:29:27 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio Indian constituent assembly and its formation been discussed.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:34</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Samvidhan- kyo aur kaise Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-11-pol.-sci.-indian-constitution-at-work-bc1009cb1                    /episode/Ch-1-Samvidhan-kyo-aur-kaise-Part-1-ac55</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Samvidhan-kyo-aur-kaise-Part-1-ac55.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Samvidhan-kyo-aur-kaise-Part-1-ac55.mp3"
+                               length="14830694"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:28:43 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It explains the need for a constitution and what makes constitution viable.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Bindiya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:25</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 11 Pol. Sci. (Indian Constitution At Work)]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

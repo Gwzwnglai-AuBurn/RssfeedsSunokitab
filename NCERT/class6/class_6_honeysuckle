@@ -1,0 +1,676 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 6 Honeysuckle]]></title>
+        <description><![CDATA[NCERT Class 6 Honeysuckle]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:52:14 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:52:14 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_153746_0002.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 10 The Banyan Tree Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-10-The-Banyan-Tree-Part-2-2ad9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-The-Banyan-Tree-Part-2-2ad9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-The-Banyan-Tree-Part-2-2ad9.mp3"
+                               length="13365678"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 07:02:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the exercises of the chapter have been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:53</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 The Banyan Tree Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-10-The-Banyan-Tree-Part-1-4b3f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-The-Banyan-Tree-Part-1-4b3f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-The-Banyan-Tree-Part-1-4b3f.mp3"
+                               length="11389542"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 06:58:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:29</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Desert Animals Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-9-Desert-Animals-Part-2-d8ef</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Desert-Animals-Part-2-d8ef.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Desert-Animals-Part-2-d8ef.mp3"
+                               length="14100029"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 06:56:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the exercises of the chapter have been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:56</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Desert Animals Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-9-Desert-Animals-Part-1-e9e3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Desert-Animals-Part-1-e9e3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Desert-Animals-Part-1-e9e3.mp3"
+                               length="13582090"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 06:52:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter has been explained in detail.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 A Game of Chance Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-8-A-Game-of-Chance-Part-2-1203</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-Game-of-Chance-Part-2-1203.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-Game-of-Chance-Part-2-1203.mp3"
+                               length="15635395"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 06:49:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the exercises of the chapter have been explained.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:03</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 A Game of Chance Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-8-A-Game-of-Chance-Part-1-1af9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-Game-of-Chance-Part-1-1af9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-Game-of-Chance-Part-1-1af9.mp3"
+                               length="13680445"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 06:45:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:16</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Fair Play Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-7-Fair-Play-Part-2-fa4c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Fair-Play-Part-2-fa4c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Fair-Play-Part-2-fa4c.mp3"
+                               length="12166656"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:42:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio the exercises of the chapter has been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Fair Play Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-7-Fair-Play-Part-1--d6f5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Fair-Play-Part-1--d6f5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Fair-Play-Part-1--d6f5.mp3"
+                               length="11798262"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:41:11 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:59</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Who I am Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-6-Who-I-am-Part-2-ce66</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Who-I-am-Part-2-ce66.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Who-I-am-Part-2-ce66.mp3"
+                               length="14774282"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:39:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the exercises of the chapter has been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Who I am Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-6-Who-I-am-Part-1--8c42</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Who-I-am-Part-1--8c42.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Who-I-am-Part-1--8c42.mp3"
+                               length="13891215"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:38:14 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio the chapter has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:47</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 A different kind of school Part 3 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-3-A-different-kind-of-school-Part-3--c8d4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-A-different-kind-of-school-Part-3--c8d4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-A-different-kind-of-school-Part-3--c8d4.mp3"
+                               length="15460219"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:35:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The exercises of the chapter has been explained in detail.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:19</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 A different kind of school Part 2 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-5-A-different-kind-of-school-Part-2--82a8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-A-different-kind-of-school-Part-2--82a8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-A-different-kind-of-school-Part-2--82a8.mp3"
+                               length="14087117"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:34:38 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:26</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 A different kind of school Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-5-A-different-kind-of-school-Part-1--6b91</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-A-different-kind-of-school-Part-1--6b91.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-A-different-kind-of-school-Part-1--6b91.mp3"
+                               length="17447608"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:33:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the first part of the chapter, that is till page number 9 has been explained.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:31</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 An Indian American woman in space Kalpana Chawala Part 2 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-4-An-Indian-American-woman-in-space-Kalpana-Chawala-Part-2--024d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-An-Indian-American-woman-in-space-Kalpana-Chawala-Part-2--024d.mp3</guid>
+                    <description>
+                        <![CDATA[Aught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-An-Indian-American-woman-in-space-Kalpana-Chawala-Part-2--024d.mp3"
+                               length="15125678"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:31:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the exercises of the chapter has been solved and explained in detail.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Aught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 An Indian-American woman in space: Kalpana Chawala Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-4-An-Indian-American-woman-in-space-Kalpana-Chawala-Part-1--2881</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-An-Indian-American-woman-in-space-Kalpana-Chawala-Part-1--2881.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-An-Indian-American-woman-in-space-Kalpana-Chawala-Part-1--2881.mp3"
+                               length="16429455"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:30:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:01</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Taro's Reward Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-3-Taros-Reward-Part-2-f0dd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Taros-Reward-Part-2-f0dd.mp3</guid>
+                    <description>
+                        <![CDATA[Aught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Taros-Reward-Part-2-f0dd.mp3"
+                               length="12906179"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:29:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the exercises of the chapter, &quot;Taro's Reward&quot; has been explained and solved in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Aught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:17</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Taro's Reward Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-3-Taros-Reward-Part-1-cbf4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Taros-Reward-Part-1-cbf4.mp3</guid>
+                    <description>
+                        <![CDATA[Aught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Taros-Reward-Part-1-cbf4.mp3"
+                               length="12664351"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:27:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter, &quot;Taro's Reward&quot; has been taught and experience in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Aught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 How the dog found himself a new master Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-2-How-the-dog-found-himself-a-new-master-Part-2-a992</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-How-the-dog-found-himself-a-new-master-Part-2-a992.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-How-the-dog-found-himself-a-new-master-Part-2-a992.mp3"
+                               length="13942395"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:26:27 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the exercises of the chapter, &quot;how the dog found himself a new master&quot; has been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:43</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 How the dog found himself a new master Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-2-How-the-dog-found-himself-a-new-master-Part-1-c12a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-How-the-dog-found-himself-a-new-master-Part-1-c12a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-How-the-dog-found-himself-a-new-master-Part-1-c12a.mp3"
+                               length="11955671"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:21:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter, &quot;how the dog found himself a new master&quot; has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>23:20</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Who Did Patrick's Homework? Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-1-Who-Did-Patricks-Homework-Part-2-dc3f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Who-Did-Patricks-Homework-Part-2-dc3f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Who-Did-Patricks-Homework-Part-2-dc3f.mp3"
+                               length="11587789"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:20:10 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The exercises of the chapter has been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Who Did Patrick's Homework? Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-1-Who-Did-Patricks-Homework-Part-1-7dcb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Who-Did-Patricks-Homework-Part-1-7dcb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Who-Did-Patricks-Homework-Part-1-7dcb.mp3"
+                               length="14064077"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 06:20:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter, &quot;Who did Patrick's Homework&quot; has been explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:36</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Poem 1 A House, A Home]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Poem-1-A-House-A-Home-c54c</link>
+                    <guid>http://awscdn.podcasts.com/Poem-1-A-House-A-Home-c54c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Poem-1-A-House-A-Home-c54c.mp3"
+                               length="13230653"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 05:31:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Difference between a house, a home                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:16</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Who Did Patrick's Homework?]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-honeysuckle-c4df376aa                    /episode/Ch-1-Who-Did-Patricks-Homework-a603</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Who-Did-Patricks-Homework-a603.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Who-Did-Patricks-Homework-a603.mp3"
+                               length="13369395"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 09:23:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Covered the chapter and solved the exercise                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Niyati                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:52</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Honeysuckle]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

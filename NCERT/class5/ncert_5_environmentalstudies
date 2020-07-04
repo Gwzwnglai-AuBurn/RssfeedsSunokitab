@@ -1,0 +1,402 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 5 Environmental Studies]]></title>
+        <description><![CDATA[NCERT Class 5 Environmental Studies]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:42:15 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:42:15 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200701_162640_0004.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 9 Up you go! Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-9-Up-you-go-Part-2-90af</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Up-you-go-Part-2-90af.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Up-you-go-Part-2-90af.mp3"
+                               length="18207314"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:09:43 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Rock climbing 
+A funny incident 
+A special guest 
+Last day at camp 
+Imagine and write                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Up you go! Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-9-Up-you-go-Part-1-79ea</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Up-you-go-Part-1-79ea.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Up-you-go-Part-1-79ea.mp3"
+                               length="14501458"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:08:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Mountaineering camp 
+A big responsibility 
+Group 7
+Crossing the river 
+                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 A treat for mosquitoes Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-8-A-treat-for-mosquitoes-Part-2-4c3e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-treat-for-mosquitoes-Part-2-4c3e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-treat-for-mosquitoes-Part-2-4c3e.mp3"
+                               length="15429704"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:07:27 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Mosquitoe check 
+Survey report 
+Ronald Ross                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 A treat for mosquitoes Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-8-A-treat-for-mosquitoes-Part-1-1742</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-treat-for-mosquitoes-Part-1-1742.mp3</guid>
+                    <description>
+                        <![CDATA[Taught Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-treat-for-mosquitoes-Part-1-1742.mp3"
+                               length="12889487"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:06:43 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Mosquitoe check 
+Survey report 
+Ronald Ross                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:00</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Experiments with water ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-7-Experiments-with-water--06cb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Experiments-with-water--06cb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Experiments-with-water--06cb.mp3"
+                               length="13957437"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:05:59 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[What floats - what sinks? 
+What dissolved, what did not? 
+Racing drops
+Where did the water go ?
+Dandi march 
+                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:42</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Every drop counts ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-6-Every-drop-counts--206a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Every-drop-counts--206a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Every-drop-counts--206a.mp3"
+                               length="15371162"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:04:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Ghadsisar 
+Through the eyes of Al Biruni 
+Customs related to water 
+The story today 
+Story of Darki Mai and Tarun Bharat Sangh                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:28</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Seeds and seeds]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-5-Seeds-and-seeds-1c0a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Seeds-and-seeds-1c0a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Seeds-and-seeds-1c0a.mp3"
+                               length="15333530"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:04:02 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Sprouting seeds 
+Plants which hunt 
+Different types of seeds 
+Wandering seeds 
+Who came from where                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Mangoes Round The Year]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-4-Mangoes-Round-The-Year-67af</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Mangoes-Round-The-Year-67af.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Mangoes-Round-The-Year-67af.mp3"
+                               length="15333530"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:03:13 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[he bad smell from the potato sabzi gave the clue.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 From tasting to digesting ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-3-From-tasting-to-digesting--1c82</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-From-tasting-to-digesting--1c82.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-From-tasting-to-digesting--1c82.mp3"
+                               length="19206482"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:41:19 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;Different tastes 
+Parts of the tongue associated with different tastes 
+Glucose drip 
+Story-A stomach with a window &quot;                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>45:50</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 A snake charmer's story ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-2-A-snake-charmers-story--87f2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-A-snake-charmers-story--87f2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-A-snake-charmers-story--87f2.mp3"
+                               length="14578975"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:40:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;Story of Aryanath and his grandfather 
+What if you were caged 
+Snake facts&quot;                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:31</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Super Senses Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-1-Super-Senses-Part-2-c22a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Super-Senses-Part-2-c22a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Super-Senses-Part-2-c22a.mp3"
+                               length="12749875"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:38:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;Sounds and messages 
+Sleeping -waking&quot;                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:13</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Super Senses Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-5-environmental-studies-c5bee753e                    /episode/Ch-1-Super-Senses--ff32</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Super-Senses--ff32.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Super-Senses--ff32.mp3"
+                               length="31228621"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 09:17:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;Sense of ants 
+Dog's sense of smell 
+Looking with one or both eyes 
+Do animals see colors&quot;                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 5 Environmental Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

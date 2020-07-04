@@ -1,0 +1,351 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 9 Economics]]></title>
+        <description><![CDATA[NCERT Class 9 Economics]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:14:56 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:14:56 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_161834_0008.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 4 Khadya surakhsa Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-4-Khadya-surakhsa-Part-3-d457</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Khadya-surakhsa-Part-3-d457.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Khadya-surakhsa-Part-3-d457.mp3"
+                               length="28574147"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 03:56:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Buffer stock and its misuse and pds and corruption in it are explained                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:55</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Khadya surakhsa Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-4-Khadya-surakhsa-Part-2-b5c8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Khadya-surakhsa-Part-2-b5c8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Khadya-surakhsa-Part-2-b5c8.mp3"
+                               length="22310195"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 03:55:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Buffer stock and pds are discussing in the audio.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Khadya surakhsa Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-4-Khadya-surakhsa-Part-1-f736</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Khadya-surakhsa-Part-1-f736.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Khadya-surakhsa-Part-1-f736.mp3"
+                               length="11721472"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 03:55:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed on food security and its various part.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Nirdhanta ek chunauti Part 3 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-4-Nirdhanta-ek-chunauti-Part-3--fad7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Nirdhanta-ek-chunauti-Part-3--fad7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Nirdhanta-ek-chunauti-Part-3--fad7.mp3"
+                               length="15371418"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 03:38:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[100%
+10
+
+How can we solve the issue of poverty is discussed in this audio
+Screen reader support enabled.
+ 
+ 
+ 		
+
+How can we solve the issue of poverty is discussed in this audio
+ 
+Suno Kitaab has joined the document.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:00</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Nirdhanta ek chunauti Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-3-Nirdhanta-ek-chunauti-Part-2-062b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Nirdhanta-ek-chunauti-Part-2-062b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Nirdhanta-ek-chunauti-Part-2-062b.mp3"
+                               length="15331963"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 03:36:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed in the audio about poverty and its impact on the society                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Nirdhanta ek chunauti Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-3-Nirdhanta-ek-chunauti-Part-1-bc58</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Nirdhanta-ek-chunauti-Part-1-bc58.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Nirdhanta-ek-chunauti-Part-1-bc58.mp3"
+                               length="19297710"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 04:07:33 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed on poverty and its impact.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 SANSADHAN KE ROOP MAIN LOG Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-3-ab6d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-3-ab6d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-3-ab6d.mp3"
+                               length="16146954"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 04:02:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Unemployment is key focus in this lecture. Its impact on country human and economy are also under discussion.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:50</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 SANSADHAN KE ROOP MAIN LOG Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-2-9aff</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-2-9aff.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-2-9aff.mp3"
+                               length="18931917"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 04:00:13 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed on education and health. Their important role in human life.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:16</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 SANSADHAN KE ROOP MAIN LOG Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-1--a331</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-1--a331.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-SANSADHAN-KE-ROOP-MAIN-LOG-Part-1--a331.mp3"
+                               length="18977444"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:31:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Human is as a capital very useful. How can we change our population in asset from burden.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 PALAMPUR GAON KI KAHANI Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-1-PALAMPUR-GAON-KI-KAHANI-Part-2-a9a9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-PALAMPUR-GAON-KI-KAHANI-Part-2-a9a9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-PALAMPUR-GAON-KI-KAHANI-Part-2-a9a9.mp3"
+                               length="25804431"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:27:26 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have explored the village economy and its function. The other activities except for agriculture                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:55</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 PALAMPUR GAON KI KAHANI Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-economics-c9bb9fa6a                    /episode/Ch-1-PALAMPUR-GAON-KI-KAHANI-Part-1-f4c5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-PALAMPUR-GAON-KI-KAHANI-Part-1-f4c5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-PALAMPUR-GAON-KI-KAHANI-Part-1-f4c5.mp3"
+                               length="14603510"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 09:24:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed on A village economy. The factor of production                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:07</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 Economics]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

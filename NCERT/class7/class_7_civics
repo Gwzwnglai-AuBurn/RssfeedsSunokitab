@@ -1,0 +1,284 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 7 Civics]]></title>
+        <description><![CDATA[NCERT Class 7 Civics]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-7-civics-c58d13a0b</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:55:08 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:55:08 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_153845_0004.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 9 Samaanta ke liye Sangharsh]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-9-Samaanta-ke-liye-Sangharsh-3cf8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Samaanta-ke-liye-Sangharsh-3cf8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Samaanta-ke-liye-Sangharsh-3cf8.mp3"
+                               length="20088351"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 12:11:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the struggle for equality.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:24</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Bazaar Me Ek Kameez]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-8-Bazaar-Me-Ek-Kameez-5929</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Bazaar-Me-Ek-Kameez-5929.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Bazaar-Me-Ek-Kameez-5929.mp3"
+                               length="23112489"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 12:09:02 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the chain that is followed to sell any finished goods.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:45</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Humare Aas Paas ke Bazar]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-7-Humare-Aas-Paas-ke-Bazar-7e6d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Humare-Aas-Paas-ke-Bazar-7e6d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Humare-Aas-Paas-ke-Bazar-7e6d.mp3"
+                               length="21172736"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 12:07:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Dispersion discusses the types of market that are found in our neighborhood.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:05</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Sanchaar Madhyam]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-6-Sanchaar-Madhyam-e9e5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Sanchaar-Madhyam-e9e5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Sanchaar-Madhyam-e9e5.mp3"
+                               length="22077727"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 12:05:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the mass communication.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Auraton me Badli Duniya]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-5-Auraton-me-Badli-Duniya-4982</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Auraton-me-Badli-Duniya-4982.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Auraton-me-Badli-Duniya-4982.mp3"
+                               length="22157271"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 12:03:30 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the changes that were made by women.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:46</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Ladke aur ladkiyon k Roop me bada hona]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-4-Ladke-aur-ladkiyon-k-Roop-me-bada-hona-ed8f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Ladke-aur-ladkiyon-k-Roop-me-bada-hona-ed8f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Ladke-aur-ladkiyon-k-Roop-me-bada-hona-ed8f.mp3"
+                               length="20579942"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:31:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the gender biased society.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Rajya shasan kaise kaam krta h]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-3-Rajya-shasan-kaise-kaam-krta-h-5311</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Rajya-shasan-kaise-kaam-krta-h-5311.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Rajya-shasan-kaise-kaam-krta-h-5311.mp3"
+                               length="20398305"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:30:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the administration of state government.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:53</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Swasth me sarkar ki bhoomika]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-2-Swasth-me-sarkar-ki-bhoomika-5ba1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Swasth-me-sarkar-ki-bhoomika-5ba1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Swasth-me-sarkar-ki-bhoomika-5ba1.mp3"
+                               length="27035126"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:29:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the role of state government in healthcare.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:13</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Bhartiya loktantra Mein samanta]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-civics-c58d13a0b                    /episode/Ch-1-Bhartiya-loktantra-Mein-samanta-f1a6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Bhartiya-loktantra-Mein-samanta-f1a6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Bhartiya-loktantra-Mein-samanta-f1a6.mp3"
+                               length="19738573"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:29:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discuss about the equality and the discrimination that is happening in the Indian democracy.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>42:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

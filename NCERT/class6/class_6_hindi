@@ -1,0 +1,592 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 6 Hindi]]></title>
+        <description><![CDATA[Class 6 Hindi]]></description>
+        <link>
+        http://www.podcasts.com/cbse-class-e-hindi-2aa763838</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:48:25 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:48:25 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[Rimjhim]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_153746_0000.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[ Ch 17 SAAS SAAS me baas Part  2]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/-Ch-17-SAAS-SAAS-me-baas-Part-2-1f96</link>
+                    <guid>http://awscdn.podcasts.com/-Ch-17-SAAS-SAAS-me-baas-Part-2-1f96.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/-Ch-17-SAAS-SAAS-me-baas-Part-2-1f96.mp3"
+                               length="13035090"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:50:04 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Excercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:38</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 17 SAAS SAAS me baas Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-17-SAAS-SAAS-me-baas-Part-1-c26a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-17-SAAS-SAAS-me-baas-Part-1-c26a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-17-SAAS-SAAS-me-baas-Part-1-c26a.mp3"
+                               length="12968950"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:48:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[ SAAS SAAS me baas explained                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:27</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 Naukar (Nibandh) Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-15-Naukar-Nibandh-Part-3-e580</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-Naukar-Nibandh-Part-3-e580.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-Naukar-Nibandh-Part-3-e580.mp3"
+                               length="14296852"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 06:53:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Gandhi ki acchi aadatey                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 Naukar (Nibandh) Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-15-Naukar-Nibandh-Part-2-fa72</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-Naukar-Nibandh-Part-2-fa72.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-Naukar-Nibandh-Part-2-fa72.mp3"
+                               length="13857833"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 05:56:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ????????????? ?????? ???? ????? ???                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:13</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 Naukar (Nibandh) Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-15-Naukar-Nibandh-Part-1-1004</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-Naukar-Nibandh-Part-1-1004.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-Naukar-Nibandh-Part-1-1004.mp3"
+                               length="13096858"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 05:53:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ????????????? ?????? ???? ????? ???                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:26</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14 Lokgeet (Nibandh) Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-14-Lokgeet-Nibandh-Part-2-38c5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14-Lokgeet-Nibandh-Part-2-38c5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14-Lokgeet-Nibandh-Part-2-38c5.mp3"
+                               length="12811131"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 05:49:32 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Lokgeet (Nibandh)                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14 Lokgeet (Nibandh) Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-14-Lokgeet-Nibandh-Part-1-935e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14-Lokgeet-Nibandh-Part-1-935e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14-Lokgeet-Nibandh-Part-1-935e.mp3"
+                               length="12981197"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 05:44:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Lokgeet (Nibandh)                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Rumeeza                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 13 Main Sabse Chhoti Hoyun (Kavita)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-13-Main-Sabse-Chhoti-Hoyun-Kavita-3b97</link>
+                    <guid>http://awscdn.podcasts.com/Ch-13-Main-Sabse-Chhoti-Hoyun-Kavita-3b97.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-13-Main-Sabse-Chhoti-Hoyun-Kavita-3b97.mp3"
+                               length="18420705"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 09:08:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[??? ???? ???? ???? ????? ?? ???:â€“ ???????? ????? ??? ?? ?????? ???? ??? ?? ???? ???? ????? ???? ?? ????? ???? ??? ??? ???? ?? ?? ??? ???? ??? ?? ????? ?? ????? ???? ?????? ... ??? ???? ?? ?? ?? ???? ???? ????, ?? ??? ???? ???? ???? ????? ?????? ???? ??                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 12 Sansaar Pustak Hai (Patr)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-12-Sansaar-Pustak-Hai-Patr-33b8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12-Sansaar-Pustak-Hai-Patr-33b8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12-Sansaar-Pustak-Hai-Patr-33b8.mp3"
+                               length="15351316"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 09:06:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Nehru to his daughter                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:13</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 Jo Dekh kar bhi nahi dekhte (Nibandh)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-11-Jo-Dekh-kar-bhi-nahi-dekhte-Nibandh-0a20</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11-Jo-Dekh-kar-bhi-nahi-dekhte-Nibandh-0a20.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11-Jo-Dekh-kar-bhi-nahi-dekhte-Nibandh-0a20.mp3"
+                               length="19474309"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 09:04:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Helen Keller                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Jhansi ki Rani (Kahaani)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-10-Jhansi-ki-Rani-Kahaani-859b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Jhansi-ki-Rani-Kahaani-859b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Jhansi-ki-Rani-Kahaani-859b.mp3"
+                               length="20874465"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 09:01:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Subhadra Kumari Chauhan                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:51</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Ticket-Album (Kahaani)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-9-Ticket-Album-Kahaani-4c2b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Ticket-Album-Kahaani-4c2b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Ticket-Album-Kahaani-4c2b.mp3"
+                               length="19424768"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:56:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Ticket-Album (Kahaani)                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:10</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Ese-ese (Ekanki)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-8-Ese-ese-Ekanki-2945</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Ese-ese-Ekanki-2945.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Ese-ese-Ekanki-2945.mp3"
+                               length="20957573"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:51:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Vishnu Prabhakar                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:00</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Sathi Hath Badhana (Geet)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-7-Sathi-Hath-Badhana-Geet-cb61</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Sathi-Hath-Badhana-Geet-cb61.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Sathi-Hath-Badhana-Geet-cb61.mp3"
+                               length="21272453"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:50:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Sahir Ludhiyanvi.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:01</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Paar Nazar ke (Kahaani)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-6-Paar-Nazar-ke-Kahaani-528e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Paar-Nazar-ke-Kahaani-528e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Paar-Nazar-ke-Kahaani-528e.mp3"
+                               length="23365786"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:44:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Jayant Vishnu Narlikar                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:13</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Aksharo ka Mahatva (Nibandh)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-5-Aksharo-ka-Mahatva-Nibandh-2423</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Aksharo-ka-Mahatva-Nibandh-2423.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Aksharo-ka-Mahatva-Nibandh-2423.mp3"
+                               length="19727411"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:42:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[????? ????? ??????? ?? ????-?????? ???? ?? ???? ???? ??????? ?? ???? ?? ?? ?????? ?? ?????? ???? ?? ???? ???? ?????? ?????? ?? ??? ????? ??, ??????? ?? ??? ????? ?? ???? ??? ?? ?? ?? ?? ????? ?? ??????? ?? ??? ?????? ?? ?? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:32</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Chand Se Thodi si Gappe (Kavita)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-4-Chand-Se-Thodi-si-Gappe-Kavita-91e6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Chand-Se-Thodi-si-Gappe-Kavita-91e6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Chand-Se-Thodi-si-Gappe-Kavita-91e6.mp3"
+                               length="18943642"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:34:36 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Shamsher Bahadur Singh.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:54</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Nadan Dost (Kahaani)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-3-Nadan-Dost-Kahaani-f3d3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Nadan-Dost-Kahaani-f3d3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Nadan-Dost-Kahaani-f3d3.mp3"
+                               length="22831524"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:31:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Written by Premchand                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Bachpan (Sansmaran)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-2-Bachpan-Sansmaran-f810</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Bachpan-Sansmaran-f810.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Bachpan-Sansmaran-f810.mp3"
+                               length="24737341"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:27:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The full Chapter has been covered along with the question-answer and grammar part given at the end of the chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:15</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Vah Chidiya Jo (Kavita)]]></title>
+                    <link>
+                    http://www.podcasts.com/cbse-class-e-hindi-2aa763838                    /episode/Ch-1-Vah-Chidiya-Jo-Kavita-e903</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Vah-Chidiya-Jo-Kavita-e903.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Vah-Chidiya-Jo-Kavita-e903.mp3"
+                               length="20334899"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 08:21:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The whole poem has been explained in simple language and Visheshan Vishehya grammar part is also explained in the end of the audio.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Saksham                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

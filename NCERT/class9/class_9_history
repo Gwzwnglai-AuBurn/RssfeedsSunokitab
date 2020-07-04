@@ -1,0 +1,704 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 9 History]]></title>
+        <description><![CDATA[NCERT Class 9 History]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-9-history-c8562166c</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:12:06 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:12:06 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_123028_0005.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 5 Aadhunik vishwa me charwaahe Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-4-be0a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-4-be0a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-4-be0a.mp3"
+                               length="19352044"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:36:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the tribes of Africa.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:55</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Aadhunik vishwa me charwaahe Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-3-fa10</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-3-fa10.mp3</guid>
+                    <description>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-3-fa10.mp3"
+                               length="14788731"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:35:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the changes that took place due to new laws by British government.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Aadhunik vishwa me charwaahe Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-2-0df5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-2-0df5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-2-0df5.mp3"
+                               length="17140828"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:35:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the life of nomadic tribes.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:17</itunes:duration>
+                    <itunes:keywords><![CDATA[, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Aadhunik vishwa me charwaahe Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-1-7171</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-1-7171.mp3</guid>
+                    <description>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Aadhunik-vishwa-me-charwaahe-Part-1-7171.mp3"
+                               length="16122921"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:35:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the tribes of Africa.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:03</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Vanya samaj aur upniveshwaad Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-3-ea39</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-3-ea39.mp3</guid>
+                    <description>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-3-ea39.mp3"
+                               length="22047867"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:34:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the protest of forest people and changes that took place in jungles of java.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught By Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:58</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Vanya samaj aur upniveshwaad Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-2-5bf2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-2-5bf2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-2-5bf2.mp3"
+                               length="17414861"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:01:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the commercialization of forest.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:11</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Vanya samaj aur upniveshwaad Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-1--1dba</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-1--1dba.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Vanya-samaj-aur-upniveshwaad-Part-1--1dba.mp3"
+                               length="15441705"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:00:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the reasons for the cutting down of forests.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:21</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Naatsiwaad aur Hitlar ka Uday Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-6-2adf</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-6-2adf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-6-2adf.mp3"
+                               length="21163182"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 11:59:09 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the conclusion of the chapter and questions and answers.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:47</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Naatsiwaad aur Hitlar ka Uday Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-5-4fc9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-5-4fc9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-5-4fc9.mp3"
+                               length="15127091"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 11:58:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the establishment of racial state and racial utopia.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Naatsiwaad aur Hitlar ka Uday Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-4-7b72</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-4-7b72.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-4-7b72.mp3"
+                               length="16611564"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 11:57:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Ch 3 Naatsiwaad aur Hitlar ka Uday Part 3                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:34</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Naatsiwaad aur Hitlar ka Uday Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-3-d04f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-3-d04f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-3-d04f.mp3"
+                               length="20782858"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 11:56:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the abolition of democracy.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:07</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Naatsiwaad aur Hitlar ka Uday Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-2-88c1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-2-88c1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Diyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-2-88c1.mp3"
+                               length="20900680"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 11:54:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the rise of hitler .                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Diyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Naatsiwaad aur Hitlar ka Uday Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-1-f7cd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-1-f7cd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Naatsiwaad-aur-Hitlar-ka-Uday-Part-1-f7cd.mp3"
+                               length="19897303"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 11:54:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the condition of the Germany after get defeated by the allied powers.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:24</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Europe me Samajwaad Evam Rusi Kranti Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-6-69bb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-6-69bb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-6-69bb.mp3"
+                               length="27009556"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 13 Jun 2020 14:23:33 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the effects of Russian revolution and the Soviet Union.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:31</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Europe me Samajwaad Evam Rusi Kranti Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-5-cd23</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-5-cd23.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-5-cd23.mp3"
+                               length="21525156"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 13 Jun 2020 14:21:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the civil war that took place in Russia.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:20</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Europe me Samajwaad Evam Rusi Kranti Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-4-599c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-4-599c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-4-599c.mp3"
+                               length="21525156"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 13 Jun 2020 14:18:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the October revolution.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:20</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Europe me Samajwaad Evam Rusi Kranti Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-3-4519</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-3-4519.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-3-4519.mp3"
+                               length="18892093"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 13 Jun 2020 14:16:48 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the turbulent time and the first world war and the Russian Empire.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:25</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Europe me Samajwaad Evam Rusi Kranti Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-2-cff9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-2-cff9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-2-cff9.mp3"
+                               length="18308823"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 13 Jun 2020 14:12:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the Russian revolution.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:26</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Europe me Samajwaad Evam Rusi Kranti Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-1-b629</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-1-b629.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Europe-me-Samajwaad-Evam-Rusi-Kranti-Part-1-b629.mp3"
+                               length="20460923"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 13 Jun 2020 14:10:19 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the age of social change in Russia.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:58</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Fransisi Kranti Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-1-Fransisi-Kranti-Part-5-074a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-5-074a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-5-074a.mp3"
+                               length="23309271"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:10:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the freedom from bondage labor and revolution and daily life.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:57</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Fransisi Kranti Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-1-Fransisi-Kranti-Part-4-1867</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-4-1867.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-4-1867.mp3"
+                               length="20037294"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:09:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the women's revolution in the France society.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Fransisi Kranti Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-1-Fransisi-Kranti-Part-3-0b66</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-3-0b66.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-3-0b66.mp3"
+                               length="21409884"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:08:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the abolition of the monarchy and the establishment of democracy.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:12</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Fransisi Kranti Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-1-Fransisi-Kranti-Part-2-7423</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-2-7423.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Fransisi-Kranti-Part-2-7423.mp3"
+                               length="20919951"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:08:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the outbreak of the French revolution.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:54</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Fransisi Kranti Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-history-c8562166c                    /episode/Ch-1-Francici-Kranti-Part-1-da29</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Francici-Kranti-Part-1-da29.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Francici-Kranti-Part-1-da29.mp3"
+                               length="19900692"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 10:14:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This Roshan discusses the olden ruling system in France.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:10</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 9 History]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

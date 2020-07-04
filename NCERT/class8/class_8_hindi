@@ -1,0 +1,564 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 8 Hindi]]></title>
+        <description><![CDATA[Hindi]]></description>
+        <link>
+        http://www.podcasts.com/class-8-honeydew-201dba09c</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:01:56 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:01:56 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_103917_0000.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 18 à¤Ÿà¥‹à¤ªà¥€]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-18--bf43</link>
+                    <guid>http://awscdn.podcasts.com/Ch-18--bf43.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-18--bf43.mp3"
+                               length="21595812"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:56:32 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?????? ?? ????? ?? ?? ??? ?????? ?? ?? ???? ??? ???? ?? ???? ?? ?? ??????? ???? ?????? ?? ?? ???? ?? ??? ???? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 17 à¤¬à¤¾à¤œà¤¼ à¤”à¤° à¤¸à¤¾à¤‚à¤ª]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-17--5f32</link>
+                    <guid>http://awscdn.podcasts.com/Ch-17--5f32.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-17--5f32.mp3"
+                               length="20467354"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:55:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?? ???? ?? ????? ??, ???? ???? ???? ?? ????? ????? ?? ?????? ??? ??? ??? ???? ??????? ?? ????? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:16</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 16 à¤ªà¤¾à¤¨à¥€ à¤•à¥€ à¤•à¤¹à¤¾à¤¨à¥€]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-16--4418</link>
+                    <guid>http://awscdn.podcasts.com/Ch-16--4418.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-16--4418.mp3"
+                               length="19891405"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:54:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?? ???? ?? ????? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:25</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 à¤¸à¥‚à¤° à¤•à¥‡ à¤ªà¤¦]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-15--8095</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15--8095.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                                ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15--8095.mp3"
+                               length="17130301"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:52:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ????? ?? ??? ?????? ?? ????? ???? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:10</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14 à¤…à¤•à¤¬à¤°à¥€ à¤²à¥‹à¤Ÿà¤¾]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-14--9683</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14--9683.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14--9683.mp3"
+                               length="23368090"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:50:59 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?????? ?? ????? ?? ????? ????? ?????? ??? ?? ???? ?????? ?? ??? ?????-???? ???????????? ???? ????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 13 à¤œà¤¹à¤¾à¤‚ à¤ªà¤¹à¤¿à¤¯à¤¾ à¤¹à¥ˆ]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-13--a93e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-13--a93e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archna                                ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-13--a93e.mp3"
+                               length="18654679"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 08:49:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?????????? ???? ?? ??????? ?? ????? ?? ????????? ?????? ??? ?? ?? ?? ??????? ?????? ?? ?????? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:42</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 12 à¤¸à¥à¤¦à¤¾à¤®à¤¾ à¤šà¤°à¤¿à¤¤]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-12--ac48</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12--ac48.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12--ac48.mp3"
+                               length="21686764"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:59:02 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[????? ?????? ?? ??????? ?? ????? ??????? ?? ??? ??? ???????? ???? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:49</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 à¤œà¤¬ à¤¸à¤¿à¤¨à¥‡à¤®à¤¾ à¤¨à¥‡ à¤¬à¥‹à¤²à¤¨à¤¾ à¤¸à¥€à¤–à¤¾]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-11--06ce</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11--06ce.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11--06ce.mp3"
+                               length="21496494"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:57:51 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[1931 ??? ???? ????? ????? &quot;??? ???&quot; ???? ???? ???? ?? ??????? ??? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:50</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 à¤•à¤¾à¤®à¤šà¥‹à¤°]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-10--a089</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10--a089.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10--a089.mp3"
+                               length="19397775"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:56:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?? ??? ?? ?? ???? ?? ?????? ?????? ?? ????? ?? ?? ??? ???? ???? ???? ?? ???? ???? ?????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 à¤•à¤¬à¥€à¤° à¤•à¥€ à¤¸à¤¾à¤–à¤¿à¤¯à¤¾à¤‚]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-9--6950</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9--6950.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9--6950.mp3"
+                               length="20889324"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:52:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[???? ??? ?? ?? ????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 à¤¯à¤¹ à¤¸à¤¬à¤¸à¥‡ à¤•à¤ à¤¿à¤¨ à¤¸à¤®à¤¯ à¤¨à¤¹à¥€à¤‚]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-8--9a8d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8--9a8d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8--9a8d.mp3"
+                               length="17013176"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:51:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ????? ??? ?????? ?? ???? ?????? ??? ???? ??? ?????? ?? ??? ?? ????? ???? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:43</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 à¤•à¥à¤¯à¤¾ à¤¨à¤¿à¤°à¤¾à¤¶ à¤¹à¥à¤† à¤œà¤¾à¤]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-7--4186</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7--4186.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7--4186.mp3"
+                               length="19212032"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:50:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?? ????? ?? ???? ????????? ?????? ?? ?????? ????????? ?????? ?? ????? ???? ??????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:28</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 à¤­à¤—à¤µà¤¾à¤¨ à¤•à¥‡ à¤¡à¤¾à¤•à¤¿à¤]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-6--827b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6--827b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6--827b.mp3"
+                               length="16027013"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:49:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ????? ??? ??? ???? ??? ?? ????? ?? ???? ????? ?? ????? ??? ?? ??????? ???? ?? ??? ?????? ???? ????, ?????? ?? ?? ??? ?? ???? ?? ????? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:06</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 à¤šà¤¿à¤Ÿà¥à¤ à¤¿à¤¯à¥‹à¤‚ à¤•à¥€ à¤…à¤¨à¥‚à¤ à¥€ à¤¦à¥à¤¨à¤¿à¤¯à¤¾]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-5--7f78</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5--7f78.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5--7f78.mp3"
+                               length="22709770"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:48:43 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ?????? ??? ???? ?? ????? ?? ?? ????? ?? ?????? ???? ?????? ???? ?? ?????? ?? ???? ?? ???????? ?? ???? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Arachna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:53</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 à¤¦à¥€à¤µà¤¾à¤¨à¥‹à¤‚ à¤•à¥€ à¤¹à¤¸à¥à¤¤à¥€]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-4--5736</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4--5736.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4--5736.mp3"
+                               length="14770401"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:46:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ????? ??? ??? ?? ???? ???? ??? ??? ?? ???? ??? ?? ??????? ?????? ?? ??? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:06</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤¬à¤¸ à¤•à¥€ à¤¯à¤¾à¤¤à¥à¤°à¤¾]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-3--1990</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3--1990.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3--1990.mp3"
+                               length="18534605"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:36:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?? ?? ?? ?? ???? ?? ?????????? ??? ?? ???????? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:07</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 à¤¬à¤¸ à¤•à¥€ à¤¯à¤¾à¤¤à¥à¤°à¤¾]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-3--28ea</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3--28ea.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3--28ea.mp3"
+                               length="18534605"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:31:56 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ????? ??? ??? ?? ???? ???? ??? ??? ?? ???? ??? ?? ??????? ?????? ?? ??? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:07</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤²à¤¾à¤– à¤•à¥€ à¤šà¥‚à¤¡à¤¼à¤¿à¤¯à¤¾à¤]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch-2--955d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2--955d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2--955d.mp3"
+                               length="23160556"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 12:31:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?? ????? ??? ?? ?? ???????? ?? ????? ?? ????? ?? ?????? ??? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:25</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤§à¥à¤µà¤¨à¤¿]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-honeydew-201dba09c                    /episode/Ch--34f0</link>
+                    <guid>http://awscdn.podcasts.com/Ch--34f0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch--34f0.mp3"
+                               length="18816655"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 May 2020 11:43:59 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?? ????? ??? ?? ?? ???????? ?? ????? ?? ????? ?? ?????? ??? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:06</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

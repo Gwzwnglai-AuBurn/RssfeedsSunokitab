@@ -1,0 +1,116 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 4 Hindi]]></title>
+        <description><![CDATA[NCERT Class 4 Hindi]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-4-hindi-9cd06f9ed</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:39:11 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:39:11 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200701_162640_0008.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[à¤ªà¤¾à¤  3 à¤•à¤¿à¤°à¤®à¤¿à¤š à¤•à¥€ à¤—à¥‡à¤‚à¤¦ à¤­à¤¾à¤— 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-4-hindi-9cd06f9ed                    /episode/-3-1-2943</link>
+                    <guid>http://awscdn.podcasts.com/-3-1-2943.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vineet                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/-3-1-2943.mp3"
+                               length="15163464"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:18:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Honesty is the best policy                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vineet                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:19</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[à¤ªà¤¾à¤  2 à¤œà¥ˆà¤¸à¤¾ à¤¸à¤µà¤¾à¤² à¤µà¥ˆà¤¸à¤¾ à¤œà¤µà¤¾à¤¬ ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-4-hindi-9cd06f9ed                    /episode/-2--e3f5</link>
+                    <guid>http://awscdn.podcasts.com/-2--e3f5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vineet                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/-2--e3f5.mp3"
+                               length="11763200"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:16:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ???? ???? ?? ???? ?? ???? ?? ?? ??? ???? ???? ???                          ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vineet                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:24</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[à¤ªà¤¾à¤  1 à¤®à¤¨ à¤•à¥‡ à¤­à¥‹à¤²à¥‡ à¤­à¤²à¥‡ à¤¬à¤¾à¤¦à¤²]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-4-hindi-9cd06f9ed                    /episode/-1--2bff</link>
+                    <guid>http://awscdn.podcasts.com/-1--2bff.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/-1--2bff.mp3"
+                               length="14917642"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 13:14:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It's about cloud and rain .                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:13</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

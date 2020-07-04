@@ -1,0 +1,424 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 10 Civics]]></title>
+        <description><![CDATA[NCERT Class 10 Civics]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-10-civics-cc4e57de4</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 18:25:13 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 18:25:13 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/Class_10_Civics_(1).png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 7 Loktantra ka parinam Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-7-Loktantra-ka-parinam-Part-1-6ab2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Loktantra-ka-parinam-Part-1-6ab2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Loktantra-ka-parinam-Part-1-6ab2.mp3"
+                               length="15555523"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:54:48 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Results of democracy and its various part are discussed in this audio.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:58</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Rajnitik Dal Part  3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-6-Rajnitik-Dal-Part-3-c19f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Rajnitik-Dal-Part-3-c19f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Rajnitik-Dal-Part-3-c19f.mp3"
+                               length="15039365"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:23:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Challenges in front of political parties and how can we improve the work of political parties are discussed.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:59</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Rajnitik Dal Part  2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-6-Rajnitik-Dal-Part-2-f4b8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Rajnitik-Dal-Part-2-f4b8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Rajnitik-Dal-Part-2-f4b8.mp3"
+                               length="30076836"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:20:09 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Why political parties are important is discussed in this audio.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:05</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Rajnitik Dal Part  1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-6-Rajnitik-Dal-Part-1-5c7d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Rajnitik-Dal-Part-1-5c7d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Rajnitik-Dal-Part-1-5c7d.mp3"
+                               length="30147584"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:16:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed political parties and their works.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Jansangharsh Aur Aandolan Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-5-Jansangharsh-Aur-Aandolan-Part-2-7999</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Jansangharsh-Aur-Aandolan-Part-2-7999.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Jansangharsh-Aur-Aandolan-Part-2-7999.mp3"
+                               length="30740193"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:02:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed on public conflicts and movement.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:25</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Jansangharsh Aur Aandolan Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-5-Jansangharsh-Aur-Aandolan-Part-1-432c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Jansangharsh-Aur-Aandolan-Part-1-432c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Jansangharsh-Aur-Aandolan-Part-1-432c.mp3"
+                               length="14919240"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 10:58:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Public movement and function of pressure groups are discussed.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:35</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Jati Dharm Aur Langik masle Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-4-Jati-Dharm-Aur-Langik-masle-Part-2-95bc</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Jati-Dharm-Aur-Langik-masle-Part-2-95bc.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Jati-Dharm-Aur-Langik-masle-Part-2-95bc.mp3"
+                               length="15871314"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 10:57:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed cast and its relationship with political parties and politics.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:58</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Jati Dharm Aur Langik masle Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-4-Jati-Dharm-Aur-Langik-masle-Part-1-ee1f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Jati-Dharm-Aur-Langik-masle-Part-1-ee1f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Jati-Dharm-Aur-Langik-masle-Part-1-ee1f.mp3"
+                               length="17998029"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 10:55:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have talked about cast religion and its impact on society.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Loktantra main vividhta Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-3-Loktantra-main-vividhta-Part-2-bbeb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Loktantra-main-vividhta-Part-2-bbeb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Loktantra-main-vividhta-Part-2-bbeb.mp3"
+                               length="19000576"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:08:33 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Social discrimination and its impact on politics are discussed in this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:10</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Loktantra main vividhta Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-3-Loktantra-main-vividhta-Part-1--4c3a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Loktantra-main-vividhta-Part-1--4c3a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Loktantra-main-vividhta-Part-1--4c3a.mp3"
+                               length="16026204"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:07:49 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Diversity in democracy and its various parts are discussed in this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:31</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Sanghwad Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-2-Sanghwad-Part-2-6212</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Sanghwad-Part-2-6212.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Sanghwad-Part-2-6212.mp3"
+                               length="18739098"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:06:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Federalism and its implementation. Its challenges and achievements.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:10</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Sanghwad Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-2-Sanghwad-Part-1-6168</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Sanghwad-Part-1-6168.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Sanghwad-Part-1-6168.mp3"
+                               length="14343352"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:05:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Federalism is discussed in this audio and its various part.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:31</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Sata ki sajhedari Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-1-Sata-ki-sajhedari-Part-2-545a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Sata-ki-sajhedari-Part-2-545a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Sata-ki-sajhedari-Part-2-545a.mp3"
+                               length="18912993"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:05:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Participation in government is necessary and why should we adopt it.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Sata ki sajhedari Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-civics-cc4e57de4                    /episode/Ch-1-Sata-ki-sajhedari-Part-1-19bf</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Sata-ki-sajhedari-Part-1-19bf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Sata-ki-sajhedari-Part-1-19bf.mp3"
+                               length="22138962"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:03:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Participation in government is necessary and why should we adopt it.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Civics]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

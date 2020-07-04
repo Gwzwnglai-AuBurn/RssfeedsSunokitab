@@ -1,0 +1,316 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 8 Geography]]></title>
+        <description><![CDATA[NCERT Class 7 Civics]]></description>
+        <link>
+        http://www.podcasts.com/class-8-science-f6973a54c</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:01:19 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:01:19 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_103917_0005.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Geo Ch 6 à¤®à¤¾à¤¨à¤µ à¤¸à¤‚à¤¸à¤¾à¤§à¤¨ ]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-6-Part-1-c49f</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-6-Part-1-c49f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-6-Part-1-c49f.mp3"
+                               length="17602017"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 04:31:46 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Human resources 
+-Importance and significance 
+-distribution of human resource 
+-factors of distribution 
+-population 
+-final analysis                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:43</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 5 à¤‰à¤¦à¥à¤¯à¥‹à¤— Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-5-Part-2-f93a</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-5-Part-2-f93a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-5-Part-2-f93a.mp3"
+                               length="27321108"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 04:30:43 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The chapter is related to:
+-significance of industry 
+-functions of the secondary sector 
+-areas of functions 
+-and it's overall impact.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 5 à¤‰à¤¦à¥à¤¯à¥‹à¤— Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-5-Part-1-3c11</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-5-Part-1-3c11.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-5-Part-1-3c11.mp3"
+                               length="27387146"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 04:29:47 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The chapter is related to:
+-significance of industry 
+-functions of the secondary sector 
+-areas of functions 
+-and it's overall impact.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:32</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 4 à¤•à¥ƒà¤·à¤¿]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-4--3f6c</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-4--3f6c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-4--3f6c.mp3"
+                               length="34897039"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 04:28:32 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Agriculture 
+-Introduction 
+-Importance 
+-Type 
+-Variety and Reasons
+-Green Revolution and impact
+- Government initiatives
+-New ideas                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:21</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 3 à¤–à¤¨à¤¿à¤œ à¤”à¤° à¤¶à¤•à¥à¤¤à¤¿ à¤¸à¤‚à¤¸à¤¾à¤§à¤¨ Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-3-Part-2-f65d</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-3-Part-2-f65d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-3-Part-2-f65d.mp3"
+                               length="15270031"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 04:25:17 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Renewable sources of energy. 
+-solar energy 
+-water energy 
+-wind energy 
+-thermal energy 
+-atomic energy 
+-biogas                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 3 à¤–à¤¨à¤¿à¤œ à¤”à¤° à¤¶à¤•à¥à¤¤à¤¿ à¤¸à¤‚à¤¸à¤¾à¤§à¤¨ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-3-Part-1-8d7e</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-3-Part-1-8d7e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-3-Part-1-8d7e.mp3"
+                               length="16846930"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 02 Nov 2019 05:55:38 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;Main pointers of this chapter are as follows:-
+- Raw resources
+-classification of natural resources in two parts. 1. Metallic 2. Non-Metallic  
+-significance of these resources. 
+-uses and preservation.
+-Source of energy.
+-sources of energy 1. Conventio                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:11</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 2 à¤­à¥‚à¤®à¤¿, à¤®à¥ƒà¤¦à¤¾, à¤œà¤² ,à¤ªà¥à¤°à¤¾à¤•à¥ƒà¤¤à¤¿à¤• à¤µà¤¨à¤¸à¥à¤ªà¤¤à¤¿ à¤à¤µà¤‚ à¤µà¤¨à¥à¤¯ à¤œà¥€à¤µà¤¨ à¤¸à¤‚à¤¸à¤¾à¤§à¤¨ Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-2-Part-2-9697</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-2-Part-2-9697.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-2-Part-2-9697.mp3"
+                               length="17022413"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 02 Nov 2019 04:24:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The chapter is related to the use, importance, and conservation of Natural resources and impact on the environment.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:59</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 2 à¤­à¥‚à¤®à¤¿, à¤®à¥ƒà¤¦à¤¾, à¤œà¤² ,à¤ªà¥à¤°à¤¾à¤•à¥ƒà¤¤à¤¿à¤• à¤µà¤¨à¤¸à¥à¤ªà¤¤à¤¿ à¤à¤µà¤‚ à¤µà¤¨à¥à¤¯ à¤œà¥€à¤µà¤¨ à¤¸à¤‚à¤¸à¤¾à¤§à¤¨ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-2-Part-1-01d1</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-2-Part-1-01d1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-2-Part-1-01d1.mp3"
+                               length="19945021"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 02 Nov 2019 04:23:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The chapter is related to the use, importance, and conservation of Natural resources and impact on the environment.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:32</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Geo Ch 1 à¤¸à¤‚à¤¸à¤¾à¤§à¤¨]]></title>
+                    <link>
+                    http://www.podcasts.com/class-8-science-f6973a54c                    /episode/Geo-Ch-1--7b23</link>
+                    <guid>http://awscdn.podcasts.com/Geo-Ch-1--7b23.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Geo-Ch-1--7b23.mp3"
+                               length="18400174"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 02 Nov 2019 04:21:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?????? ?? ??? ????? ?? ????? ????? ?????? ???? ??? ?? ???? ???? ??? ??? ????? ??????? ??? ?? ???? ?? ????? ?? ?????? ??? ?? ????? ?? ?????? ?? ???? ?? ?? ?????? ?? ???? ??????? ????? ?? ???? ??? ????? ???? ?? ?? ?? ?? ??? ??????? ???? ???? ???? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Jyoti                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:22</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

@@ -1,0 +1,537 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 12 Vistas]]></title>
+        <description><![CDATA[NCERT Class 12 Vistas]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-12-vistas-bc3767364</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 19:01:37 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 19:01:37 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200530_211232_0001.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 8 Memories of childhood ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-8-Memories-of-childhood--78a3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Memories-of-childhood--78a3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Memories-of-childhood--78a3.mp3"
+                               length="17899438"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:33:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The two extracts which belong to these two episodes that deal with the lives of two women whose names are Zitkala Sa and Bama tells us how both of them had to face hardship and are victims of social discrimination                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:16</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Evans tries an O level Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-7-Evans-tries-an-O-level-Part-4-0bfe</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-4-0bfe.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-4-0bfe.mp3"
+                               length="15007416"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:32:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is about Evan who was also called 'The Break'. This time he plans his escape through his German examination.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Evans tries an O level Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-7-Evans-tries-an-O-level-Part-3-e1b5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-3-e1b5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-3-e1b5.mp3"
+                               length="11658772"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:31:14 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is about Evan who was also called 'The Break'. This time he plans his escape through his German examination.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:58</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Evans tries an O level Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-7-Evans-tries-an-O-level-Part-2-8e8d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-2-8e8d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-2-8e8d.mp3"
+                               length="18416855"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:29:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is about Evan who was also called 'The Break'. This time he plans his escape through his German examination.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:03</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Evans tries an O level Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-7-Evans-tries-an-O-level-Part-1-5909</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-1-5909.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Evans-tries-an-O-level-Part-1-5909.mp3"
+                               length="14417070"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:28:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is about Evan who was also called 'The Break'. He plans his escape plam through his German examination                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 On the face of it Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-6-On-the-face-of-it-Part-2-d4ff</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-On-the-face-of-it-Part-2-d4ff.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-On-the-face-of-it-Part-2-d4ff.mp3"
+                               length="16910592"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:22:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is about Evan who was also called 'The Break'. This time he plans his escape through his German examination.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:03</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 On the face of it Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-6-On-the-face-of-it-Part-1-259e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-On-the-face-of-it-Part-1-259e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-On-the-face-of-it-Part-1-259e.mp3"
+                               length="19442883"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:21:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It is about the friendship between a young boy, Derry and an old man, Mr. Lamb. Because of his facial scar, he is very upset and feels that people do not want to associate with him.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>43:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Should wizard hit mommy? ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-5-Should-wizard-hit-mommy--6737</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Should-wizard-hit-mommy--6737.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Should-wizard-hit-mommy--6737.mp3"
+                               length="20127263"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:19:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The story raises a moral issue if the parents should always decide what the children should do or let the children do what they like to do.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:25</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 The enemy Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-4-The-enemy-Part-5-02aa</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-enemy-Part-5-02aa.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-enemy-Part-5-02aa.mp3"
+                               length="20587735"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:17:56 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A man is trapped between the duty that he has towards his country and as a doctor, when  a man is swept offshore near his house                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:38</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 The enemy Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-4-The-enemy-Part-4-f0d4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-enemy-Part-4-f0d4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aman                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-enemy-Part-4-f0d4.mp3"
+                               length="16345733"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:16:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A man is trapped between the duty that he has towards his country and as a doctor, when  a man is swept offshore near his house                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aman                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 The enemy Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-4-The-enemy-Part-3-33fd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-enemy-Part-3-33fd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-enemy-Part-3-33fd.mp3"
+                               length="13559347"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:14:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A man is trapped between the duty that he has towards his country and as a doctor, when  a man is swept offshore near his house                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:01</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 The enemy Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-4-The-enemy-Part-1-8b37</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-enemy-Part-1-8b37.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-enemy-Part-1-8b37.mp3"
+                               length="14093926"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:13:41 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A man is trapped between the duty that he has towards his country and as a doctor, when  a man is swept offshore near his house.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:12</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 The enemy  Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-4-The-enemy-Part-1-9b79</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-enemy-Part-1-9b79.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-enemy-Part-1-9b79.mp3"
+                               length="13555292"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:12:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A man is trapped between the duty that he has towards his country and as a doctor, when  a man is swept offshore near his house                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:26</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The journey to the end of the world ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-3-The-journey-to-the-end-of-the-world--1c49</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-journey-to-the-end-of-the-world--1c49.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-journey-to-the-end-of-the-world--1c49.mp3"
+                               length="17391780"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:06:29 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Itâ€™s a very wonderful chapter which gives us an insight into the fact that we can feel the impact of the environment sitting in our living room but when we step in Antarctica we understand its reality to the fullest.
+                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:46</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 The tiger king  2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-2-The-third-level-Part-2-be96</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-The-third-level-Part-2-be96.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-The-third-level-Part-2-be96.mp3"
+                               length="17844726"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:01:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is a science fiction where Charlie finds solace in the third level of the Grand Central Station, which didn't actually exist.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:55</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 The tiger king  1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-2-The-third-level-Part-1--7ec7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-The-third-level-Part-1--7ec7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-The-third-level-Part-1--7ec7.mp3"
+                               length="13104302"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:01:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is a science fiction where Charlie finds solace in the third level of the Grand Central Station, which didn't actually exist.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:11</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 The Third Level Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-1-The-Third-Level-Part-2-5aaa</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-Third-Level-Part-2-5aaa.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-Third-Level-Part-2-5aaa.mp3"
+                               length="16044257"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 07:32:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is a science fiction where Charlie finds solace in the third level of the Grand Central Station, which didn't actually exist.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 The Third Level Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-12-vistas-bc3767364                    /episode/Ch-1-The-Third-Level-Part-1-a013</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-Third-Level-Part-1-a013.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-Third-Level-Part-1-a013.mp3"
+                               length="13913283"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 07:28:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This story is a science fiction where Charlie finds solace in the third level of the Grand Central Station, which didn't actually exist.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:08</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 12 Vistas]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

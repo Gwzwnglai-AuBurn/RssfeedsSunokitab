@@ -1,0 +1,2328 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 10 Science]]></title>
+        <description><![CDATA[NCERT Class 10 Science]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-10-science-cb224f1dc</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 18:28:19 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 18:28:19 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 9 Heredity and Evolution  Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-9-Heredity-and-Evolution-Part-3-b545</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Heredity-and-Evolution-Part-3-b545.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Heredity-and-Evolution-Part-3-b545.mp3"
+                               length="14277827"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:34:59 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the independent inheritance of two traits and the mechanism through which the traits get expressed in organisms.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Heredity and Evolution  Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-9-Heredity-and-Evolution-Part-2-70f3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Heredity-and-Evolution-Part-2-70f3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Heredity-and-Evolution-Part-2-70f3.mp3"
+                               length="14277704"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:33:41 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the experiment conducted by Mendel using pea plants using single contrasting traits.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Heredity and Evolution  Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-9-Heredity-and-Evolution-Part-1-add8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Heredity-and-Evolution-Part-1-add8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Heredity-and-Evolution-Part-1-add8.mp3"
+                               length="13995571"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:30:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about accumulation of variation during reproduction, inherited traits, and Mendel.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:21</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 How do Organisms Reproduce? Part 7]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-8-How-do-Organisms-Reproduce-Part-7-f9b4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-7-f9b4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-7-f9b4.mp3"
+                               length="13805752"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 20 Jun 2020 11:27:36 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we discuss the exercise questions of the chapter How do Organisms Reproduce?                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:10</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 How do Organisms Reproduce? Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-8-How-do-Organisms-Reproduce-Part-6-94bf</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-6-94bf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-6-94bf.mp3"
+                               length="17106862"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 06:52:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the male and female reproductive systems, fertilization process in humans and reproductive health.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:15</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 How do Organisms Reproduce? Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-8-How-do-Organisms-Reproduce-Part-5-09bb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-5-09bb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-5-09bb.mp3"
+                               length="16381235"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 06:50:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about sexual mode of reproduction in human beings.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:18</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 How do Organisms Reproduce? Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-8-How-do-Organisms-Reproduce-Part-4-8c14</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-4-8c14.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-4-8c14.mp3"
+                               length="14801510"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 06:49:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the sexual mode of reproduction, bisexual plants,  unisexual plants, and various parts of a bisexual flower.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 How do Organisms Reproduce? Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-8-How-do-Organisms-Reproduce-Part-3-6126</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-3-6126.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-3-6126.mp3"
+                               length="14404157"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 06:42:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about vegetative propagation, spore formation, and tissue culture technique.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:12</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 How do Organisms Reproduce? Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-8-How-do-Organisms-Reproduce-Part-2-6036</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-2-6036.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-2-6036.mp3"
+                               length="15264338"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 06:33:26 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we various methods of asexual reproduction in simple organisms.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:09</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 How do Organisms Reproduce? Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-8-How-do-Organisms-Reproduce-Part-1-a9ee</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-1-a9ee.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-How-do-Organisms-Reproduce-Part-1-a9ee.mp3"
+                               length="15569572"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 13:02:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the need for reproduction, we also learn about the importance of variation.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:45</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Control and Coordination Part 7]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-7-Control-and-Coordination-Part-7-dfed</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-7-dfed.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-7-dfed.mp3"
+                               length="16775649"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 12:57:13 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we discuss the solutions to exercise questions of this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:38</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Control and Coordination Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-7-Control-and-Coordination-Part-6-604b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-6-604b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-6-604b.mp3"
+                               length="18607524"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 12:54:09 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the endocrine glands and their secretions in the human body.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:30</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Control and Coordination Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-7-Control-and-Coordination-Part-5-110c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-5-110c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-5-110c.mp3"
+                               length="14845215"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 12:52:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about geotropism, chemotropism, different types of plant hormones.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:55</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Control and Coordination Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-7-Control-and-Coordination-Part-4-5ae5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-4-5ae5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-4-5ae5.mp3"
+                               length="15328850"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 12:42:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about geotropism, chemotropism, different types of plant hormones.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:36</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Control and Coordination Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-7-Control-and-Coordination-Part-3-4841</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-3-4841.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-3-4841.mp3"
+                               length="12094464"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 12:39:37 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the human brain and its associated functions.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:37</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Control and Coordination Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-7-Control-and-Coordination-Part-2-5f2e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-2-5f2e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-2-5f2e.mp3"
+                               length="14665800"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 12:34:31 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the reflex mechanism used by reflex actions of the body.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Control and Coordination Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-7-Control-and-Coordination-Part-1-7c63</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-1-7c63.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Control-and-Coordination-Part-1-7c63.mp3"
+                               length="15894856"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 10 Jun 2020 12:22:30 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the use of neurons and networks of neurons for impulse conduction.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:11</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 10]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-10-8483</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-10-8483.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-10-8483.mp3"
+                               length="21456906"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 07:19:38 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about excretion in human beings and in plants, we also discuss the exercise questions of this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>46:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 9]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-9-be7e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-9-be7e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-9-be7e.mp3"
+                               length="17627167"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 07:10:38 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the transportation mechanism in plants.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 8]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-8-b0d1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-8-b0d1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-8-b0d1.mp3"
+                               length="14112420"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 07:05:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about blood pressure, lymph, blood vessels, and repairing of damaged blood vessels by platelets.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:40</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 7]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-7-ffff</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-7-ffff.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-7-ffff.mp3"
+                               length="15406541"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 07:03:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the human heart, the process of gaseous( oxygen and carbon dioxide)  transportation in the human body                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-6-a76e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-6-a76e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-6-a76e.mp3"
+                               length="18815263"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 07:01:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about respiration in fishes and human beings.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:29</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-5-57aa</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-5-57aa.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-5-57aa.mp3"
+                               length="13845289"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 06:59:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we begin the topic respiration of this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:52</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-4-acde</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-4-acde.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-4-acde.mp3"
+                               length="18050898"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 06 Jun 2020 06:57:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about nutrition in human beings.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:28</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-3-2adc</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-3-2adc.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-3-2adc.mp3"
+                               length="15325655"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:38:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the nutrition in heterotrophic organisms.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-2-b393</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-2-b393.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-2-b393.mp3"
+                               length="15056364"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:38:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about nutrition in autotrophic organisms, photosynthesis in plants.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Life Processes Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-6-Life-Processes-Part-1-8bba</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-1-8bba.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Life-Processes-Part-1-8bba.mp3"
+                               length="16090767"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:55:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the concept and need of life processes.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:43</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Periodic Classification of Elements Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-5-Periodic-Classification-of-Elements-Part-6-185c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-6-185c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-6-185c.mp3"
+                               length="17457592"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:52:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we discuss the solutions to the exercise questions of this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Periodic Classification of Elements Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-5-Periodic-Classification-of-Elements-Part-5-e4b6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-5-e4b6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-5-e4b6.mp3"
+                               length="17391340"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:49:56 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the electronegative character of elements and the changes in it in a group or in a period.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:37</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Periodic Classification of Elements Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-5-Periodic-Classification-of-Elements-Part-4-3978</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-4-3978.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-4-3978.mp3"
+                               length="14849198"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:48:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about certain attributes of the periodic table, we also discuss the concept of valency.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:28</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Periodic Classification of Elements Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-5-Periodic-Classification-of-Elements-Part-3-c8e7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-3-c8e7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-3-c8e7.mp3"
+                               length="17439990"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:47:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the concepts used by Henry Moseley for the positioning of different elements in the periodic table.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:09</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Periodic Classification of Elements Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-5-Periodic-Classification-of-Elements-Part-2-a640</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-2-a640.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-2-a640.mp3"
+                               length="18146847"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:45:30 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the achievements and limitations of Mendeleev's periodic table.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:39</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Periodic Classification of Elements Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-5-Periodic-Classification-of-Elements-Part-1-1685</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-1-1685.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Periodic-Classification-of-Elements-Part-1-1685.mp3"
+                               length="15180769"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:44:20 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about Doberiener triads, Newland's law of octaves, and the basis of Mendeleev's periodic table.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:06</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 15]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-15-1933</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-15-1933.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-15-1933.mp3"
+                               length="22494372"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 31 May 2020 11:42:11 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we discuss the exercise questions of this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>43:21</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 14]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-14-8c4f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-14-8c4f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-14-8c4f.mp3"
+                               length="16542423"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 05:34:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about reaction of ethanoic acid with sodium hydroxide, we also discuss about micelles.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 13]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-13-0ea7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-13-0ea7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-13-0ea7.mp3"
+                               length="21936712"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 05:29:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about ethanol, its properties and some chemical reactions, we also learn about easterification and saponification reactions.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 12]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-12-1cce</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-12-1cce.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-12-1cce.mp3"
+                               length="17462927"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 05:27:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about addition reaction, substitution reaction and we also discuss the in text questions of page number 71.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:08</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 11]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-11-5818</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-11-5818.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-11-5818.mp3"
+                               length="21362186"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 02:24:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about combustion, volatile substances, how fossil fuels are formed.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 10]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-10-7fc9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-10-7fc9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-10-7fc9.mp3"
+                               length="16850586"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 02:21:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we solve the in-text questions of page number 68 and 69.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 9]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Ch-4-Carbon-and-its-Compounds-Part-9-55cb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Ch-4-Carbon-and-its-Compounds-Part-9-55cb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Ch-4-Carbon-and-its-Compounds-Part-9-55cb.mp3"
+                               length="16515768"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 02:19:38 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about naming the the hydrocarbon containing single functional groups.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:16</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 8]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-8-d757</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-8-d757.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-8-d757.mp3"
+                               length="17538580"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:33:48 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we discuss activity 4.2, we also begin the nomenclature of carbon compounds.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:58</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 7]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-7-f65b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-7-f65b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-7-f65b.mp3"
+                               length="21516063"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:32:11 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the compound formation of carbon with different elements, functional groups and homologous series.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:44</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-6-a1d3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-6-a1d3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-6-a1d3.mp3"
+                               length="16841236"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:31:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about saturated and unsaturated carbon straight chains, branched chains and rings.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds  Part 5 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-5--dd91</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-5--dd91.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-5--dd91.mp3"
+                               length="17563597"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:29:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the saturated and unsaturated carbon compounds, we also learn to make the structure of simple carbon compounds.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:19</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 4 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-4--a16d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-4--a16d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-4--a16d.mp3"
+                               length="17623255"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:28:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we discuss the in text questions of page number 61, we also discuss about catenation and tetravalency of carbon.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-3-4722</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-3-4722.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-3-4722.mp3"
+                               length="21550080"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:23:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about valency of elements, we also learn about the different allotropes of carbon.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:36</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 2 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-2--066b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-2--066b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-2--066b.mp3"
+                               length="16111002"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:22:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the double bond formation in Oxygen molecule, the triple bond formation in Nitrogen molecule.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:40</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Carbon and its Compounds Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-4-Carbon-and-its-Compounds-Part-1-19a1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-1-19a1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Carbon-and-its-Compounds-Part-1-19a1.mp3"
+                               length="17391688"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:21:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about carbon element, its occurrence, the need for a covalent bond,  covalent bond formation in the Hydrogen molecule.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 12]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-12-c3ba</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-12-c3ba.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-12-c3ba.mp3"
+                               length="23254712"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:20:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we discuss the solutions to the exercise questions.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>42:04</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 11]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-11-e406</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-11-e406.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-11-e406.mp3"
+                               length="20718582"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:18:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about electrolytic refining, corrosion, methods to prevent rusting of iron.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 10]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-10-5ca6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-10-5ca6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-10-5ca6.mp3"
+                               length="18033797"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:18:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the methods involved in obtaining the metals of moderate and high reactivity from their ores                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:19</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals  Part 9]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-9-8311</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-9-8311.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-9-8311.mp3"
+                               length="18279660"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 25 May 2020 06:15:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about gangue, the methods involved in obtaining the metals of least reactivity from their ores.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:53</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 8]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-8-aeb6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-8-aeb6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-8-aeb6.mp3"
+                               length="15502234"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:55:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the properties of metals, we also discuss about minerals and ores.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:02</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 7]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-7-cb39</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-7-cb39.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-7-cb39.mp3"
+                               length="15863910"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:54:02 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about ionic or the electrovalent bond, the electron dot structure of atoms.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:54</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-6-68f0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-6-68f0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-6-68f0.mp3"
+                               length="17102438"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:13:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about atomic number of an element, the electronic configurations and the different shells inside an atom.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:47</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-5-c58c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-5-c58c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-5-c58c.mp3"
+                               length="13766769"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 07:13:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about reactivity series and we also discuss the in text questions of page number 46.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:50</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-4-a2a3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-4-a2a3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by a Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-4-a2a3.mp3"
+                               length="16528026"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 09:09:25 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the changes which occur when a metal reacts with salt solutions of other metals, we also discuss the about the reaction of metals with acids.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by a Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:06</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals  Part 3 ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-3--f515</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-3--f515.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                            ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-3--f515.mp3"
+                               length="15153664"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 16 May 2020 09:07:37 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn the chemical changed which happen when a metal react with water.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-2-884a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-2-884a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-2-884a.mp3"
+                               length="13911900"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 02:57:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the chemical nature of oxides of metals and non-metals.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:23</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Metals and Non-Metals Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-3-Metals-and-Non-Metals-Part-1-fee4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-1-fee4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by  Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Metals-and-Non-Metals-Part-1-fee4.mp3"
+                               length="14815580"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 02:53:30 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the physical properties of metals and non-metals with some exceptions.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by&nbsp; Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:38</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 10]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-10-23a1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-10-23a1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-10-23a1.mp3"
+                               length="18397256"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 02:49:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we discuss the exercise questions from chapter Acids, Bases, and Salts.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:13</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 9]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-9-2b28</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-9-2b28.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-9-2b28.mp3"
+                               length="18208420"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 15 May 2020 02:40:37 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the water of crystallization of salt, we also discuss briefly plaster of Paris.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:50</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 8]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-8-a70f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-8-a70f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-8-a70f.mp3"
+                               length="18210324"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:05:37 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about chemicals from common salt such as sodium hydroxide, baking soda bleaching powder.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 7]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-7-9584</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-7-9584.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-7-9584.mp3"
+                               length="17766687"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:04:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about self-defense by animals and plants through chemical warfare, a family of salts and pH of salts.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-6-df8c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-6-df8c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-6-df8c.mp3"
+                               length="15332598"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:02:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the importance of pH in everyday life, we learn how plants and animals react to different pH values, etc.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-5-d2f4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-5-d2f4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-5-d2f4.mp3"
+                               length="16338176"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:02:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we solve the in-text questions of page number 25 and we learn briefly about the pH scale and universal indicator.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-4-f6a0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-4-f6a0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-4-f6a0.mp3"
+                               length="17276037"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:01:11 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about what acids and bases have in common, reaction of acids and bases in water.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:20</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-3-db83</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-3-db83.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-3-db83.mp3"
+                               length="16132014"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:00:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the reaction of acids and bases among themselves, the reaction of metallic oxides with acids, and the reaction of non-metallic oxides with bases.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-2-563c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-2-563c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-2-563c.mp3"
+                               length="18307348"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:59:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about the reaction of a metal with an acid or a base, we also learn about the reaction of metal carbonates and metal hydrogen carbonates with acids.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:30</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Acids, Bases and Salts Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-2-Acids-Bases-and-Salts-Part-1-eca9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-1-eca9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Acids-Bases-and-Salts-Part-1-eca9.mp3"
+                               length="16896481"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:58:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about acid base indicators, we also learn about olfactory indicators.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:54</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 12]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-12-8b20</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-12-8b20.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-12-8b20.mp3"
+                               length="33913825"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:53:50 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about corrosion and rancidity, we also discuss the exercise questions of this chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>63:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 11]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-11-8d5b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-11-8d5b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-11-8d5b.mp3"
+                               length="20340910"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 09:52:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about oxidation and reduction reactions and oxidation-reduction reactions/redox reactions with the help of certain examples.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:06</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 10]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-10-ed72</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-10-ed72.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-10-ed72.mp3"
+                               length="16544399"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 08 May 2020 13:32:35 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about displacement reaction and double displacement reaction with the help of few examples.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:02</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 9]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-9-3b81</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-9-3b81.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-9-3b81.mp3"
+                               length="18668616"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 08 May 2020 13:30:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about displacement reaction and double displacement reaction with the help of few examples.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:41</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 8]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-8-2dc9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-8-2dc9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-8-2dc9.mp3"
+                               length="21029192"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 08 May 2020 13:28:25 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about decomposition reaction and thermal decomposition reaction with the help of certain examples.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:54</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 7]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-7-55d3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-7-55d3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-7-55d3.mp3"
+                               length="18262559"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 08 May 2020 13:26:36 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we learn about combination reaction and exothermic reactions with their examples.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:13</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-6-6a9c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-6-6a9c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-6-6a9c.mp3"
+                               length="16424704"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 08 May 2020 13:25:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter we solve some in text questions and learn chemical formulae for various chemical compounds.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:30</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-5-5633</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-5-5633.mp3</guid>
+                    <description>
+                        <![CDATA[Taught  by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-5-5633.mp3"
+                               length="21446861"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 04:26:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about the different states in which a chemical compound can be found in a chemical reaction with the help of some examples.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught&nbsp; by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:29</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-4-0422</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-4-0422.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-4-0422.mp3"
+                               length="19306844"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 04:21:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn to balance a given chemical equation using the hit-and-trial method.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:16</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-3-2f0c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-3-2f0c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-3-2f0c.mp3"
+                               length="18008412"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 04:15:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we take a few examples of chemical reactions to understand how to write a balanced chemical equation.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:06</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-2-68da</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-2-68da.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-2-68da.mp3"
+                               length="16924191"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 30 Apr 2020 05:40:43 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we begin learning to write a chemical equation for a chemical reaction.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:30</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Chemical Reactions and Equations Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-10-science-cb224f1dc                    /episode/Ch-1-Chemical-Reactions-and-Equations-Part-1-d6b7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-1-d6b7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Chemical-Reactions-and-Equations-Part-1-d6b7.mp3"
+                               length="18120581"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 30 Apr 2020 05:36:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this part of the chapter, we learn about some basic concepts of chemical reactions and the changes which take place during a chemical reaction.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:36</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 10 Science]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

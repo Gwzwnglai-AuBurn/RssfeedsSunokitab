@@ -1,0 +1,867 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 9 Science]]></title>
+        <description><![CDATA[Science]]></description>
+        <link>
+        http://www.podcasts.com/class-9-science-2c139adbd</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:13:26 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:13:26 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_123028_0003.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 5 The fundamental unit of life 5]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-5-The-fundamental-unit-of-life-5-1ee8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-5-1ee8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-5-1ee8.mp3"
+                               length="29456353"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 03:08:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About NCERT exercise full                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:44</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The fundamental unit of life 4]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-5-The-fundamental-unit-of-life-4-5529</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-4-5529.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-4-5529.mp3"
+                               length="29078989"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 03:06:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About all cell organelles                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:20</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The fundamental unit of life Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-5-The-fundamental-unit-of-life-3-0afd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-3-0afd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-3-0afd.mp3"
+                               length="29471386"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 03:06:25 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About Cell wall, nucleus
+Cytoplasm
+Eukaryotes and prokaryote
+Cell organelles introduction.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:43</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The fundamental unit of life Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-5-The-fundamental-unit-of-life-2-6278</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-2-6278.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-2-6278.mp3"
+                               length="28739697"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 03:05:59 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About plasma membrane
+Diffusion
+Osmosis
+Intext questions page 61                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The fundamental unit of life Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-5-The-fundamental-unit-of-life-Part-1-1b14</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-Part-1-1b14.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-fundamental-unit-of-life-Part-1-1b14.mp3"
+                               length="29194988"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 03:03:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About cell discovery.
+Cell theory
+Cell is made up of?                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Structure of the Atom Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-4-Structure-of-the-Atom-Part-3-4770</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Structure-of-the-Atom-Part-3-4770.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Structure-of-the-Atom-Part-3-4770.mp3"
+                               length="29369876"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:23:02 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About valency, atomic number, atomic mass , isotopes and isobars                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:34</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Structure of the Atom Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-4-Structure-of-the-Atom-Part-2-a19e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Structure-of-the-Atom-Part-2-a19e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Structure-of-the-Atom-Part-2-a19e.mp3"
+                               length="29224980"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:21:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About Bohr model of the atom,
+Neutron
+Electrons distribution in shell
+Valency
+Atomic structures
+                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Structure of the Atom Part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-4-Structure-of-the-Atom-Part-1--be34</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Structure-of-the-Atom-Part-1--be34.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Structure-of-the-Atom-Part-1--be34.mp3"
+                               length="29596918"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:17:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About structure of atom,
+Discovery of electron and proton,
+Atomic models 
+Thomson model of an atom
+Rutherford's model of an atom.
+                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:51</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Atoms and molecules Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-3-Atoms-and-molecules-Part-4-87e3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-4-87e3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-4-87e3.mp3"
+                               length="29574216"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:16:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Ncert exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Atoms and molecules Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-3-Atoms-and-molecules-Part-3-06b0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-3-06b0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-3-06b0.mp3"
+                               length="29269975"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:15:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About formula unit mass, mole concept with examples and context questions 
+Summary                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:28</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Atoms and molecules Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-3-Atoms-and-molecules-Part-2-d665</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-2-d665.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-2-d665.mp3"
+                               length="29578301"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:15:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About molecules, compounds and ions.
+Writing the chemical formulae of compounds and valency.
+In text questions                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:48</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Atoms and molecules Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-3-Atoms-and-molecules-Part-1-3cf2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-1-3cf2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Atoms-and-molecules-Part-1-3cf2.mp3"
+                               length="29727887"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:10:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About atoms it's size symbols for atoms,
+Laws of chemical combination and Dalton's atomic theory                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:00</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Is matter around us Is pure? Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-2-Is-matter-around-us-Is-pure-Part-4-2b30</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-4-2b30.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-4-2b30.mp3"
+                               length="29369334"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:09:19 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About context question page 24 and exercises full                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:36</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Is matter around us Is pure? Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-2-Is-matter-around-us-Is-pure-Part-3-b630</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-3-b630.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-3-b630.mp3"
+                               length="29229742"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:07:27 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About  separating the compounds from mixture 2.3.3, physical and chemical changes with intext questions                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyagna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:24</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Is matter around us Is pure? Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-2-Is-matter-around-us-Is-pure-Part-2-9cf2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-2-9cf2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-2-9cf2.mp3"
+                               length="29537270"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 26 Jun 2020 12:06:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About concentration of the solution, suspension and colloid solution up to separating the components of mixtures 2.3.2                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:46</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Is matter around us Is pure? Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-2-Is-matter-around-us-Is-pure-Part-1-7f11</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-1-7f11.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Is-matter-around-us-Is-pure-Part-1-7f11.mp3"
+                               length="14166036"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:52:26 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About mixture and solution                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Matter in our surrounding Part 6]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-1-Matter-in-our-surrounding-Part-6-2982</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Matter-in-our-surrounding-Part-6-2982.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Matter-in-our-surrounding-Part-6-2982.mp3"
+                               length="13503478"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 08:28:33 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About context questions page 10 and summary with full exercises.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Matter in our surrounding Part 5]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-1-Matter-in-our-surrounding-Part-5-6c3a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Matter-in-our-surrounding-Part-5-6c3a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himnashi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Matter-in-our-surrounding-Part-5-6c3a.mp3"
+                               length="14908488"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 08:27:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About effect of change of pressure and evaporation                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himnashi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:17</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Matter in our surroundings Part 4]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-1-Matter-in-our-surroundings-Part-4-18e3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-4-18e3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-4-18e3.mp3"
+                               length="15054940"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 08:26:33 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About can matter change its state?                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:30</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Matter in our surroundings Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-1-Matter-in-our-surroundings-Part-3-9932</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-3-9932.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-3-9932.mp3"
+                               length="15648758"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 08:25:26 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About can matter change its state?                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:59</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Matter in our surroundings Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-1-Matter-in-our-surroundings-Part-2-7807</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-2-7807.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-2-7807.mp3"
+                               length="15015096"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 08:24:51 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About activities and characteristics of matter                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by&nbsp;Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Matter in our surroundings Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-1-Matter-in-our-surroundings-Part-1-9a0b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-1-9a0b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Matter-in-our-surroundings-Part-1-9a0b.mp3"
+                               length="29140808"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 27 May 2020 05:44:14 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[About matter , physical nature of matter,  characteristics of particles of matter upto 1.2.2                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Himanshi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 MOTION Part-4]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-8-MOTION-Part-4-5d1f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-MOTION-Part-4-5d1f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savneet                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-MOTION-Part-4-5d1f.mp3"
+                               length="13157847"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 18 Nov 2019 08:16:46 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this, I have discussed about the uniform and non- uniform motion of an object. How we define it with different examples.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savneet                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:20</itunes:duration>
+                    <itunes:keywords><![CDATA[, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 MOTION Part-3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-8-MOTION-Part-3-99ef</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-MOTION-Part-3-99ef.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savneet                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-MOTION-Part-3-99ef.mp3"
+                               length="13647636"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 18 Nov 2019 08:16:04 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this recording of have talked about the numerical problems of the given chapter and discussing the concept in the numerical. And make the understanding of the concept                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savneet                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:26</itunes:duration>
+                    <itunes:keywords><![CDATA[, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 MOTION Part-2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-8-MOTION-Part-2-e383</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-MOTION-Part-2-e383.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savneet                         ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-MOTION-Part-2-e383.mp3"
+                               length="14807173"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 18 Nov 2019 08:15:00 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this, I have discussed the motion scientific name and further discussion about the difference between displacement and distance. And discussing in detail.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savneet&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:03</itunes:duration>
+                    <itunes:keywords><![CDATA[, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 MOTION Part-1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-8-MOTION-Part-1-317f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-MOTION-Part-1-317f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savneet Kaur                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-MOTION-Part-1-317f.mp3"
+                               length="13996810"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 Nov 2019 07:08:40 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I this chapter we are going to discuss about the rest and motion of the objects.  Sometimes you see an object in motion but actually it is not in motion but in rest.  We are will be discussing the graphs and equations also.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savneet Kaur                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:39</itunes:duration>
+                    <itunes:keywords><![CDATA[, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 IS MATTER AROUND US PURE? Part-2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-2-IS-MATTER-AROUND-US-PURE-Part-2-239c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-IS-MATTER-AROUND-US-PURE-Part-2-239c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ishita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-IS-MATTER-AROUND-US-PURE-Part-2-239c.mp3"
+                               length="9466307"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 05:58:55 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A substance is a pure single form of matter. It cannot be separated into other kinds of matter by any physical process. For example sugar, sodium chloride.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ishita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>24:06</itunes:duration>
+                    <itunes:keywords><![CDATA[, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 IS MATTER AROUND US PURE? Part-1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-2-IS-MATTER-AROUND-US-PURE-Part-1-8824</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-IS-MATTER-AROUND-US-PURE-Part-1-8824.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ishita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-IS-MATTER-AROUND-US-PURE-Part-1-8824.mp3"
+                               length="9098383"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 05:56:45 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[For a common man, pure actually means having no adulteration. But for a scientist pure means that it contains only one type of matter or particles. ... A homogeneous material which contains particles of only one kind and has a definite set of properties                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ishita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:15</itunes:duration>
+                    <itunes:keywords><![CDATA[, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 MATTER IN OUR SURROUNDINGS ]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-science-2c139adbd                    /episode/Ch-1-MATTER-IN-OUR-SURROUNDINGS--98bb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-MATTER-IN-OUR-SURROUNDINGS--98bb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ishita                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-MATTER-IN-OUR-SURROUNDINGS--98bb.mp3"
+                               length="96819497"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 14 Nov 2019 05:39:23 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Matter- Matter is anything which occupies space and has mass is called matter.
+Anything that occupies space and has mass and is felt by senses is called matter. Matter is the form of five basic elements the Panchtatva â€“ air, earth, fire, sky, and water                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ishita                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>50:29</itunes:duration>
+                    <itunes:keywords><![CDATA[, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

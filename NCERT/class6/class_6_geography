@@ -1,0 +1,508 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 6 Geography]]></title>
+        <description><![CDATA[NCERT Class 6 Geography]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:48:50 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:48:50 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_153746_0004.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 8 Bharat Jalvaayu tatha Vanya Praani]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-8-Bharat-Jalvaayu-tatha-Vanya-Praani-26e4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Bharat-Jalvaayu-tatha-Vanya-Praani-26e4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Bharat-Jalvaayu-tatha-Vanya-Praani-26e4.mp3"
+                               length="15080745"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 05:05:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the atmosphere and habitat of animals.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:34</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7  Humara Desh : Bharat]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-7-Humara-Desh-Bharat-3b51</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Humara-Desh-Bharat-3b51.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Humara-Desh-Bharat-3b51.mp3"
+                               length="14732841"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:57:36 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the geographical division of India.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:14</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Prithvi ke Pramukh Sthalroop]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-6-Prithvi-ke-Pramukh-Sthalroop-6705</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Prithvi-ke-Pramukh-Sthalroop-6705.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Prithvi-ke-Pramukh-Sthalroop-6705.mp3"
+                               length="15316879"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:55:14 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the various landforms of earth.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Prithvi ke Pramukh Parimandal]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-5-Prithvi-ke-Pramukh-Parimandal-031e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Prithvi-ke-Pramukh-Parimandal-031e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Prithvi-ke-Pramukh-Parimandal-031e.mp3"
+                               length="19244718"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:50:56 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the various domains of the earth.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4  Maanchitra]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-4-Maanchitra-1329</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Maanchitra-1329.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Maanchitra-1329.mp3"
+                               length="15369728"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:48:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the different types of maps and there uses.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:19</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Prithvi ki Gatiya]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-3-Prithvi-ki-Gatiya-b59f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Prithvi-ki-Gatiya-b59f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Prithvi-ki-Gatiya-b59f.mp3"
+                               length="14554634"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:46:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the rotation and revolution of the earth.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:36</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Globe: Akshansh evam Deshantar]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-2-Globe-Akshansh-evam-Deshantar-455d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Globe-Akshansh-evam-Deshantar-455d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Globe-Akshansh-evam-Deshantar-455d.mp3"
+                               length="18267249"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:44:14 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the longitudinal and latitudinal aspect of earth.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:57</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Saurmandal me Prithvi Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-1-Saurmandal-me-Prithvi-Part-2-5542</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Saurmandal-me-Prithvi-Part-2-5542.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Saurmandal-me-Prithvi-Part-2-5542.mp3"
+                               length="15619686"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:41:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the various planets and asteroids and meteorites                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Saurmandal me Prithvi Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-1-Saurmandal-me-Prithvi-Part-1-ba93</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Saurmandal-me-Prithvi-Part-1-ba93.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Saurmandal-me-Prithvi-Part-1-ba93.mp3"
+                               length="15878257"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:39:49 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the stars and solar system.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:59</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 India Climate Vegetation and Wildlife]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-8-India-Climate-Vegetation-and-Wildlife-97dc</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-India-Climate-Vegetation-and-Wildlife-97dc.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-India-Climate-Vegetation-and-Wildlife-97dc.mp3"
+                               length="14181417"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:36:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the wildlife, climate of India in a broader sense.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:43</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Our Country â€“ India]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-7-Our-Country-India-303d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Our-Country-India-303d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Our-Country-India-303d.mp3"
+                               length="15008256"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:34:53 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the longitudinal and latitudinal aspect of our country.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:58</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Major Landforms of the Earth]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-6-Major-Landforms-of-the-Earth-b046</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Major-Landforms-of-the-Earth-b046.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Major-Landforms-of-the-Earth-b046.mp3"
+                               length="18198989"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:33:26 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the various types of landforms found on Earth and the diversity of landforms found in India.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:44</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Major Domains of the Earth]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-5-Major-Domains-of-the-Earth-3b1a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Major-Domains-of-the-Earth-3b1a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Major-Domains-of-the-Earth-3b1a.mp3"
+                               length="20888863"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:31:43 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the major domains of the earth due to which life is possible on Earth.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:30</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Maps]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-4-Maps-f7a2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Maps-f7a2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Maps-f7a2.mp3"
+                               length="17860086"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:29:20 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the various types of maps and it's components.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Motions of the Earth]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-3-Motions-of-the-Earth-dd49</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Motions-of-the-Earth-dd49.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Motions-of-the-Earth-dd49.mp3"
+                               length="14774456"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:27:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the two types of movement of the earth.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:37</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Globe Latitudes and Longitudes]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-2-Globe-Latitudes-and-Longitudes-b950</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Globe-Latitudes-and-Longitudes-b950.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Globe-Latitudes-and-Longitudes-b950.mp3"
+                               length="16994570"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:25:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses the model of earth and the concept of latitudes and longitude.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:25</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 The Earth in the Solar System]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-6-geography-c0ef4aa4b                    /episode/Ch-1-The-Earth-in-the-Solar-System-4f19</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-The-Earth-in-the-Solar-System-4f19.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-The-Earth-in-the-Solar-System-4f19.mp3"
+                               length="13222687"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 04:23:49 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This portion discusses about the earth and it's position in the solar system.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Divyangna                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:04</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 6 Geography]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

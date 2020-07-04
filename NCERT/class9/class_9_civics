@@ -1,0 +1,508 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 9 Civics]]></title>
+        <description><![CDATA[SST]]></description>
+        <link>
+        http://www.podcasts.com/class-9-social-science-2ca888a60</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 17:10:58 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 17:10:58 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_123028_0002.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 5 Loktantrik Adhikar]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-5-Loktantrik-Adhikar-d095</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Loktantrik-Adhikar-d095.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Loktantrik-Adhikar-d095.mp3"
+                               length="21993318"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 06:43:30 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussion on the fundamental right. its implementation and challenges in the implementation of it.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:57</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Loktantrik Adhikar Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-5-Loktantrik-Adhikar-7117</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Loktantrik-Adhikar-7117.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Loktantrik-Adhikar-7117.mp3"
+                               length="18088643"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 06:41:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed on our fundamental right. I included three fundamental right and explained.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:26</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Loktantrik Adhikar Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-5-Loktantrik-Adhikar-Part-1-b3b2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Loktantrik-Adhikar-Part-1-b3b2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Loktantrik-Adhikar-Part-1-b3b2.mp3"
+                               length="18968689"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 06:40:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed our democratic rights. two examples are taken for clarifying it.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:17</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Sansthan Ka Kamkaj Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-4-Sansthan-Ka-Kamkaj-Part-3-7898</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Sansthan-Ka-Kamkaj-Part-3-7898.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Sansthan-Ka-Kamkaj-Part-3-7898.mp3"
+                               length="20470907"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 06:39:36 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[DISCUSSION ON JUDICIARY. RIGHT OF PRIME MINISTER                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Savan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Sansthao ke Kamkaj Part  2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-4-Sansthao-ke-Kamkaj-Part-2-dbad</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Sansthao-ke-Kamkaj-Part-2-dbad.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Sansthao-ke-Kamkaj-Part-2-dbad.mp3"
+                               length="25180836"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 08:19:06 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I HAVE DISCUSSED ON PARLIAMENT. LOK SABHA AND RAJYA SABHA AND THEIR POWER ARE ALSO DISCUSSED                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>44:28</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Sansthao ke Kamkaj Part  1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-4-Sansthao-ke-Kamkaj-24ed</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Sansthao-ke-Kamkaj-24ed.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Sansthao-ke-Kamkaj-24ed.mp3"
+                               length="18836490"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 08:15:07 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed on the reservation. In this audio, I have also explained the supreme Court and government works.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Chunavi Rajniti Part 3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-3-Chunavi-Rajniti-Part-3-b6f2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Chunavi-Rajniti-Part-3-b6f2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Chunavi-Rajniti-Part-3-b6f2.mp3"
+                               length="22733834"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 08:12:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have covered how elections held in India and how can I say it democratic.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:49</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Chunavi Rajniti Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-3-Chunavi-Rajniti-Part-2-a7a4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Chunavi-Rajniti-Part-2-a7a4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Chunavi-Rajniti-Part-2-a7a4.mp3"
+                               length="16940564"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 08:10:09 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have covered how elections held. the process of casting vote and election campaign.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:12</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Chunavi Rajniti Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-3-Chunavi-Rajniti-Part-1-bcf7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Chunavi-Rajniti-Part-1-bcf7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Chunavi-Rajniti-Part-1-bcf7.mp3"
+                               length="25601382"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 08:19:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have discussed the election and its related terminology. Many types of election and it's conducting and helping bodies have been also discussed.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>44:46</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Samvidhan Nirmaan Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-2-Samvidhan-Nirmaan-Part-2-17d0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Samvidhan-Nirmaan-Part-2-17d0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                                ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Samvidhan-Nirmaan-Part-2-17d0.mp3"
+                               length="20939745"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 28 Apr 2020 07:59:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[ I introduced the making of the Indian constitution. I recorded and explained the preamble of the Indian constitution.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>45:10</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Samvidhan Nirmaan Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-2-Samvidhan-Nirmaan-Part-1-cd26</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Samvidhan-Nirmaan-Part-1-cd26.mp3</guid>
+                    <description>
+                        <![CDATA[Taught  by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Samvidhan-Nirmaan-Part-1-cd26.mp3"
+                               length="39561380"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 10:07:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have covered the making of the South Africa constitution. About great Nelson Mandela and the work of constitution.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught&nbsp; by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:38</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Loktantra Kya? Loktantra Kyun? Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-1-Loktantra-Kya-Loktantra-Kyun-Part-2-20e8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Loktantra-Kya-Loktantra-Kyun-Part-2-20e8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Loktantra-Kya-Loktantra-Kyun-Part-2-20e8.mp3"
+                               length="23831501"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 10:03:09 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Today I have completed the chapter. I have mentioned the pros and cons of democracy, real vs ideal democracy and greater meaning of democracy.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>42:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Loktantra Kya? Loktantra Kyun? Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Ch-1-Loktantra-Kya-Loktantra-Kyun-135f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Loktantra-Kya-Loktantra-Kyun-135f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Loktantra-Kya-Loktantra-Kyun-135f.mp3"
+                               length="24144978"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 25 Apr 2020 10:01:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have covered what is democracy and four features of democracy. In this, I have defined terms like democracy in various angles.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Sawan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>39:56</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Civics Ch 1 à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¤¾ à¤¹à¥ˆ? à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¥‹à¤‚? Part-4]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Civics-Ch-1-Part-4-0ba2</link>
+                    <guid>http://awscdn.podcasts.com/Civics-Ch-1-Part-4-0ba2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Civics-Ch-1-Part-4-0ba2.mp3"
+                               length="18908385"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 Nov 2019 06:17:07 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Democracy is explained in simple definition and the different characteristics of democracy are also taught. Through pro and against arguments built around the term, the broader understanding of democracy is developed.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:17</itunes:duration>
+                    <itunes:keywords><![CDATA[, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Civics Ch 1 à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¤¾ à¤¹à¥ˆ? à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¥‹à¤‚? Part-3]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Civics-Ch-1-Part-3-6110</link>
+                    <guid>http://awscdn.podcasts.com/Civics-Ch-1-Part-3-6110.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Civics-Ch-1-Part-3-6110.mp3"
+                               length="48754719"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 Nov 2019 06:16:14 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Democracy is explained in simple definition and the different characteristics of democracy are also taught. Through pro and against arguments built around the term, the broader understanding of democracy is developed.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:54</itunes:duration>
+                    <itunes:keywords><![CDATA[, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Civics Ch 1 à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¤¾ à¤¹à¥ˆ? à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¥‹à¤‚? Part-2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Civics-Ch-1-Part-2-c697</link>
+                    <guid>http://awscdn.podcasts.com/Civics-Ch-1-Part-2-c697.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Civics-Ch-1-Part-2-c697.mp3"
+                               length="16752159"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 Nov 2019 06:07:03 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Democracy is explained in simple definition and the different characteristics of democracy are also taught. Through pro and against arguments built around the term, the broader understanding of democracy is developed.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:48</itunes:duration>
+                    <itunes:keywords><![CDATA[, ]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Civics Ch 1 à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¤¾ à¤¹à¥ˆ? à¤²à¥‹à¤•à¤¤à¤‚à¤¤à¥à¤° à¤•à¥à¤¯à¥‹à¤‚? Part-1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-9-social-science-2ca888a60                    /episode/Civics-Ch-1-Part-1-66df</link>
+                    <guid>http://awscdn.podcasts.com/Civics-Ch-1-Part-1-66df.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Civics-Ch-1-Part-1-66df.mp3"
+                               length="16636006"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 Nov 2019 06:04:46 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Democracy is explained in simple definition and the different characteristics of democracy are also taught. Through pro and against arguments built around the term, the broader understanding of democracy is developed.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anuradha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:46</itunes:duration>
+                    <itunes:keywords><![CDATA[, ]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

@@ -1,0 +1,315 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 7 Honeycomb]]></title>
+        <description><![CDATA[NCERT Class 7 Honeycomb]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:59:03 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:59:03 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_153845_0001.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 9 A Bicycle  in good repair ]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-9-A-Bicycle-in-good-repair--30b1</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-A-Bicycle-in-good-repair--30b1.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-A-Bicycle-in-good-repair--30b1.mp3"
+                               length="12880507"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:55:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The chapter talks about an incident where the author's friend tries to repair his bicycle and ends up making it worse. He didn't have the idea for fixing it but he just wanted to show it off                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:02</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Fire: Friend and Foe]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-8-Fire-Friend-and-Foe-f0e9</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Fire-Friend-and-Foe-f0e9.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Fire-Friend-and-Foe-f0e9.mp3"
+                               length="16795648"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:51:45 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A very informative chapter about fire; how it started, uses and measures for safety                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 The invention of Vita Wonk]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-7-The-invention-of-Vita-Wonk-ec35</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-The-invention-of-Vita-Wonk-ec35.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-The-invention-of-Vita-Wonk-ec35.mp3"
+                               length="18702592"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:47:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Mr. Willy Wonka wants to invent a medicine that can make people old, older, oldest. For that, he requires some peculiar things like the tail of a 207-year-old rat                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:51</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Expert detectives]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-6-Expert-detectives-150c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Expert-detectives-150c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Expert-detectives-150c.mp3"
+                               length="17398989"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:45:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Maya and Nishad make assumptions about their neighbor Mr. Nath. Maya is determined that Mr. Nath is a crook. However, Nishad doesn't believe so.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:17</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Quality]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-5-Quality-d51b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Quality-d51b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Quality-d51b.mp3"
+                               length="17672172"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:41:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The story is based on how the industrialization took away the small scale workers.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 The ashes that made trees bloom]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-4-The-ashes-that-made-trees-bloom-0132</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-The-ashes-that-made-trees-bloom-0132.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-The-ashes-that-made-trees-bloom-0132.mp3"
+                               length="19459092"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:40:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A story based on the Japanese folktale. It has got magical realism. It tells us that one should not be greedy                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>40:50</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Gopal and the hilsa fish]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-3-Gopal-and-the-hilsa-fish-7207</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Gopal-and-the-hilsa-fish-7207.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Gopal-and-the-hilsa-fish-7207.mp3"
+                               length="19860787"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 10:39:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Its hilsa fish season and no one can stop talking about the fish. The king challenges Gopal to make the public stop from talking about the hilsa fish.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>41:33</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 A Gift of Chappals  & Poem The Rebel Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-2-A-Gift-of-Chappals-Poem-The-Rebel-Part-2-a497</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-A-Gift-of-Chappals-Poem-The-Rebel-Part-2-a497.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-A-Gift-of-Chappals-Poem-The-Rebel-Part-2-a497.mp3"
+                               length="16522179"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 10:38:41 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;Mridu, Ravi and Meena helped the poor beggar and gave away the chappals of the music teacher.
+
+The poem &quot;&quot;The Rebels&quot;&quot; talks about a rebel and how different they are from the herd mentality &quot;                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:32</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 A Gift of Chappals  & Poem The Rebel Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-2-A-Gift-of-Chappals-Poem-The-Rebel-Part-1-b9f6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-A-Gift-of-Chappals-Poem-The-Rebel-Part-1-b9f6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-A-Gift-of-Chappals-Poem-The-Rebel-Part-1-b9f6.mp3"
+                               length="14826557"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 10:26:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Mridu visits her cousin and Meena tells her they have a kitten in the house. A beggar comes to Ravi and Meena's house and is in a very poor condition                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:33</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Three Questions & Poem The Squirrel]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-7-honeycomb-c539e86fb                    /episode/Ch-1-Three-Questions-Poem-The-Squirrel-ba17</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Three-Questions-Poem-The-Squirrel-ba17.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Three-Questions-Poem-The-Squirrel-ba17.mp3"
+                               length="18343629"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 03 May 2020 10:12:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The king goes to the hermit to find out the answers to his 3 questions, which he believes it answered, he can become invincible. 
+A short poem M.B Armstrong on a Squirrel and how playful and naughty it is                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anam                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:55</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 7 Honeycomb]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

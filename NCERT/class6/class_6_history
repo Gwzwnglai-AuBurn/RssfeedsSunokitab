@@ -1,0 +1,368 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 6 History]]></title>
+        <description><![CDATA[NCERT]]></description>
+        <link>
+        http://www.podcasts.com/class-6-social-science-67ad009a8</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 16:50:59 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 16:50:59 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_153746_0006.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[His Ch 11 Imarate, chitra aur kitabe]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/His-Ch-11-Imarate-chitra-aur-kitabe-4d56</link>
+                    <guid>http://awscdn.podcasts.com/His-Ch-11-Imarate-chitra-aur-kitabe-4d56.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/His-Ch-11-Imarate-chitra-aur-kitabe-4d56.mp3"
+                               length="10324859"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 29 Nov 2019 06:34:14 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Remember the names of the epics and paintings. also the process to build a temple.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>24:04</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 10 Naye Samrajya Aur Rajya]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/His-Ch-10-Naye-Samrajya-Aur-Rajya-d2c8</link>
+                    <guid>http://awscdn.podcasts.com/His-Ch-10-Naye-Samrajya-Aur-Rajya-d2c8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/His-Ch-10-Naye-Samrajya-Aur-Rajya-d2c8.mp3"
+                               length="17844244"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 21 Nov 2019 08:28:00 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Inscriptions of southern rulers and samudragupta are noteworthy. Administration and military practices are also important. The difference in languages of the aristocrats and commoners is to be remembered.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:02</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 9 Vyapari, Raja aur Tirthyatri]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/His-Ch-9-Vyapari-Raja-aur-Tirthyatri-Part-1-fa4b</link>
+                    <guid>http://awscdn.podcasts.com/His-Ch-9-Vyapari-Raja-aur-Tirthyatri-Part-1-fa4b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/His-Ch-9-Vyapari-Raja-aur-Tirthyatri-Part-1-fa4b.mp3"
+                               length="25768684"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 20 Nov 2019 02:30:39 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Traders of southern India and their practices are important. The information given about the silk route is very important and noteworthy.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:21</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 8 Khushhal gaon aur samridhh shahar]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/His-Ch-8-Khushhal-gaon-aur-samridhh-shahar-12b8</link>
+                    <guid>http://awscdn.podcasts.com/His-Ch-8-Khushhal-gaon-aur-samridhh-shahar-12b8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/His-Ch-8-Khushhal-gaon-aur-samridhh-shahar-12b8.mp3"
+                               length="7036703"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 Nov 2019 05:52:40 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The basic day to day life and structure of both villages and cities is important. A case study of 2 cities given is also noteworthy. irrigation part is to do thoroughly.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:53</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 7 Ashok: Ek anokha samrat jisne yudhh ka tyag kiya]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/Ch-7-Ashok-Ek-anokha-samrat-jisne-yudhh-ka-tyag-kiya-262b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Ashok-Ek-anokha-samrat-jisne-yudhh-ka-tyag-kiya-262b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Ashok-Ek-anokha-samrat-jisne-yudhh-ka-tyag-kiya-262b.mp3"
+                               length="4619080"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:29:13 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The war of Kalinga fought by Ashoka and its impact on him is very important in this chapter. Ashoka's dhamma, his preachings, and methods are noteworthy. One should also pay attention to the administration in the particular dynasty mentioned.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:12</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 6 Naye Prashan Naye Vichar Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/Ch-6-Naye-Prashan-Naye-Vichar-P-2-773e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Naye-Prashan-Naye-Vichar-P-2-773e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Naye-Prashan-Naye-Vichar-P-2-773e.mp3"
+                               length="4032532"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:27:39 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The main 3 teachings of Mahavir swami are important in this part. Also, the importance of sanghas and viharas is noteworthy. The lifestyle and rules followed by Jain monks should be read thoroughly                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>21:08</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 6 Naye Prashan Naye Vichar Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/Ch-6-Naye-Prashan-Naye-Vichar-Part-1-e006</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Naye-Prashan-Naye-Vichar-Part-1-e006.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Naye-Prashan-Naye-Vichar-Part-1-e006.mp3"
+                               length="17566597"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:26:32 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Important points to note in this part are the journey of Gautam Buddha and the role of Upanishads in society. also remember that lady Gargi was the only lady thinker in that era, her importance, and her guru.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>18:18</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 5 Rajya, Raja Aur Ek Pracheen Ganrajaya]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/Ch-5-Rajya-Raja-Aur-Ek-Pracheen-Ganrajaya-7f51</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Rajya-Raja-Aur-Ek-Pracheen-Ganrajaya-7f51.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Rajya-Raja-Aur-Ek-Pracheen-Ganrajaya-7f51.mp3"
+                               length="11743048"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:25:30 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The important parts in this chapter are the history of the Magadhan empire, how people rose up to kings and also the farmers advanced in their practices of agriculture.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:11</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 4 Kya btati hai hame kitaabe aur kabre]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/Ch-4-Kya-btati-hai-hame-kitaabe-aur-kabre-37ef</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Kya-btati-hai-hame-kitaabe-aur-kabre-37ef.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Kya-btati-hai-hame-kitaabe-aur-kabre-37ef.mp3"
+                               length="5827492"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:23:46 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This chapter talks about the books which tell us the rich history of our nation. With special reference given to the mighty Veda which are important texts in Hindu culture. The point to note in this part is the impact of Vedas.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:38</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 3 Arambhik Nagar]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/Ch-3-Arambhik-Nagar-0c60</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Arambhik-Nagar-0c60.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Arambhik-Nagar-0c60.mp3"
+                               length="9869394"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:22:18 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[It provides the life of ancient people in various civilizations like Indus civilization, also teaches that how they lived, what they ate, how they protected each other, etc.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:19</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 2 Aakhet- Khadya sangrah se bhojan utpadan tak]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/CH-2-Aakhet-Khadya-sangrah-se-bhojan-utpadan-tak-d598</link>
+                    <guid>http://awscdn.podcasts.com/CH-2-Aakhet-Khadya-sangrah-se-bhojan-utpadan-tak-d598.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/CH-2-Aakhet-Khadya-sangrah-se-bhojan-utpadan-tak-d598.mp3"
+                               length="16979333"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:18:03 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The lesson explains about the production.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:46</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[His Ch 1 Kya, Kab, Kahan aur Kaise]]></title>
+                    <link>
+                    http://www.podcasts.com/class-6-social-science-67ad009a8                    /episode/Clapter-1-Vividhata-ki-Samajh-93db</link>
+                    <guid>http://awscdn.podcasts.com/Clapter-1-Vividhata-ki-Samajh-93db.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Clapter-1-Vividhata-ki-Samajh-93db.mp3"
+                               length="10823803"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 Nov 2019 03:09:28 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[You will about the diversity exists in India.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riya Pradhan                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>21:27</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>
