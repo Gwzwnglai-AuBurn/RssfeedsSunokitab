@@ -1,0 +1,200 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 2 English]]></title>
+        <description><![CDATA[NCERT Class 2 English]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-2-english-aaba04025</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 07:48:43 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 07:48:43 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200701_162640_0003.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Unit 6 Mr. Nobody and Zigzag boy]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-2-english-aaba04025                    /episode/Unit-6-Mr.-Nobody-and-Zigzag-boy-b20b</link>
+                    <guid>http://awscdn.podcasts.com/Unit-6-Mr.-Nobody-and-Zigzag-boy-b20b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Unit-6-Mr.-Nobody-and-Zigzag-boy-b20b.mp3"
+                               length="15981066"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 01 Jul 2020 11:52:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is about the fun that children have.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:24</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 2 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Unit 5 Zoo Manners and Funny Bunny]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-2-english-aaba04025                    /episode/Unit-5-Zoo-Manners-and-Funny-Bunny-0282</link>
+                    <guid>http://awscdn.podcasts.com/Unit-5-Zoo-Manners-and-Funny-Bunny-0282.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Unit-5-Zoo-Manners-and-Funny-Bunny-0282.mp3"
+                               length="15220173"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:39:37 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is dedicated to various types of animals.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:42</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 2 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Unit 4 Rain and Storm in the Garden]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-2-english-aaba04025                    /episode/Unit-4-Rain-and-Storm-in-the-Garden-9d48</link>
+                    <guid>http://awscdn.podcasts.com/Unit-4-Rain-and-Storm-in-the-Garden-9d48.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Unit-4-Rain-and-Storm-in-the-Garden-9d48.mp3"
+                               length="11832883"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:38:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is about rain and storm.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:43</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 2 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Unit 3 A Smile and The Wind and the Sun]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-2-english-aaba04025                    /episode/Unit-3-A-Smile-and-The-Wind-and-the-Sun-0a1f</link>
+                    <guid>http://awscdn.podcasts.com/Unit-3-A-Smile-and-The-Wind-and-the-Sun-0a1f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Unit-3-A-Smile-and-The-Wind-and-the-Sun-0a1f.mp3"
+                               length="16069315"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:36:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is about the importance of happiness and smile.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:39</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 2 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Unit 2 I am Lucky! and I Want]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-2-english-aaba04025                    /episode/Unit-2-I-am-Lucky-and-I-Want-46e6</link>
+                    <guid>http://awscdn.podcasts.com/Unit-2-I-am-Lucky-and-I-Want-46e6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Unit-2-I-am-Lucky-and-I-Want-46e6.mp3"
+                               length="14518487"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:23:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This chapter teaches that everyone on this planet is unique and one should be satisfied with what he/she is.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:18</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 2 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Unit 1 First Day at School and Haldiâ€™s Adventure]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-2-english-aaba04025                    /episode/Unit-1-First-Day-at-School-and-Haldis-Adventure-d5b6</link>
+                    <guid>http://awscdn.podcasts.com/Unit-1-First-Day-at-School-and-Haldis-Adventure-d5b6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Unit-1-First-Day-at-School-and-Haldis-Adventure-d5b6.mp3"
+                               length="17985065"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:21:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This chapter shows what different activities students are doing at school.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>36:43</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 2 English]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>
