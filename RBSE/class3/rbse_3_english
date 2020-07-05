@@ -1,0 +1,200 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[RBSE Class 3 English]]></title>
+        <description><![CDATA[RBSE Class 3 English]]></description>
+        <link>
+        http://www.podcasts.com/rbse-class-3-english-8c56e976c</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sun, 05 Jul 2020 02:21:31 -0400</lastBuildDate>
+        <pubDate>Sun, 05 Jul 2020 02:21:31 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[RBSE]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/Maroon_Flowers_Womens_Day_Instagram_Post_(1).png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 6 Charbhujanath Mandir]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-3-english-8c56e976c                    /episode/Ch-6-Charbhujanath-Mandir-3fa7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Charbhujanath-Mandir-3fa7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Charbhujanath-Mandir-3fa7.mp3"
+                               length="11339407"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:06:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio the chapter and the exercises have been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:27</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Swachh Bharat Abhiyaan]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-3-english-8c56e976c                    /episode/Ch-5-Swachh-Bharat-Abhiyaan-6226</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Swachh-Bharat-Abhiyaan-6226.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Swachh-Bharat-Abhiyaan-6226.mp3"
+                               length="12507013"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:05:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio, the chapter and exercises have been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:51</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Good Habits]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-3-english-8c56e976c                    /episode/Ch-4-Good-Habits-32d4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Good-Habits-32d4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Good-Habits-32d4.mp3"
+                               length="10423132"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:04:05 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio the chapter and exercises have been solved and explained in detail.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:25</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The Clever Minister]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-3-english-8c56e976c                    /episode/Ch-3-The-Clever-Minister-cccd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-Clever-Minister-cccd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-Clever-Minister-cccd.mp3"
+                               length="10862049"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:02:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[In this audio the chapter and the exercises have been solved and explained in detail.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Aditi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:03</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 A Smile With Blessing]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-3-english-8c56e976c                    /episode/Ch-2-A-Smile-With-Blessing-44ac</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-A-Smile-With-Blessing-44ac.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anushka                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-A-Smile-With-Blessing-44ac.mp3"
+                               length="2699622"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 03 Feb 2020 03:13:27 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Blessed are those who smile as smiles brighten up life. Smiles bless the world and make this a better place to live in...                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anushka                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>4:55</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Work While You Work]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-3-english-8c56e976c                    /episode/Ch-1-Work-While-You-Work-1ada</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Work-While-You-Work-1ada.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anushka                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Work-While-You-Work-1ada.mp3"
+                               length="3379763"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 02 Feb 2020 05:59:25 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Taught by Anushka                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anushka                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>6:10</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

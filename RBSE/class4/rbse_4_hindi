@@ -1,0 +1,704 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[RBSE Class 4 Hindi]]></title>
+        <description><![CDATA[RBSE Class 4 Hindi]]></description>
+        <link>
+        http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sun, 05 Jul 2020 02:22:51 -0400</lastBuildDate>
+        <pubDate>Sun, 05 Jul 2020 02:22:51 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[RBSE]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/Maroon_Flowers_Womens_Day_Instagram_Post_(2).png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 15 Kuraj Ri Viniti part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-15-Kuraj-Ri-Viniti-part-2-7bbb</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-Kuraj-Ri-Viniti-part-2-7bbb.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-Kuraj-Ri-Viniti-part-2-7bbb.mp3"
+                               length="11695483"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:19:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:15</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 Kuraj Ri Viniti part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-15-Kuraj-Ri-Viniti-part-1-224f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-Kuraj-Ri-Viniti-part-1-224f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-Kuraj-Ri-Viniti-part-1-224f.mp3"
+                               length="14498202"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:18:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Story description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14  Nirala Rajasthan part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-14-Nirala-Rajasthan-part-2-d416</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14-Nirala-Rajasthan-part-2-d416.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14-Nirala-Rajasthan-part-2-d416.mp3"
+                               length="11174871"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:17:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>24:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14  Nirala Rajasthan part 1 ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-14-Nirala-Rajasthan-part-1--0eab</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14-Nirala-Rajasthan-part-1--0eab.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14-Nirala-Rajasthan-part-1--0eab.mp3"
+                               length="13536000"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:17:25 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter discription                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:20</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 13 Gurubhakt Kaalibai part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-13-Gurubhakt-Kaalibai-part-1-97ba</link>
+                    <guid>http://awscdn.podcasts.com/Ch-13-Gurubhakt-Kaalibai-part-1-97ba.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-13-Gurubhakt-Kaalibai-part-1-97ba.mp3"
+                               length="12106486"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:16:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 13 Gurubhakt Kaalibai part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-13-Gurubhakt-Kaalibai-part-1-c68a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-13-Gurubhakt-Kaalibai-part-1-c68a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-13-Gurubhakt-Kaalibai-part-1-c68a.mp3"
+                               length="12248392"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:15:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:10</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 12 Godawan part2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-12-Godawan-part2-00e4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12-Godawan-part2-00e4.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12-Godawan-part2-00e4.mp3"
+                               length="11416945"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:42:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[chp12 Godawan part2                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:38</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 12 Godawan part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-12-Godawan-part-1-8857</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12-Godawan-part-1-8857.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12-Godawan-part-1-8857.mp3"
+                               length="11954811"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:41:49 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[chapter description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:14</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 Mere Gaon k khet me part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-11-Mere-Gaon-k-khet-me-part-1-6aab</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11-Mere-Gaon-k-khet-me-part-1-6aab.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11-Mere-Gaon-k-khet-me-part-1-6aab.mp3"
+                               length="10794895"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:38:25 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Poem description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:24</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Kudedaan ki kahaani Apni Zubaani]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-10-Kudedaan-ki-kahaani-Apni-Zubaani-0458</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Kudedaan-ki-kahaani-Apni-Zubaani-0458.mp3</guid>
+                    <description>
+                        <![CDATA[Taught bt Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Kudedaan-ki-kahaani-Apni-Zubaani-0458.mp3"
+                               length="18819922"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:22:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter description and exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught bt Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:42</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Khejdi ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-9-Khejdi--8acd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Khejdi--8acd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angessha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Khejdi--8acd.mp3"
+                               length="26608353"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:08:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter description and exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angessha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:43</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Aaj meri chutti hai ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-8-Aaj-meri-chutti-hai--d269</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Aaj-meri-chutti-hai--d269.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Aaj-meri-chutti-hai--d269.mp3"
+                               length="18002186"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:05:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter descriotion and exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Veer Balak Abhimanyu part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-7-Veer-Balak-Abhimanyu-part-2-700a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Veer-Balak-Abhimanyu-part-2-700a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Veer-Balak-Abhimanyu-part-2-700a.mp3"
+                               length="16184842"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:04:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:49</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 'Veer Balak Abhimanyu]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-7-Veer-Balak-Abhimanyu-1136</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Veer-Balak-Abhimanyu-1136.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angessha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Veer-Balak-Abhimanyu-1136.mp3"
+                               length="16060467"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 11:02:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[chapter description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angessha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:16</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Hume Jalashay lagte pyaare]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-6-Hume-Jalashay-lagte-pyaare-931b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Hume-Jalashay-lagte-pyaare-931b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angessha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Hume-Jalashay-lagte-pyaare-931b.mp3"
+                               length="18937467"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:44:04 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[poem description                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angessha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:11</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Dussehra  part 2 ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-5-Dussehra-part-2--56a4</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Dussehra-part-2--56a4.mp3</guid>
+                    <description>
+                        <![CDATA[taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Dussehra-part-2--56a4.mp3"
+                               length="13521777"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:38:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:55</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Dussehra]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-5-Dussehra-e37e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Dussehra-e37e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Dussehra-e37e.mp3"
+                               length="13709507"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:36:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[chapter description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Ped Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-4-Ped-Part-1-4f29</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Ped-Part-1-4f29.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Ped-Part-1-4f29.mp3"
+                               length="14816553"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:35:26 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[full chapter description and questions ans answers.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:53</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3  Jhilon ki Nagri]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-3-Jhilon-ki-Nagri-4674</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Jhilon-ki-Nagri-4674.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Jhilon-ki-Nagri-4674.mp3"
+                               length="21892280"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:33:58 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[chapter description amd questionand answers.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch  2 Budhimaan khargosh part2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-2-Budhimaan-khargosh-part2-93ce</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Budhimaan-khargosh-part2-93ce.mp3</guid>
+                    <description>
+                        <![CDATA[taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Budhimaan-khargosh-part2-93ce.mp3"
+                               length="10317629"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:32:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Budhimaan khargosh                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>18:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Budhimaan Khargosh part]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-2-Budhimaan-Khargosh-part-a6c2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Budhimaan-Khargosh-part-a6c2.mp3</guid>
+                    <description>
+                        <![CDATA[taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Budhimaan-Khargosh-part-a6c2.mp3"
+                               length="11547515"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:31:13 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[chapter description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>21:03</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Sukh Dham part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-1-Sukh-Dham-part-2-e25c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Sukh-Dham-part-2-e25c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Sukh-Dham-part-2-e25c.mp3"
+                               length="17042186"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:27:32 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise of the chapter                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:12</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Sukh Dham]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Ch-1-Sukh-Dham-7e0c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Sukh-Dham-7e0c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Sukh-Dham-7e0c.mp3"
+                               length="13399183"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 21 Apr 2020 11:25:41 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[poem description                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Angeesha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>21:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Oli aur poli 4]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-4-hindi-8cde8d1ee                    /episode/Oli-aur-poli-4-9f07</link>
+                    <guid>http://awscdn.podcasts.com/Oli-aur-poli-4-9f07.mp3</guid>
+                    <description>
+                        <![CDATA[Oli aur poli 4                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Oli-aur-poli-4-9f07.mp3"
+                               length="2189189"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 27 Jan 2020 04:25:15 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Oli aur poli 4                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Oli aur poli 4                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>4:18</itunes:duration>
+                    <itunes:keywords><![CDATA[, RBSE Class 4 Hindi]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

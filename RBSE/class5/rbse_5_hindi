@@ -1,0 +1,369 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[RBSE Class 5 Hindi]]></title>
+        <description><![CDATA[Hindi]]></description>
+        <link>
+        http://www.podcasts.com/rbse-class-5-hindi-899df30f7</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sun, 05 Jul 2020 02:26:46 -0400</lastBuildDate>
+        <pubDate>Sun, 05 Jul 2020 02:26:46 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com (Suno Kitaab)]]></webMaster>
+
+        <!--itunes stuff-->
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+                <itunes:subtitle><![CDATA[RBSE]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200428_190208_0000.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 12 Mazedar Kabbadi Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-12-Mazedar-Kabbadi-Part-1-dab8</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12-Mazedar-Kabbadi-Part-1-dab8.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by TanuÂ                         ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12-Mazedar-Kabbadi-Part-1-dab8.mp3"
+                               length="9848893"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Thu, 16 Jan 2020 07:11:02 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Let's learn about the game 'Kabaddi'.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by TanuÂ                         ]]>
+                    </itunes:summary>
+                    <itunes:duration>20:46</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 à¤¨à¥€à¤¤à¤¿ à¤•à¥‡ à¤¦à¥‹à¤¹à¥‡ ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-11--3bce</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11--3bce.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11--3bce.mp3"
+                               length="19077755"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:42:28 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[???? ?? ????                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>38:13</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 à¤¨à¤¾à¤°à¥€ à¤¶à¤•à¥à¤¤à¤¿ à¤•à¥€ à¤ªà¥à¤°à¤¤à¥€à¤• ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-10--3b2a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10--3b2a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10--3b2a.mp3"
+                               length="5812337"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:41:11 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[???? ????? ?? ??????                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>11:14</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 à¤¨à¤¯à¤¾ à¤¸à¤®à¤¾à¤œ à¤¬à¤¨à¤¾à¤à¤]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-8--ffb2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8--ffb2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8--ffb2.mp3"
+                               length="4559985"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:39:37 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[??? ???? ?????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>9:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 à¤¸à¤¦à¤¾à¤šà¤¾à¤°]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-8--4d6d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8--4d6d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8--4d6d.mp3"
+                               length="8296079"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:37:22 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[??????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>12:38</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 à¤¬à¤¾à¤²à¤• à¤•à¤¾ à¤¸à¥à¤µà¤ªà¥à¤¨ ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-7--eee2</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7--eee2.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7--eee2.mp3"
+                               length="6113372"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:36:15 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[???? ?? ??????                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>9:15</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 à¤¸à¥à¤µà¤¸à¥à¤¥ à¤¤à¤¨ à¤¸à¥à¤–à¥€ à¤œà¥€à¤µà¤¨]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-6--af28</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6--af28.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6--af28.mp3"
+                               length="8396739"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:35:06 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?????? ?? ???? ????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>16:59</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 à¤…à¤¨à¥‹à¤–à¥€ à¤¸à¥‚à¤]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-5--89d6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5--89d6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5--89d6.mp3"
+                               length="6757222"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:33:43 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[????? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>14:08</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤¹à¤® à¤­à¤¾à¤°à¤¤ à¤•à¥‡ à¤­à¤°à¤¤ ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-1--6bc0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1--6bc0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1--6bc0.mp3"
+                               length="9761894"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 05:31:24 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ???? ?? ???                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>14:20</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 à¤®à¥‡à¤¹à¤¨à¤¤ à¤•à¥€ à¤•à¤®à¤¾à¤ˆ ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-2--0c2b</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2--0c2b.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2--0c2b.mp3"
+                               length="15109140"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 03:55:14 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A short story                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>24:27</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤…à¤ªà¤¨à¥€ à¤µà¤¸à¥à¤¤à¥]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-3--14f3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3--14f3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3--14f3.mp3"
+                               length="16868372"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 03:53:43 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[A short story                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:11</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 à¤¤à¥à¤¯à¥‹à¤¹à¤¾à¤°à¥‹à¤‚ à¤•à¤¾ à¤¦à¥‡à¤¶ ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-hindi-899df30f7                    /episode/Ch-4--fc57</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4--fc57.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4--fc57.mp3"
+                               length="14541076"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 20 Dec 2019 03:50:21 -0500</pubDate>
+
+                    <itunes:author><![CDATA[Tanu Aggarwal]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[????????? ?? ???                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>23:09</itunes:duration>
+                    <itunes:keywords><![CDATA[kids,stories,hindi,school,festivals, RBSE, NCERT, education, class 5, hindi, english, sst, science]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

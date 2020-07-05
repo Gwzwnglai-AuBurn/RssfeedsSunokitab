@@ -1,0 +1,816 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[RBSE Class 5 English]]></title>
+        <description><![CDATA[English]]></description>
+        <link>
+        http://www.podcasts.com/rbse-class-5-english-7acd49ea7</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sun, 05 Jul 2020 02:26:27 -0400</lastBuildDate>
+        <pubDate>Sun, 05 Jul 2020 02:26:27 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[RBSE]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200428_191054_0000.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 7 Who Will Play With Me? Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-7-Who-Will-Play-With-Me-Part-2-d8e6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Who-Will-Play-With-Me-Part-2-d8e6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Who-Will-Play-With-Me-Part-2-d8e6.mp3"
+                               length="8369367"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 12 May 2020 13:44:18 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have read the chapter and explained the story                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>15:50</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Who Will Play With Me? Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-7-Who-Will-Play-With-Me-Part-1-6933</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Who-Will-Play-With-Me-Part-1-6933.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Who-Will-Play-With-Me-Part-1-6933.mp3"
+                               length="9945016"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 04 Apr 2020 05:01:00 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have read the chapter and explained the story.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>21:52</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 A Genie Whom No One Liked Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-8-A-Genie-Whom-No-One-Liked-Part-2-3c44</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-Genie-Whom-No-One-Liked-Part-2-3c44.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-Genie-Whom-No-One-Liked-Part-2-3c44.mp3"
+                               length="9942907"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 04 Apr 2020 04:58:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have finished the exercises only.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:38</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 The Star Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-9-The-Star-Part-2-89b3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-The-Star-Part-2-89b3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-The-Star-Part-2-89b3.mp3"
+                               length="21693798"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 04 Apr 2020 04:57:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have finished the chapter's exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:59</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 The Dussehra Festival Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-6-The-Dussehra-Festival-Part-2-58b0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-The-Dussehra-Festival-Part-2-58b0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-The-Dussehra-Festival-Part-2-58b0.mp3"
+                               length="18250199"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 30 Mar 2020 11:54:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Finished the chapter                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>19:59</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 The Dussehra Festival Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-6-The-Dussehra-Festival-Part-1-4d39</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-The-Dussehra-Festival-Part-1-4d39.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-The-Dussehra-Festival-Part-1-4d39.mp3"
+                               length="16656456"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 30 Mar 2020 11:51:40 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have explained the chapter and importance of Dusshera.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:53</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Adding Colours]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-5-Adding-Colours-650f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Adding-Colours-650f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Adding-Colours-650f.mp3"
+                               length="10097234"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 30 Mar 2020 11:44:47 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Completed the whole chapter, with exercises.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:08</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 School Is Temple Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-4-School-Is-Temple-Part-2-842d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-School-Is-Temple-Part-2-842d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-School-Is-Temple-Part-2-842d.mp3"
+                               length="11842140"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 30 Mar 2020 11:41:23 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:50</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 School Is Temple Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-4-School-Is-Temple-Part-1-cdca</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-School-Is-Temple-Part-1-cdca.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-School-Is-Temple-Part-1-cdca.mp3"
+                               length="14676357"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 30 Mar 2020 11:29:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I have read the chapter and explained it.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:56</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The Rats And The Elephants Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-3-The-Rats-And-The-Elephants-Part-2-02ab</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-Rats-And-The-Elephants-Part-2-02ab.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-Rats-And-The-Elephants-Part-2-02ab.mp3"
+                               length="16258949"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 27 Mar 2020 09:33:20 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:39</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 The Rats And The Elephants Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-3-The-Rats-And-The-Elephants-Part-1-ce92</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-The-Rats-And-The-Elephants-Part-1-ce92.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-The-Rats-And-The-Elephants-Part-1-ce92.mp3"
+                               length="11815803"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 24 Mar 2020 03:18:08 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I've read the story and explained the chapter.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:24</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Let's Learn Pranayam Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-2-Lets-Learn-Pranayam-Part-1-012a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Lets-Learn-Pranayam-Part-1-012a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Lets-Learn-Pranayam-Part-1-012a.mp3"
+                               length="14484408"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 24 Mar 2020 03:16:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Read the chapter                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:42</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Let's LEarn Pranayam Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-2-Lets-LEarn-Pranayam-Part-2-c5c5</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Lets-LEarn-Pranayam-Part-2-c5c5.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Lets-LEarn-Pranayam-Part-2-c5c5.mp3"
+                               length="12217375"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 18 Mar 2020 05:26:12 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Completed the exercises                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>21:58</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 We Shall Overcome]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-1-We-Shall-Overcome-e3cf</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-We-Shall-Overcome-e3cf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-We-Shall-Overcome-e3cf.mp3"
+                               length="12203387"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 18 Mar 2020 05:25:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[I finished the reading and explained the text with exercise.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:30</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Say No To Tobacoo Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-10-Say-No-To-Tobacoo-Part-2-1b5e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Say-No-To-Tobacoo-Part-2-1b5e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Say-No-To-Tobacoo-Part-2-1b5e.mp3"
+                               length="12649339"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 18 Mar 2020 05:23:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Finished the Exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Vaibhavi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:23</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 A Genie Whom No One Liked Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-8-A-Genie-Whom-No-One-Liked-Part-1-b101</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-A-Genie-Whom-No-One-Liked-Part-1-b101.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-A-Genie-Whom-No-One-Liked-Part-1-b101.mp3"
+                               length="24241377"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 10 Jan 2020 05:40:56 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Pankaj wished to enter the magic lamp as he wanted to see what the genie's house looked like. Whenever somebody rubbed the magic lamp, the genie would come out and say, &quot;What is your wish?&quot; Together Pankaj and the genie put everything in order. Now the g                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>16:50</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 The Star Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-9-The-Star-Part-1-ffcc</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-The-Star-Part-1-ffcc.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-The-Star-Part-1-ffcc.mp3"
+                               length="18499246"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 10 Jan 2020 05:31:47 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The poem comprises little thoughts of a young child wondering over the twinkling of the stars that look like diamonds in the sky.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>12:51</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 A Talkative Tortoise Part 1 (Version 2)]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-11-A-Talkative-Tortoise-Part-1-Version-2-a6e7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11-A-Talkative-Tortoise-Part-1-Version-2-a6e7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11-A-Talkative-Tortoise-Part-1-Version-2-a6e7.mp3"
+                               length="9873715"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 10 Jan 2020 05:29:16 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[The tortoise was very talkative. It used to talk to swans for a very long time. Tortoise and Swans become good friends. The swans suggested a plan, according to which tortoise would have to hold a piece of stick by its mouth and the swans will hold its t                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>15:04</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Say No To Tobacoo Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-10-Say-No-To-Tobacoo-Part-1-5c38</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Say-No-To-Tobacoo-Part-1-5c38.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Say-No-To-Tobacoo-Part-1-5c38.mp3"
+                               length="8278651"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Fri, 10 Jan 2020 05:24:50 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Smokers have trouble breathing because smoking damages the lungs. If you have asthma, you can have more frequent and more serious attacks. Smoking causes a lot of coughing with phlegm (mucus). Tobacco can cause emphysema (lung disease) and lung cancer.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Tanu                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>17:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 A Talkative Tortoise Part 1 (Version 1)]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-11-A-Talkative-Tortoise-Part-1-Version-1-b3ec</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11-A-Talkative-Tortoise-Part-1-Version-1-b3ec.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11-A-Talkative-Tortoise-Part-1-Version-1-b3ec.mp3"
+                               length="19825736"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 08 Jan 2020 04:23:12 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Full chapter with exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:00</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 12 Chittorgarh: A Glimpse Of Glory Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-12-Chittorgarh-A-Glimpse-Of-Glory-Part-2-2001</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12-Chittorgarh-A-Glimpse-Of-Glory-Part-2-2001.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12-Chittorgarh-A-Glimpse-Of-Glory-Part-2-2001.mp3"
+                               length="7175598"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 08 Jan 2020 04:22:03 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>12:15</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 12 Chittorgarh: A Glimpse Of Glory Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-12-Chittorgarh-A-Glimpse-Of-Glory-Part-1-25e0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12-Chittorgarh-A-Glimpse-Of-Glory-Part-1-25e0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12-Chittorgarh-A-Glimpse-Of-Glory-Part-1-25e0.mp3"
+                               length="12130662"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 08 Jan 2020 04:21:20 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter explanation                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>16:43</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 13 Firefly In My Room Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-13-Firefly-In-My-Room-Part-1-f845</link>
+                    <guid>http://awscdn.podcasts.com/Ch-13-Firefly-In-My-Room-Part-1-f845.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-13-Firefly-In-My-Room-Part-1-f845.mp3"
+                               length="11838751"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 08 Jan 2020 04:19:55 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Whole chapter covered with exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>16:05</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14 A Gurubhakt Girl: Kalibai Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-14-A-Gurubhakt-Girl-Kalibai-Part-2-423d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14-A-Gurubhakt-Girl-Kalibai-Part-2-423d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14-A-Gurubhakt-Girl-Kalibai-Part-2-423d.mp3"
+                               length="13585541"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 30 Dec 2019 02:14:58 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:27</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14 A Gurubhakt Girl: Kalibai Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-14-A-Gurubhakt-Girl-Kalibai-Part-1-9749</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14-A-Gurubhakt-Girl-Kalibai-Part-1-9749.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14-A-Gurubhakt-Girl-Kalibai-Part-1-9749.mp3"
+                               length="11728302"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 29 Dec 2019 06:20:42 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Whole chapter is explained with word meanings                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>20:44</itunes:duration>
+                    <itunes:keywords><![CDATA[Kids, Story, English story, Education, Short stories, Princess story, History, Class 8, Social Science, Sst, History, Chapter 1, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 The Choice Is Yours Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-15-The-Choice-Is-Yours-Part-2-b80e</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-The-Choice-Is-Yours-Part-2-b80e.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-The-Choice-Is-Yours-Part-2-b80e.mp3"
+                               length="14210724"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 28 Dec 2019 06:32:47 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Exercise                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>22:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 The Choice Is Yours Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-15-The-Choice-Is-Yours-Part-1-f009</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-The-Choice-Is-Yours-Part-1-f009.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-The-Choice-Is-Yours-Part-1-f009.mp3"
+                               length="9017242"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sat, 28 Dec 2019 05:30:46 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Chapter explanation covered in this part.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Riddhi                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>17:46</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Let's Learn Pranayam]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-english-7acd49ea7                    /episode/Ch-2-Lets-Learn-Pranayam-511d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Lets-Learn-Pranayam-511d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Anushka                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Lets-Learn-Pranayam-511d.mp3"
+                               length="8144302"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 01 Dec 2019 03:38:03 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Let's learn about different Asanas.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Anushka                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>13:41</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>

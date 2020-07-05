@@ -1,0 +1,733 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[RBSE Class 5 Environment Studies]]></title>
+        <description><![CDATA[RBSE Class 5 Environment Studies]]></description>
+        <link>
+        http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sun, 05 Jul 2020 02:26:26 -0400</lastBuildDate>
+        <pubDate>Sun, 05 Jul 2020 02:26:26 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[RBSE]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200428_190545_0000.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 25 Hmari Prithvi Va Antariksh]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-25-Hmari-Prithvi-Va-Antariksh-9e45</link>
+                    <guid>http://awscdn.podcasts.com/Ch-25-Hmari-Prithvi-Va-Antariksh-9e45.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-25-Hmari-Prithvi-Va-Antariksh-9e45.mp3"
+                               length="16944056"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:32:13 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the space                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:25</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 24 Pahado Ki Sair]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-24-Pahado-Ki-Sair-fd97</link>
+                    <guid>http://awscdn.podcasts.com/Ch-24-Pahado-Ki-Sair-fd97.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-24-Pahado-Ki-Sair-fd97.mp3"
+                               length="18760899"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:31:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the hills.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:24</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 23 Hmari virasat]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-23-Hmari-virasat-de80</link>
+                    <guid>http://awscdn.podcasts.com/Ch-23-Hmari-virasat-de80.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-23-Hmari-virasat-de80.mp3"
+                               length="17146808"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:29:59 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about our national buildings.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:56</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 22 Kaise Bachaye Indhan]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-22-Kaise-Bachaye-Indhan-22cc</link>
+                    <guid>http://awscdn.podcasts.com/Ch-22-Kaise-Bachaye-Indhan-22cc.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-22-Kaise-Bachaye-Indhan-22cc.mp3"
+                               length="17881539"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:28:42 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about how to save fuel                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:45</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 21 Jeevan Hai Anmol]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-21-Jeevan-Hai-Anmol-d2f0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-21-Jeevan-Hai-Anmol-d2f0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-21-Jeevan-Hai-Anmol-d2f0.mp3"
+                               length="17250990"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:22:20 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about traffic rules and pollution                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 20 Kheti Se Khushhali]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-20-Kheti-Se-Khushhali-9f90</link>
+                    <guid>http://awscdn.podcasts.com/Ch-20-Kheti-Se-Khushhali-9f90.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-20-Kheti-Se-Khushhali-9f90.mp3"
+                               length="20315361"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:20:54 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the fields                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:14</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 19 Jab aayi aapda ]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-19-Jab-aayi-aapda--9b6f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-19-Jab-aayi-aapda--9b6f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-19-Jab-aayi-aapda--9b6f.mp3"
+                               length="15729940"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:18:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Ginni                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:42</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[ Ch 18 Tarah-Tarah Ke Ghar]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/-Ch-18-Tarah-Tarah-Ke-Ghar-4adf</link>
+                    <guid>http://awscdn.podcasts.com/-Ch-18-Tarah-Tarah-Ke-Ghar-4adf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/-Ch-18-Tarah-Tarah-Ke-Ghar-4adf.mp3"
+                               length="16114330"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:15:52 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[DisCussed about different types of homes                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:06</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 17 Apna Jila]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-17-Apna-Jila-3a44</link>
+                    <guid>http://awscdn.podcasts.com/Ch-17-Apna-Jila-3a44.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-17-Apna-Jila-3a44.mp3"
+                               length="15849001"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:14:41 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about jila                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 16 Hmare Gaurav-III]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-16-Hmare-Gaurav-III-b5df</link>
+                    <guid>http://awscdn.podcasts.com/Ch-16-Hmare-Gaurav-III-b5df.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-16-Hmare-Gaurav-III-b5df.mp3"
+                               length="18356285"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:13:30 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about great leaders                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 15 Jab Chahe Tab Khaye]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-15-Jab-Chahe-Tab-Khaye-0ebd</link>
+                    <guid>http://awscdn.podcasts.com/Ch-15-Jab-Chahe-Tab-Khaye-0ebd.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-15-Jab-Chahe-Tab-Khaye-0ebd.mp3"
+                               length="22002074"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:12:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about food                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:33</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 14 Khane Se Pachne Tak]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-14-Khane-Se-Pachne-Tak-a3e3</link>
+                    <guid>http://awscdn.podcasts.com/Ch-14-Khane-Se-Pachne-Tak-a3e3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-14-Khane-Se-Pachne-Tak-a3e3.mp3"
+                               length="21917266"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:09:28 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the digestion of food.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:09</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 13 Pani Se Khele]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-13-Pani-Se-Khele-8469</link>
+                    <guid>http://awscdn.podcasts.com/Ch-13-Pani-Se-Khele-8469.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-13-Pani-Se-Khele-8469.mp3"
+                               length="19156490"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:07:57 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the water                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:17</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 12 Ganda Pani Felaye Rog]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-12-Ganda-Pani-Felaye-Rog-375c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-12-Ganda-Pani-Felaye-Rog-375c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-12-Ganda-Pani-Felaye-Rog-375c.mp3"
+                               length="17744568"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:06:44 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the diseases caused by dirty water.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:22</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 11 Jal Mein Jeevan]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-11-Jal-Mein-Jeevan-461c</link>
+                    <guid>http://awscdn.podcasts.com/Ch-11-Jal-Mein-Jeevan-461c.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-11-Jal-Mein-Jeevan-461c.mp3"
+                               length="17326346"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:05:37 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about water plants                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:21</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 10 Jal Upar Se Niche Ki Or]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-10-Jal-Upar-Se-Niche-Ki-Or-15cf</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-Jal-Upar-Se-Niche-Ki-Or-15cf.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-Jal-Upar-Se-Niche-Ki-Or-15cf.mp3"
+                               length="17927834"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 13:03:09 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the flow of water                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:52</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Kahan- Kahan Se Pani]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-9-Kahan-Kahan-Se-Pani-096d</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Kahan-Kahan-Se-Pani-096d.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Kahan-Kahan-Se-Pani-096d.mp3"
+                               length="15972076"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:57:48 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about the sourced of water                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:32</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Jeev jantuon ki duniya]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-8-Jeev-jantuon-ki-duniya-1cee</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Jeev-jantuon-ki-duniya-1cee.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Jeev-jantuon-ki-duniya-1cee.mp3"
+                               length="18790615"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:56:38 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about jeev and jantu                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Vriksho Ki Mahima]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-7-Vriksho-Ki-Mahima-7e09</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Vriksho-Ki-Mahima-7e09.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Vriksho-Ki-Mahima-7e09.mp3"
+                               length="18573056"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:55:38 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about trees                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:11</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Beej Bana Podha]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-6-Beej-Bana-Podha-270f</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Beej-Bana-Podha-270f.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Beej-Bana-Podha-270f.mp3"
+                               length="20015770"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:54:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about seed.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>25:51</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 Aao Khele Khel]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-5-Aao-Khele-Khel-ebac</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Aao-Khele-Khel-ebac.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Aao-Khele-Khel-ebac.mp3"
+                               length="22362532"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:53:16 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about importance of games and yoga                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:54</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Milkar karein safai]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-4-Milkar-karein-safai-ef19</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Milkar-karein-safai-ef19.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Milkar-karein-safai-ef19.mp3"
+                               length="22366372"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:50:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about cleaning                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:21</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[ Ch 3 Kuch khas hai hum]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/-Ch-3-Kuch-khas-hai-hum-6dc3</link>
+                    <guid>http://awscdn.podcasts.com/-Ch-3-Kuch-khas-hai-hum-6dc3.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/-Ch-3-Kuch-khas-hai-hum-6dc3.mp3"
+                               length="21095188"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:49:14 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about disabilities.                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Parivaron ka aana jana]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-1-Parivaron-ka-aana-jana-b6d6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Parivaron-ka-aana-jana-b6d6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Parivaron-ka-aana-jana-b6d6.mp3"
+                               length="22227825"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Wed, 22 Apr 2020 12:47:20 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[Discussed about why people migrate from one place to another                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ginni                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:39</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Parivaron Ka Aana-Jaana]]></title>
+                    <link>
+                    http://www.podcasts.com/rbse-class-5-envrionment-stuidies-9090c2303                    /episode/Ch-2-Parivaron-Ka-Aana-Jaana-2419</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Parivaron-Ka-Aana-Jaana-2419.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Ashwini                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Parivaron-Ka-Aana-Jaana-2419.mp3"
+                               length="20537313"
+                               type="audio/mp3"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Mon, 27 Jan 2020 06:27:09 -0500</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[&quot;This chapter is all about migration of families for educational purpose, search of work, natural calamities, etc.
+I have covered all the short stories given in the chapter.&quot;                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Ashwini                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:43</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, RBSE Class 5 Environment Studies]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>
