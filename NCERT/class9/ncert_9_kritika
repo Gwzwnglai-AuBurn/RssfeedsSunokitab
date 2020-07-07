@@ -3,14 +3,14 @@
     <channel>
 
         <!--general stuff-->
-        <title><![CDATA[NCERT Class 9 Kshitij]]></title>
-        <description><![CDATA[Hindi]]></description>
+        <title><![CDATA[NCERT Class 9 kritika]]></title>
+        <description><![CDATA[NCERT Class 9 kritika]]></description>
         <link>
-        http://www.podcasts.com/class-9-moments-20448ac7a</link>
+        http://www.podcasts.com/ncert-class-9-kritika-caf67eb94</link>
         <language>en-US</language>
         <copyright>Copyright 2020</copyright>
-        <lastBuildDate>Sat, 04 Jul 2020 17:14:33 -0400</lastBuildDate>
-        <pubDate>Sat, 04 Jul 2020 17:14:33 -0400</pubDate>
+        <lastBuildDate>Tue, 07 Jul 2020 03:58:31 -0400</lastBuildDate>
+        <pubDate>Tue, 07 Jul 2020 03:58:31 -0400</pubDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 
                 <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
@@ -21,12 +21,236 @@
             <![CDATA[]]>
         </itunes:summary>
                 <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_125159_0006.png"/>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200507_160920_0001.png"/>
         <itunes:category
                 text="Education"></itunes:category>
 
         <!--episode-->
-        
+                        <item>
+                    <title><![CDATA[Ch 5 à¤•à¤¿à¤¸ à¤¤à¤°à¤¹ à¤†à¤–à¤¿à¤°à¤•à¤¾à¤° à¤®à¥ˆà¤‚ à¤¹à¤¿à¤‚à¤¦à¥€ à¤®à¥‡à¤‚ à¤†à¤¯à¤¾ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-5-Part-1-a394</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-Part-1-a394.mp3</guid>
+                    <description>
+                        <![CDATA[ Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-Part-1-a394.mp3"
+                               length="24778711"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:26:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?? ????? ?? ??? ??? ???? ????? ??????? ??? ??? ????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[&nbsp;Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>37:51</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 à¤®à¤¾à¤Ÿà¥€ à¤µà¤¾à¤²à¥€]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-4--b89a</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4--b89a.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4--b89a.mp3"
+                               length="21713992"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:24:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[???????? ??? ?????? ???? ????? ?? ??? ???????? ??????? ???? ?? ???? ???? ????? ???? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:44</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤°à¥€à¤¢à¤¼ à¤•à¥€ à¤¹à¤¡à¥à¤¡à¥€ Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-3-Part-2-aa94</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Part-2-aa94.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Part-2-aa94.mp3"
+                               length="21888727"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:21:20 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?????? ?? ????? ??? ??? ???? ?????? ?? ????? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:41</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 à¤°à¥€à¤¢à¤¼ à¤•à¥€ à¤¹à¤¡à¥à¤¡à¥€ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-3-Part-1-79dc</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Part-1-79dc.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Part-1-79dc.mp3"
+                               length="19218227"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 26 May 2020 08:19:01 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?????? ?? ????? ??? ??? ???? ?????? ?? ????? ??? ???a                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:37</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 à¤®à¥‡à¤°à¥‡ à¤¸à¤‚à¤— à¤•à¥€ à¤”à¤°à¤¤ Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-2-Ch-2-Part-2-0d40</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Ch-2-Part-2-0d40.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Ch-2-Part-2-0d40.mp3"
+                               length="18532925"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:44:21 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?????? ?? ???? ?????? ?? ????? ?? ?????????? ?? ????? ???? ?? ?? ????? ??? ?? ???? ???? ???? ????? ????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>32:35</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 à¤®à¥‡à¤°à¥‡ à¤¸à¤‚à¤— à¤•à¥€ à¤”à¤°à¤¤ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-2-Part-1-b934</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Part-1-b934.mp3</guid>
+                    <description>
+                        <![CDATA[Taught  by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Part-1-b934.mp3"
+                               length="21661112"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:43:32 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ?????? ?? ???? ?????? ?? ????? ?? ?????????? ?? ????? ???? ?? ?? ????? ??? ?? ???? ???? ???? ????? ????                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught&nbsp; by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>33:50</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤‡à¤¸ à¤œà¤² à¤ªà¥à¤°à¤²à¤¯ à¤®à¥‡à¤‚ Part 2]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-1-Part-2-63ca</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Part-2-63ca.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Part-2-63ca.mp3"
+                               length="19305964"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:42:39 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?? ???????? ?? ????? ???? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>34:48</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 à¤‡à¤¸ à¤œà¤² à¤ªà¥à¤°à¤²à¤¯ à¤®à¥‡à¤‚ Part 1]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-9-kritika-caf67eb94                    /episode/Ch-1-Part-1-e365</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Part-1-e365.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Part-1-e365.mp3"
+                               length="20739512"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Sun, 17 May 2020 05:41:03 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[?? ??? ??? ???? ?? ???????? ?? ????? ???? ??? ???                        ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Archana                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:18</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 9 kritika]]>
+                    </itunes:keywords>
+
+                </item>
+                
     </channel>
 
 </rss>
