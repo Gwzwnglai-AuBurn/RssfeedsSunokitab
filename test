@@ -1,59 +1,423 @@
-
-
-
 {
- "resultCount":50,
- "results": [
-{"wrapperType":"track", "kind":"podcast", "artistId":992554523, "collectionId":1111319839, "trackId":1111319839, "artistName":"POLITICO", "collectionName":"POLITICO's Nerdcast", "trackName":"POLITICO's Nerdcast", "collectionCensoredName":"POLITICO's Nerdcast", "trackCensoredName":"POLITICO's Nerdcast", "artistViewUrl":"https://podcasts.apple.com/us/artist/politico/992554523?uo=4", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/politicos-nerdcast/id1111319839?uo=4", "feedUrl":"https://feeds.simplecast.com/_KHnZ26g", "trackViewUrl":"https://podcasts.apple.com/us/podcast/politicos-nerdcast/id1111319839?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/56/03/56/5603561a-36b8-7329-8729-5cfc3613dd9e/mza_8806899564143688268.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/56/03/56/5603561a-36b8-7329-8729-5cfc3613dd9e/mza_8806899564143688268.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/56/03/56/5603561a-36b8-7329-8729-5cfc3613dd9e/mza_8806899564143688268.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-04T12:02:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":286, "country":"USA", "currency":"USD", "primaryGenreName":"Politics", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/56/03/56/5603561a-36b8-7329-8729-5cfc3613dd9e/mza_8806899564143688268.jpg/600x600bb.jpg", "genreIds":["1527", "26", "1489", "1530"], "genres":["Politics", "Podcasts", "News", "News Commentary"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":381816509, "trackId":381816509, "artistName":"Jovem Nerd", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id381816509?uo=4", "feedUrl":"https://jovemnerd.com.br/feed-nerdcast/", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id381816509?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/bb/1e/5b/bb1e5b68-7528-791c-079c-9e26596bac0c/mza_260049221069293215.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/bb/1e/5b/bb1e5b68-7528-791c-079c-9e26596bac0c/mza_260049221069293215.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/bb/1e/5b/bb1e5b68-7528-791c-079c-9e26596bac0c/mza_260049221069293215.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-04T12:01:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":968, "country":"USA", "currency":"USD", "primaryGenreName":"Society & Culture", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/bb/1e/5b/bb1e5b68-7528-791c-079c-9e26596bac0c/mza_260049221069293215.jpg/600x600bb.jpg", "genreIds":["1324", "26"], "genres":["Society & Culture", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1103141552, "trackId":1103141552, "artistName":"Nerdcast", "collectionName":"Nerdcast", "trackName":"Nerdcast", "collectionCensoredName":"Nerdcast", "trackCensoredName":"Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1103141552?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:219177314/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1103141552?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/43/4f/83434ffa-2c0e-f8ac-719c-183b2333257c/mza_8962698188637915238.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/43/4f/83434ffa-2c0e-f8ac-719c-183b2333257c/mza_8962698188637915238.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/43/4f/83434ffa-2c0e-f8ac-719c-183b2333257c/mza_8962698188637915238.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2016-07-11T07:05:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":2, "country":"USA", "currency":"USD", "primaryGenreName":"Comedy", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/43/4f/83434ffa-2c0e-f8ac-719c-183b2333257c/mza_8962698188637915238.jpg/600x600bb.jpg", "genreIds":["1303", "26"], "genres":["Comedy", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1487301181, "trackId":1487301181, "artistName":"NerdCast", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1487301181?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:731030209/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1487301181?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/e5/1e/55e51e1c-f87c-be25-1d3d-f522a18a8323/mza_812840706514185025.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/e5/1e/55e51e1c-f87c-be25-1d3d-f522a18a8323/mza_812840706514185025.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/e5/1e/55e51e1c-f87c-be25-1d3d-f522a18a8323/mza_812840706514185025.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-12-23T16:53:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":3, "country":"USA", "currency":"USD", "primaryGenreName":"Science", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/e5/1e/55e51e1c-f87c-be25-1d3d-f522a18a8323/mza_812840706514185025.jpg/600x600bb.jpg", "genreIds":["1533", "26"], "genres":["Science", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1502843493, "trackId":1502843493, "artistName":"Kate Grandbois, MS, CCC-SLP, BCBA, LABA; Amy Wonkka, MA, CCC-SLP.", "collectionName":"SLP Nerdcast", "trackName":"SLP Nerdcast", "collectionCensoredName":"SLP Nerdcast", "trackCensoredName":"SLP Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/slp-nerdcast/id1502843493?uo=4", "feedUrl":"https://turquoise-flute-n7s6.squarespace.com/episodes?format=rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/slp-nerdcast/id1502843493?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ea/74/53/ea7453ba-1d26-21d6-0535-e908a242d95d/mza_15476570361070964050.png/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ea/74/53/ea7453ba-1d26-21d6-0535-e908a242d95d/mza_15476570361070964050.png/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ea/74/53/ea7453ba-1d26-21d6-0535-e908a242d95d/mza_15476570361070964050.png/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-06T17:00:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":35, "country":"USA", "currency":"USD", "primaryGenreName":"Courses", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ea/74/53/ea7453ba-1d26-21d6-0535-e908a242d95d/mza_15476570361070964050.png/600x600bb.jpg", "genreIds":["1501", "26", "1304", "1533", "1535"], "genres":["Courses", "Podcasts", "Education", "Science", "Social Sciences"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1505640020, "trackId":1505640020, "artistName":"Interweave", "collectionName":"Knitting Nerdcast", "trackName":"Knitting Nerdcast", "collectionCensoredName":"Knitting Nerdcast", "trackCensoredName":"Knitting Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/knitting-nerdcast/id1505640020?uo=4", "feedUrl":"https://feeds.megaphone.fm/knittingnerdcast", "trackViewUrl":"https://podcasts.apple.com/us/podcast/knitting-nerdcast/id1505640020?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/bb/0a/cf/bb0acf66-bd30-d933-042e-696abf3aa944/mza_5831169676516959244.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/bb/0a/cf/bb0acf66-bd30-d933-042e-696abf3aa944/mza_5831169676516959244.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/bb/0a/cf/bb0acf66-bd30-d933-042e-696abf3aa944/mza_5831169676516959244.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-07-31T03:45:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":7, "country":"USA", "currency":"USD", "primaryGenreName":"Crafts", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/bb/0a/cf/bb0acf66-bd30-d933-042e-696abf3aa944/mza_5831169676516959244.jpg/600x600bb.jpg", "genreIds":["1506", "26", "1502", "1301", "1406"], "genres":["Crafts", "Podcasts", "Leisure", "Arts", "Visual Arts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1481111117, "trackId":1481111117, "artistName":"Jovem Nerd", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1481111117?uo=4", "feedUrl":"https://feeds.podcastmirror.com/porradafranca", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1481111117?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/aa/6e/8c/aa6e8c36-bb57-d8b9-8d85-4e237b75183b/mza_15856437140209374859.jpeg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/aa/6e/8c/aa6e8c36-bb57-d8b9-8d85-4e237b75183b/mza_15856437140209374859.jpeg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/aa/6e/8c/aa6e8c36-bb57-d8b9-8d85-4e237b75183b/mza_15856437140209374859.jpeg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-04T12:01:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":968, "country":"USA", "currency":"USD", "primaryGenreName":"Society & Culture", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/aa/6e/8c/aa6e8c36-bb57-d8b9-8d85-4e237b75183b/mza_15856437140209374859.jpeg/600x600bb.jpg", "genreIds":["1324", "26"], "genres":["Society & Culture", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1013472013, "trackId":1013472013, "artistName":"ComiConverse", "collectionName":"Nerdcast", "trackName":"Nerdcast", "collectionCensoredName":"Nerdcast", "trackCensoredName":"Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1013472013?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:147867195/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1013472013?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/d8/85/13d8859e-0035-13ed-fa1c-1ed77da0a168/mza_7358583467580781852.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/d8/85/13d8859e-0035-13ed-fa1c-1ed77da0a168/mza_7358583467580781852.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/d8/85/13d8859e-0035-13ed-fa1c-1ed77da0a168/mza_7358583467580781852.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2018-12-23T22:38:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":4, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/d8/85/13d8859e-0035-13ed-fa1c-1ed77da0a168/mza_7358583467580781852.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "artistId":1013230040, "collectionId":1019138641, "trackId":1019138641, "artistName":"The Powerful Nerdcast", "collectionName":"The Powerful Nerdcast", "trackName":"The Powerful Nerdcast", "collectionCensoredName":"The Powerful Nerdcast", "trackCensoredName":"The Powerful Nerdcast", "artistViewUrl":"https://podcasts.apple.com/us/artist/rogue-intel/1013230040?uo=4", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-powerful-nerdcast/id1019138641?uo=4", "feedUrl":"http://www.blogtalkradio.com/powerfulnerdcast/podcast", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-powerful-nerdcast/id1019138641?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d0/12/46/d0124615-8f2e-13cd-b1c6-92e478e57c12/mza_5605546073923458414.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d0/12/46/d0124615-8f2e-13cd-b1c6-92e478e57c12/mza_5605546073923458414.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d0/12/46/d0124615-8f2e-13cd-b1c6-92e478e57c12/mza_5605546073923458414.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2017-12-01T16:00:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":83, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d0/12/46/d0124615-8f2e-13cd-b1c6-92e478e57c12/mza_5605546073923458414.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1083394658, "trackId":1083394658, "artistName":"The Amazing Nerdcast", "collectionName":"The Amazing Nerdcast Comic Book Podcast", "trackName":"The Amazing Nerdcast Comic Book Podcast", "collectionCensoredName":"The Amazing Nerdcast Comic Book Podcast", "trackCensoredName":"The Amazing Nerdcast Comic Book Podcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-amazing-nerdcast-comic-book-podcast/id1083394658?uo=4", "feedUrl":"https://amazingnerdcast.com/feed/podcast/amazing-nerdcast/", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-amazing-nerdcast-comic-book-podcast/id1083394658?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2e/3f/0b/2e3f0b99-7e92-9f1e-9676-eb6f330278ba/mza_2269280173838687618.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2e/3f/0b/2e3f0b99-7e92-9f1e-9676-eb6f330278ba/mza_2269280173838687618.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2e/3f/0b/2e3f0b99-7e92-9f1e-9676-eb6f330278ba/mza_2269280173838687618.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2017-08-27T13:31:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":57, "country":"USA", "currency":"USD", "primaryGenreName":"Visual Arts", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2e/3f/0b/2e3f0b99-7e92-9f1e-9676-eb6f330278ba/mza_2269280173838687618.jpg/600x600bb.jpg", "genreIds":["1406", "26", "1301", "1502", "1505"], "genres":["Visual Arts", "Podcasts", "Arts", "Leisure", "Hobbies"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1450538852, "trackId":1450538852, "artistName":"The Weekly Standard", "collectionName":"The Weekly Substandard | A nerdcast on movies and pop-culture", "trackName":"The Weekly Substandard | A nerdcast on movies and pop-culture", "collectionCensoredName":"The Weekly Substandard | A nerdcast on movies and pop-culture", "trackCensoredName":"The Weekly Substandard | A nerdcast on movies and pop-culture", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-weekly-substandard-a-nerdcast-on-movies-and-pop-culture/id1450538852?uo=4", "feedUrl":"https://central.washingtonexaminer.com/external/podcasts/substandard/substandard.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-weekly-substandard-a-nerdcast-on-movies-and-pop-culture/id1450538852?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/03/be/7103be84-5a22-ccb3-ab98-34a48f981f64/mza_1549118559053898406.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/03/be/7103be84-5a22-ccb3-ab98-34a48f981f64/mza_1549118559053898406.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/03/be/7103be84-5a22-ccb3-ab98-34a48f981f64/mza_1549118559053898406.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2018-12-13T16:23:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":156, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/03/be/7103be84-5a22-ccb3-ab98-34a48f981f64/mza_1549118559053898406.jpg/600x600bb.jpg", "genreIds":["1309", "26", "1324"], "genres":["TV & Film", "Podcasts", "Society & Culture"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":510183505, "trackId":510183505, "artistName":"TFD: Nerdcast", "collectionName":"TFD: Nerdcast", "trackName":"TFD: Nerdcast", "collectionCensoredName":"TFD: Nerdcast", "trackCensoredName":"TFD: Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/tfd-nerdcast/id510183505?uo=4", "feedUrl":"https://toofatdudez.podomatic.com/rss2.xml", "trackViewUrl":"https://podcasts.apple.com/us/podcast/tfd-nerdcast/id510183505?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/16/6c/d0/166cd006-ce29-173f-8c72-e90fb1f7e041/mza_3663481721232120627.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/16/6c/d0/166cd006-ce29-173f-8c72-e90fb1f7e041/mza_3663481721232120627.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/16/6c/d0/166cd006-ce29-173f-8c72-e90fb1f7e041/mza_3663481721232120627.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-01T03:35:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":29, "country":"USA", "currency":"USD", "primaryGenreName":"Entertainment News", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/16/6c/d0/166cd006-ce29-173f-8c72-e90fb1f7e041/mza_3663481721232120627.jpg/600x600bb.jpg", "genreIds":["1531", "26", "1489"], "genres":["Entertainment News", "Podcasts", "News"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":685163193, "trackId":685163193, "artistName":"Ken Lawrence", "collectionName":"MC Hawking's Podcore Nerdcast", "trackName":"MC Hawking's Podcore Nerdcast", "collectionCensoredName":"MC Hawking's Podcore Nerdcast", "trackCensoredName":"MC Hawking's Podcore Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/mc-hawkings-podcore-nerdcast/id685163193?uo=4", "feedUrl":"https://podcorenerdcast.libsyn.com/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/mc-hawkings-podcore-nerdcast/id685163193?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/56/d4/b1/56d4b1e2-6ac7-a29e-88c1-39bf3bf686a4/mza_4820167264080282212.png/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/56/d4/b1/56d4b1e2-6ac7-a29e-88c1-39bf3bf686a4/mza_4820167264080282212.png/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/56/d4/b1/56d4b1e2-6ac7-a29e-88c1-39bf3bf686a4/mza_4820167264080282212.png/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2018-07-14T14:38:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":43, "country":"USA", "currency":"USD", "primaryGenreName":"Comedy", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/56/d4/b1/56d4b1e2-6ac7-a29e-88c1-39bf3bf686a4/mza_4820167264080282212.png/600x600bb.jpg", "genreIds":["1303", "26", "1310"], "genres":["Comedy", "Podcasts", "Music"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1180390208, "trackId":1180390208, "artistName":"Ben Fidanza", "collectionName":"NERDCAST", "trackName":"NERDCAST", "collectionCensoredName":"NERDCAST", "trackCensoredName":"NERDCAST", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1180390208?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:210812275/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1180390208?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ac/e3/5e/ace35e1d-5bb9-729c-80b3-a8eed0f7e942/mza_7940692481209246454.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ac/e3/5e/ace35e1d-5bb9-729c-80b3-a8eed0f7e942/mza_7940692481209246454.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ac/e3/5e/ace35e1d-5bb9-729c-80b3-a8eed0f7e942/mza_7940692481209246454.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2017-05-31T05:21:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":6, "country":"USA", "currency":"USD", "primaryGenreName":"Leisure", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ac/e3/5e/ace35e1d-5bb9-729c-80b3-a8eed0f7e942/mza_7940692481209246454.jpg/600x600bb.jpg", "genreIds":["1502", "26"], "genres":["Leisure", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":993457863, "trackId":993457863, "artistName":"Keith M. Sedor & Benjamin Rockwell", "collectionName":"Computer Talk Radio Nerdcast", "trackName":"Computer Talk Radio Nerdcast", "collectionCensoredName":"Computer Talk Radio Nerdcast", "trackCensoredName":"Computer Talk Radio Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/computer-talk-radio-nerdcast/id993457863?uo=4", "feedUrl":"http://www.computertalkradio.com/nerdcast/feed.xml", "trackViewUrl":"https://podcasts.apple.com/us/podcast/computer-talk-radio-nerdcast/id993457863?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9d/4a/9f/9d4a9fce-451f-7e8b-876a-9811497ced4c/mza_7384969013739295782.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9d/4a/9f/9d4a9fce-451f-7e8b-876a-9811497ced4c/mza_7384969013739295782.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9d/4a/9f/9d4a9fce-451f-7e8b-876a-9811497ced4c/mza_7384969013739295782.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-07-10T23:01:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":40, "country":"USA", "currency":"USD", "primaryGenreName":"Technology", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9d/4a/9f/9d4a9fce-451f-7e8b-876a-9811497ced4c/mza_7384969013739295782.jpg/600x600bb.jpg", "genreIds":["1318", "26", "1309"], "genres":["Technology", "Podcasts", "TV & Film"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1499127226, "trackId":1499127226, "artistName":"Arizona PBS", "collectionName":"Nerdcast Arizona PBS", "trackName":"Nerdcast Arizona PBS", "collectionCensoredName":"Nerdcast Arizona PBS", "trackCensoredName":"Nerdcast Arizona PBS", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast-arizona-pbs/id1499127226?uo=4", "feedUrl":"https://feed.podbean.com/nerdcastazpbs/feed.xml", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast-arizona-pbs/id1499127226?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1d/72/d1/1d72d146-9da2-ecf2-843c-de06dff3bfb9/mza_16029421758428282486.png/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1d/72/d1/1d72d146-9da2-ecf2-843c-de06dff3bfb9/mza_16029421758428282486.png/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1d/72/d1/1d72d146-9da2-ecf2-843c-de06dff3bfb9/mza_16029421758428282486.png/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-05-06T07:01:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":13, "country":"USA", "currency":"USD", "primaryGenreName":"Education", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1d/72/d1/1d72d146-9da2-ecf2-843c-de06dff3bfb9/mza_16029421758428282486.png/600x600bb.jpg", "genreIds":["1304", "26"], "genres":["Education", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1231297513, "trackId":1231297513, "artistName":"The Nerds at NerdChronic", "collectionName":"The Nerd Chronic: NerdCast", "trackName":"The Nerd Chronic: NerdCast", "collectionCensoredName":"The Nerd Chronic: NerdCast", "trackCensoredName":"The Nerd Chronic: NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-nerd-chronic-nerdcast/id1231297513?uo=4", "feedUrl":"https://feeds.buzzsprout.com/97808.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-nerd-chronic-nerdcast/id1231297513?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/72/14/6d/72146d01-c726-0249-40d2-77eaa170f5d2/mza_5022688419963139287.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/72/14/6d/72146d01-c726-0249-40d2-77eaa170f5d2/mza_5022688419963139287.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/72/14/6d/72146d01-c726-0249-40d2-77eaa170f5d2/mza_5022688419963139287.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-05-24T01:00:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":139, "country":"USA", "currency":"USD", "primaryGenreName":"Games", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/72/14/6d/72146d01-c726-0249-40d2-77eaa170f5d2/mza_5022688419963139287.jpg/600x600bb.jpg", "genreIds":["1507", "26", "1502", "1309", "1563"], "genres":["Games", "Podcasts", "Leisure", "TV & Film", "Film Reviews"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1029942395, "trackId":1029942395, "artistName":"HourlyNerd", "collectionName":"The NerdCast", "trackName":"The NerdCast", "collectionCensoredName":"The NerdCast", "trackCensoredName":"The NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-nerdcast/id1029942395?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:167976121/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-nerdcast/id1029942395?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/90/49/7a/90497a25-d1b0-753a-ee79-e60a9677be43/mza_3865435691891434209.png/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/90/49/7a/90497a25-d1b0-753a-ee79-e60a9677be43/mza_3865435691891434209.png/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/90/49/7a/90497a25-d1b0-753a-ee79-e60a9677be43/mza_3865435691891434209.png/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-07-29T22:05:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":16, "country":"USA", "currency":"USD", "primaryGenreName":"Business", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/90/49/7a/90497a25-d1b0-753a-ee79-e60a9677be43/mza_3865435691891434209.png/600x600bb.jpg", "genreIds":["1321", "26"], "genres":["Business", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":955039842, "trackId":955039842, "artistName":"Wizard Nerdcast", "collectionName":"The Wizard Nerdcast", "trackName":"The Wizard Nerdcast", "collectionCensoredName":"The Wizard Nerdcast", "trackCensoredName":"The Wizard Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-wizard-nerdcast/id955039842?uo=4", "feedUrl":"http://feeds.feedburner.com/wizardnerdcast", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-wizard-nerdcast/id955039842?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts1/v4/62/39/f4/6239f42b-e01b-3d4a-9ef5-8d1e314e4192/mza_7609277419421714972.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts1/v4/62/39/f4/6239f42b-e01b-3d4a-9ef5-8d1e314e4192/mza_7609277419421714972.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts1/v4/62/39/f4/6239f42b-e01b-3d4a-9ef5-8d1e314e4192/mza_7609277419421714972.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2018-07-23T16:02:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":2, "country":"USA", "currency":"USD", "primaryGenreName":"Comedy", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts1/v4/62/39/f4/6239f42b-e01b-3d4a-9ef5-8d1e314e4192/mza_7609277419421714972.jpg/600x600bb.jpg", "genreIds":["1303", "26", "1502", "1509"], "genres":["Comedy", "Podcasts", "Leisure", "Video Games"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1528826602, "trackId":1528826602, "artistName":"Nerdologist", "collectionName":"Nerdcast", "trackName":"Nerdcast", "collectionCensoredName":"Nerdcast", "trackCensoredName":"Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1528826602?uo=4", "feedUrl":"https://www.spreaker.com/show/4547519/episodes/feed", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1528826602?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/7f/77/6b/7f776b91-48df-59b0-6f50-fe22008e69a1/mza_7219455692858308011.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/7f/77/6b/7f776b91-48df-59b0-6f50-fe22008e69a1/mza_7219455692858308011.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/7f/77/6b/7f776b91-48df-59b0-6f50-fe22008e69a1/mza_7219455692858308011.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-10-13T18:54:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":4, "country":"USA", "currency":"USD", "primaryGenreName":"Hobbies", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/7f/77/6b/7f776b91-48df-59b0-6f50-fe22008e69a1/mza_7219455692858308011.jpg/600x600bb.jpg", "genreIds":["1505", "26", "1502"], "genres":["Hobbies", "Podcasts", "Leisure"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1436739085, "trackId":1436739085, "artistName":"Not Working Crew Media", "collectionName":"TableTop NerdCast", "trackName":"TableTop NerdCast", "collectionCensoredName":"TableTop NerdCast", "trackCensoredName":"TableTop NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/tabletop-nerdcast/id1436739085?uo=4", "feedUrl":"https://pinecast.com/feed/ttnc", "trackViewUrl":"https://podcasts.apple.com/us/podcast/tabletop-nerdcast/id1436739085?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0b/9e/f0/0b9ef098-72fe-d124-da87-ab43e9b04978/mza_2142451032951445184.png/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0b/9e/f0/0b9ef098-72fe-d124-da87-ab43e9b04978/mza_2142451032951445184.png/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0b/9e/f0/0b9ef098-72fe-d124-da87-ab43e9b04978/mza_2142451032951445184.png/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-03-03T17:12:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":10, "country":"USA", "currency":"USD", "primaryGenreName":"Comedy Fiction", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0b/9e/f0/0b9ef098-72fe-d124-da87-ab43e9b04978/mza_2142451032951445184.png/600x600bb.jpg", "genreIds":["1486", "26", "1483", "1502", "1507"], "genres":["Comedy Fiction", "Podcasts", "Fiction", "Leisure", "Games"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1475139916, "trackId":1475139916, "artistName":"Nerd Core", "collectionName":"Nerdcast", "trackName":"Nerdcast", "collectionCensoredName":"Nerdcast", "trackCensoredName":"Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1475139916?uo=4", "feedUrl":"https://www.spreaker.com/show/3234719/episodes/feed", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1475139916?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/17/63/7e/17637ec3-b57d-c1cf-a0b7-8195072df4f7/mza_8084199411647604620.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/17/63/7e/17637ec3-b57d-c1cf-a0b7-8195072df4f7/mza_8084199411647604620.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/17/63/7e/17637ec3-b57d-c1cf-a0b7-8195072df4f7/mza_8084199411647604620.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-09-30T14:28:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":25, "country":"USA", "currency":"USD", "primaryGenreName":"Music", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/17/63/7e/17637ec3-b57d-c1cf-a0b7-8195072df4f7/mza_8084199411647604620.jpg/600x600bb.jpg", "genreIds":["1310", "26"], "genres":["Music", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "artistId":1444555157, "collectionId":904750036, "trackId":904750036, "artistName":"Gifted Sounds Network", "collectionName":"Pondering Nerdcast", "trackName":"Pondering Nerdcast", "collectionCensoredName":"Pondering Nerdcast", "trackCensoredName":"Pondering Nerdcast", "artistViewUrl":"https://podcasts.apple.com/us/artist/gifted-sounds-network/1444555157?uo=4", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/pondering-nerdcast/id904750036?uo=4", "feedUrl":"https://feeds.transistor.fm/pondering-nerdcast", "trackViewUrl":"https://podcasts.apple.com/us/podcast/pondering-nerdcast/id904750036?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e0/db/c6/e0dbc616-d9d3-48ed-0c20-f07d265ffcb6/mza_3833132028579345361.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e0/db/c6/e0dbc616-d9d3-48ed-0c20-f07d265ffcb6/mza_3833132028579345361.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e0/db/c6/e0dbc616-d9d3-48ed-0c20-f07d265ffcb6/mza_3833132028579345361.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-11-09T18:15:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":187, "country":"USA", "currency":"USD", "primaryGenreName":"Video Games", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e0/db/c6/e0dbc616-d9d3-48ed-0c20-f07d265ffcb6/mza_3833132028579345361.jpg/600x600bb.jpg", "genreIds":["1509", "26", "1502", "1324", "1302"], "genres":["Video Games", "Podcasts", "Leisure", "Society & Culture", "Personal Journals"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1452637582, "trackId":1452637582, "artistName":"ATL Nerdcast", "collectionName":"ATL Nerdcast", "trackName":"ATL Nerdcast", "collectionCensoredName":"ATL Nerdcast", "trackCensoredName":"ATL Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/atl-nerdcast/id1452637582?uo=4", "feedUrl":"https://anchor.fm/s/921349c/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/atl-nerdcast/id1452637582?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/03/d9/17/03d91757-a604-0814-8fde-13ce1741ea80/mza_6106856839027440943.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/03/d9/17/03d91757-a604-0814-8fde-13ce1741ea80/mza_6106856839027440943.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/03/d9/17/03d91757-a604-0814-8fde-13ce1741ea80/mza_6106856839027440943.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-10-21T18:57:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":32, "country":"USA", "currency":"USD", "primaryGenreName":"Leisure", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/03/d9/17/03d91757-a604-0814-8fde-13ce1741ea80/mza_6106856839027440943.jpg/600x600bb.jpg", "genreIds":["1502", "26"], "genres":["Leisure", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1484281896, "trackId":1484281896, "artistName":"Comedy Nerd", "collectionName":"Comedy Nerdcast", "trackName":"Comedy Nerdcast", "collectionCensoredName":"Comedy Nerdcast", "trackCensoredName":"Comedy Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/comedy-nerdcast/id1484281896?uo=4", "feedUrl":"https://anchor.fm/s/f76bf10/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/comedy-nerdcast/id1484281896?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fb/a4/51/fba4515b-cf1a-ff6b-0b39-95603df65d22/mza_1808273179097215255.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fb/a4/51/fba4515b-cf1a-ff6b-0b39-95603df65d22/mza_1808273179097215255.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fb/a4/51/fba4515b-cf1a-ff6b-0b39-95603df65d22/mza_1808273179097215255.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-01T06:00:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":18, "country":"USA", "currency":"USD", "primaryGenreName":"Comedy", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fb/a4/51/fba4515b-cf1a-ff6b-0b39-95603df65d22/mza_1808273179097215255.jpg/600x600bb.jpg", "genreIds":["1303", "26"], "genres":["Comedy", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1128036391, "trackId":1128036391, "artistName":"A Motley Nerdcast", "collectionName":"What Were We Talking About", "trackName":"What Were We Talking About", "collectionCensoredName":"What Were We Talking About", "trackCensoredName":"What Were We Talking About", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/what-were-we-talking-about/id1128036391?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:33649084/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/what-were-we-talking-about/id1128036391?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/1b/16/e1/1b16e102-b38e-5eaf-add2-4365d3d905f0/mza_1250619670463529330.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/1b/16/e1/1b16e102-b38e-5eaf-add2-4365d3d905f0/mza_1250619670463529330.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/1b/16/e1/1b16e102-b38e-5eaf-add2-4365d3d905f0/mza_1250619670463529330.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-05T05:00:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":101, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts62/v4/1b/16/e1/1b16e102-b38e-5eaf-add2-4365d3d905f0/mza_1250619670463529330.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1465907261, "trackId":1465907261, "artistName":"Song Whistler", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1465907261?uo=4", "feedUrl":"https://anchor.fm/s/babaf44/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1465907261?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e5/3c/04/e53c04d8-6de9-4e79-587b-c7bc33b1e1e4/mza_649550778832956305.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e5/3c/04/e53c04d8-6de9-4e79-587b-c7bc33b1e1e4/mza_649550778832956305.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e5/3c/04/e53c04d8-6de9-4e79-587b-c7bc33b1e1e4/mza_649550778832956305.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-05-27T21:05:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":1, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e5/3c/04/e53c04d8-6de9-4e79-587b-c7bc33b1e1e4/mza_649550778832956305.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1456669086, "trackId":1456669086, "artistName":"NERDITUD", "collectionName":"NERDCAST", "trackName":"NERDCAST", "collectionCensoredName":"NERDCAST", "trackCensoredName":"NERDCAST", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1456669086?uo=4", "feedUrl":"https://mx.ivoox.com/es/espodcast-nerdcast_fg_f1675575_filtro_1.xml", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1456669086?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/84/58/6c/84586ccc-f207-7a03-188a-a76b9fd190c4/mza_18217551356512524379.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/84/58/6c/84586ccc-f207-7a03-188a-a76b9fd190c4/mza_18217551356512524379.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/84/58/6c/84586ccc-f207-7a03-188a-a76b9fd190c4/mza_18217551356512524379.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-10-23T21:46:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":20, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/84/58/6c/84586ccc-f207-7a03-188a-a76b9fd190c4/mza_18217551356512524379.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1336287725, "trackId":1336287725, "artistName":"Evan Krueger and Eric Emmons", "collectionName":"The Dual of the Fates Nerdcast", "trackName":"The Dual of the Fates Nerdcast", "collectionCensoredName":"The Dual of the Fates Nerdcast", "trackCensoredName":"The Dual of the Fates Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-dual-of-the-fates-nerdcast/id1336287725?uo=4", "feedUrl":"https://pinecast.com/feed/the-dual-of-the-fates-nerdcast", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-dual-of-the-fates-nerdcast/id1336287725?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/80/97/13/80971324-bc45-c702-1b54-1b7b256bac7c/mza_712323871677692095.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/80/97/13/80971324-bc45-c702-1b54-1b7b256bac7c/mza_712323871677692095.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/80/97/13/80971324-bc45-c702-1b54-1b7b256bac7c/mza_712323871677692095.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2018-04-13T19:57:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":6, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/80/97/13/80971324-bc45-c702-1b54-1b7b256bac7c/mza_712323871677692095.jpg/600x600bb.jpg", "genreIds":["1309", "26", "1502"], "genres":["TV & Film", "Podcasts", "Leisure"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1471519661, "trackId":1471519661, "artistName":"Black Girl Marvel, Kayos, Jay Tezla, Zer0", "collectionName":"WaKinda Black NerdCast Is This", "trackName":"WaKinda Black NerdCast Is This", "collectionCensoredName":"WaKinda Black NerdCast Is This", "trackCensoredName":"WaKinda Black NerdCast Is This", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/wakinda-black-nerdcast-is-this/id1471519661?uo=4", "feedUrl":"https://anchor.fm/s/4fa6c58/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/wakinda-black-nerdcast-is-this/id1471519661?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6e/3b/b8/6e3bb8d5-b520-8008-64e0-0563cb3cfe2a/mza_17555240281241886573.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6e/3b/b8/6e3bb8d5-b520-8008-64e0-0563cb3cfe2a/mza_17555240281241886573.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6e/3b/b8/6e3bb8d5-b520-8008-64e0-0563cb3cfe2a/mza_17555240281241886573.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-11-26T08:53:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":46, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6e/3b/b8/6e3bb8d5-b520-8008-64e0-0563cb3cfe2a/mza_17555240281241886573.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1378065165, "trackId":1378065165, "artistName":"Ye Olde Nerdcast", "collectionName":"Ye Olde Nerdcast", "trackName":"Ye Olde Nerdcast", "collectionCensoredName":"Ye Olde Nerdcast", "trackCensoredName":"Ye Olde Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/ye-olde-nerdcast/id1378065165?uo=4", "feedUrl":"https://anchor.fm/s/3a3e85c/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/ye-olde-nerdcast/id1378065165?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/91/16/61/9116612b-e5dc-efe3-1c9f-f44401e29877/mza_247171634827644783.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/91/16/61/9116612b-e5dc-efe3-1c9f-f44401e29877/mza_247171634827644783.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/91/16/61/9116612b-e5dc-efe3-1c9f-f44401e29877/mza_247171634827644783.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-12-11T16:51:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":9, "country":"USA", "currency":"USD", "primaryGenreName":"Comedy", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/91/16/61/9116612b-e5dc-efe3-1c9f-f44401e29877/mza_247171634827644783.jpg/600x600bb.jpg", "genreIds":["1303", "26"], "genres":["Comedy", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1201380216, "trackId":1201380216, "artistName":"FilmFella", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1201380216?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:285572298/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1201380216?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/69/36/8b/69368b12-8272-f738-f166-697694a7ec10/mza_1013110275403689381.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/69/36/8b/69368b12-8272-f738-f166-697694a7ec10/mza_1013110275403689381.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/69/36/8b/69368b12-8272-f738-f166-697694a7ec10/mza_1013110275403689381.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2017-03-05T17:36:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":1, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/69/36/8b/69368b12-8272-f738-f166-697694a7ec10/mza_1013110275403689381.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1518516586, "trackId":1518516586, "artistName":"Hugo Leonardo Gonçalves Pinto", "collectionName":"NERDCAST", "trackName":"NERDCAST", "collectionCensoredName":"NERDCAST", "trackCensoredName":"NERDCAST", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1518516586?uo=4", "feedUrl":"https://anchor.fm/s/26399e5c/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1518516586?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9b/75/1f/9b751f55-d7c4-8ba3-6c32-1fc1af19a8b3/mza_12944206264966267007.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9b/75/1f/9b751f55-d7c4-8ba3-6c32-1fc1af19a8b3/mza_12944206264966267007.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9b/75/1f/9b751f55-d7c4-8ba3-6c32-1fc1af19a8b3/mza_12944206264966267007.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-06-28T16:14:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":2, "country":"USA", "currency":"USD", "primaryGenreName":"Entertainment News", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9b/75/1f/9b751f55-d7c4-8ba3-6c32-1fc1af19a8b3/mza_12944206264966267007.jpg/600x600bb.jpg", "genreIds":["1531", "26", "1489"], "genres":["Entertainment News", "Podcasts", "News"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1506246399, "trackId":1506246399, "artistName":"Razzy", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1506246399?uo=4", "feedUrl":"https://anchor.fm/s/1ab00f08/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1506246399?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/73/f3/8373f305-ebde-69db-bf84-525c8e31c254/mza_3821933704507182132.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/73/f3/8373f305-ebde-69db-bf84-525c8e31c254/mza_3821933704507182132.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/73/f3/8373f305-ebde-69db-bf84-525c8e31c254/mza_3821933704507182132.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-04-02T02:15:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":2, "country":"USA", "currency":"USD", "primaryGenreName":"Comedy", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/83/73/f3/8373f305-ebde-69db-bf84-525c8e31c254/mza_3821933704507182132.jpg/600x600bb.jpg", "genreIds":["1303", "26"], "genres":["Comedy", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1484209323, "trackId":1484209323, "artistName":"Jasper Clark", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1484209323?uo=4", "feedUrl":"https://feeds.sounder.fm/254/rss.xml", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1484209323?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/37/03/49/37034971-de3d-e552-3174-b9b3751ba854/mza_5229825880546385616.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/37/03/49/37034971-de3d-e552-3174-b9b3751ba854/mza_5229825880546385616.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/37/03/49/37034971-de3d-e552-3174-b9b3751ba854/mza_5229825880546385616.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-12-15T00:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "trackCount":3, "country":"USA", "currency":"USD", "primaryGenreName":"Education", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/37/03/49/37034971-de3d-e552-3174-b9b3751ba854/mza_5229825880546385616.jpg/600x600bb.jpg", "genreIds":["1304", "26"], "genres":["Education", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1505533670, "trackId":1505533670, "artistName":"Grayson Nendel", "collectionName":"Nerdcast", "trackName":"Nerdcast", "collectionCensoredName":"Nerdcast", "trackCensoredName":"Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1505533670?uo=4", "feedUrl":"https://anchor.fm/s/17081b20/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1505533670?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/77/09/377709bd-1d94-e131-f2f3-4bdd6fbe7ce0/mza_223200577773067880.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/77/09/377709bd-1d94-e131-f2f3-4bdd6fbe7ce0/mza_223200577773067880.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/77/09/377709bd-1d94-e131-f2f3-4bdd6fbe7ce0/mza_223200577773067880.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-03-27T20:19:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":1, "country":"USA", "currency":"USD", "primaryGenreName":"Entertainment News", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/77/09/377709bd-1d94-e131-f2f3-4bdd6fbe7ce0/mza_223200577773067880.jpg/600x600bb.jpg", "genreIds":["1531", "26", "1489"], "genres":["Entertainment News", "Podcasts", "News"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1524155249, "trackId":1524155249, "artistName":"Matheus cabral", "collectionName":"Nerdcast", "trackName":"Nerdcast", "collectionCensoredName":"Nerdcast", "trackCensoredName":"Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1524155249?uo=4", "feedUrl":"https://anchor.fm/s/2c66b620/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1524155249?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/e8/fa/72/e8fa72db-c998-66cc-485b-c9f558d5496d/mza_16708222607431102353.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/e8/fa/72/e8fa72db-c998-66cc-485b-c9f558d5496d/mza_16708222607431102353.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/e8/fa/72/e8fa72db-c998-66cc-485b-c9f558d5496d/mza_16708222607431102353.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-07-17T19:56:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":1, "country":"USA", "currency":"USD", "primaryGenreName":"Games", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/e8/fa/72/e8fa72db-c998-66cc-485b-c9f558d5496d/mza_16708222607431102353.jpg/600x600bb.jpg", "genreIds":["1507", "26", "1502"], "genres":["Games", "Podcasts", "Leisure"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1459993345, "trackId":1459993345, "artistName":"WGAO/Dean College", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1459993345?uo=4", "feedUrl":"https://www.spreaker.com/show/3483317/episodes/feed", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1459993345?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ca/22/3c/ca223c15-e362-9e31-2d0f-07c6d9b66182/mza_203214416068474884.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ca/22/3c/ca223c15-e362-9e31-2d0f-07c6d9b66182/mza_203214416068474884.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ca/22/3c/ca223c15-e362-9e31-2d0f-07c6d9b66182/mza_203214416068474884.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-11-04T16:50:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":4, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ca/22/3c/ca223c15-e362-9e31-2d0f-07c6d9b66182/mza_203214416068474884.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1510345372, "trackId":1510345372, "artistName":"MCKAY ERICKSON", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1510345372?uo=4", "feedUrl":"https://anchor.fm/s/1e3dd178/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1510345372?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/12/df/dc/12dfdc54-3cd2-5752-8d36-ac1bca49d720/mza_6584898063195877957.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/12/df/dc/12dfdc54-3cd2-5752-8d36-ac1bca49d720/mza_6584898063195877957.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/12/df/dc/12dfdc54-3cd2-5752-8d36-ac1bca49d720/mza_6584898063195877957.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-11-04T15:27:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":18, "country":"USA", "currency":"USD", "primaryGenreName":"Hobbies", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/12/df/dc/12dfdc54-3cd2-5752-8d36-ac1bca49d720/mza_6584898063195877957.jpg/600x600bb.jpg", "genreIds":["1505", "26", "1502"], "genres":["Hobbies", "Podcasts", "Leisure"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1238451018, "trackId":1238451018, "artistName":"ISSA NERDCAST", "collectionName":"Issa Nerdcast", "trackName":"Issa Nerdcast", "collectionCensoredName":"Issa Nerdcast", "trackCensoredName":"Issa Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/issa-nerdcast/id1238451018?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:296150691/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/issa-nerdcast/id1238451018?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/9a/54/a99a5462-67d8-b78a-236c-82002f9fbc40/mza_5412762650426940186.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/9a/54/a99a5462-67d8-b78a-236c-82002f9fbc40/mza_5412762650426940186.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/9a/54/a99a5462-67d8-b78a-236c-82002f9fbc40/mza_5412762650426940186.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2017-10-10T17:37:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":3, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/9a/54/a99a5462-67d8-b78a-236c-82002f9fbc40/mza_5412762650426940186.jpg/600x600bb.jpg", "genreIds":["1309", "26"], "genres":["TV & Film", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1523229501, "trackId":1523229501, "artistName":"Nerdcasm", "collectionName":"Nerdcast", "trackName":"Nerdcast", "collectionCensoredName":"Nerdcast", "trackCensoredName":"Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1523229501?uo=4", "feedUrl":"https://anchor.fm/s/2b4a3550/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1523229501?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ff/76/7d/ff767d1d-4124-2ab8-9770-f58ea1e5b648/mza_9887267656068437301.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ff/76/7d/ff767d1d-4124-2ab8-9770-f58ea1e5b648/mza_9887267656068437301.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ff/76/7d/ff767d1d-4124-2ab8-9770-f58ea1e5b648/mza_9887267656068437301.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-12-06T05:30:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":21, "country":"USA", "currency":"USD", "primaryGenreName":"Leisure", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ff/76/7d/ff767d1d-4124-2ab8-9770-f58ea1e5b648/mza_9887267656068437301.jpg/600x600bb.jpg", "genreIds":["1502", "26"], "genres":["Leisure", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1491170189, "trackId":1491170189, "artistName":"Brendan", "collectionName":"NerdCast", "trackName":"NerdCast", "collectionCensoredName":"NerdCast", "trackCensoredName":"NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1491170189?uo=4", "feedUrl":"https://anchor.fm/s/4cfcef8/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/nerdcast/id1491170189?uo=4", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/e4/b5/a9e4b511-495e-f886-43e7-66a7f94e165d/mza_7805573808981620828.jpg/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/e4/b5/a9e4b511-495e-f886-43e7-66a7f94e165d/mza_7805573808981620828.jpg/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/e4/b5/a9e4b511-495e-f886-43e7-66a7f94e165d/mza_7805573808981620828.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2018-06-12T18:44:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":2, "country":"USA", "currency":"USD", "primaryGenreName":"Leisure", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a9/e4/b5/a9e4b511-495e-f886-43e7-66a7f94e165d/mza_7805573808981620828.jpg/600x600bb.jpg", "genreIds":["1502", "26"], "genres":["Leisure", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":418090026, "trackId":418090026, "artistName":"nanohero", "collectionName":"The NerdCast", "trackName":"The NerdCast", "collectionCensoredName":"The NerdCast", "trackCensoredName":"The NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-nerdcast/id418090026?uo=4", "feedUrl":"https://thenerdcast.podomatic.com/rss2.xml", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-nerdcast/id418090026?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/22/fd/32/22fd3297-2d43-920a-790b-c48c447cc8dd/mza_748632986571715649.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/22/fd/32/22fd3297-2d43-920a-790b-c48c447cc8dd/mza_748632986571715649.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/22/fd/32/22fd3297-2d43-920a-790b-c48c447cc8dd/mza_748632986571715649.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2011-03-16T07:04:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":2, "country":"USA", "currency":"USD", "primaryGenreName":"Leisure", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/22/fd/32/22fd3297-2d43-920a-790b-c48c447cc8dd/mza_748632986571715649.jpg/600x600bb.jpg", "genreIds":["1502", "26"], "genres":["Leisure", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1465610167, "trackId":1465610167, "artistName":"Hemant Persaud/Patrick Maxwell", "collectionName":"Just Some Black Nerdcast", "trackName":"Just Some Black Nerdcast", "collectionCensoredName":"Just Some Black Nerdcast", "trackCensoredName":"Just Some Black Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/just-some-black-nerdcast/id1465610167?uo=4", "feedUrl":"https://pinecast.com/feed/just-some-black-nerdcast", "trackViewUrl":"https://podcasts.apple.com/us/podcast/just-some-black-nerdcast/id1465610167?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/00/db/27/00db27a6-74b4-d8af-ab1b-8848815eb025/mza_5062420220806648671.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/00/db/27/00db27a6-74b4-d8af-ab1b-8848815eb025/mza_5062420220806648671.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/00/db/27/00db27a6-74b4-d8af-ab1b-8848815eb025/mza_5062420220806648671.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2019-06-06T18:36:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":2, "country":"USA", "currency":"USD", "primaryGenreName":"TV & Film", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/00/db/27/00db27a6-74b4-d8af-ab1b-8848815eb025/mza_5062420220806648671.jpg/600x600bb.jpg", "genreIds":["1309", "26", "1502", "1509"], "genres":["TV & Film", "Podcasts", "Leisure", "Video Games"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1017846896, "trackId":1017846896, "artistName":"The Social Nerds", "collectionName":"The Social Nerdcast", "trackName":"The Social Nerdcast", "collectionCensoredName":"The Social Nerdcast", "trackCensoredName":"The Social Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-social-nerdcast/id1017846896?uo=4", "feedUrl":"https://thesocialnerdcast.podbean.com/feed.xml", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-social-nerdcast/id1017846896?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/8b/12/cf/8b12cf58-0ba7-f400-1035-6a5466390f88/mza_6705934645291911023.png/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/8b/12/cf/8b12cf58-0ba7-f400-1035-6a5466390f88/mza_6705934645291911023.png/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/8b/12/cf/8b12cf58-0ba7-f400-1035-6a5466390f88/mza_6705934645291911023.png/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2017-02-01T02:52:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":9, "country":"USA", "currency":"USD", "primaryGenreName":"Video Games", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/8b/12/cf/8b12cf58-0ba7-f400-1035-6a5466390f88/mza_6705934645291911023.png/600x600bb.jpg", "genreIds":["1509", "26", "1502"], "genres":["Video Games", "Podcasts", "Leisure"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1517701410, "trackId":1517701410, "artistName":"Maggie", "collectionName":"MadMags NerdCast", "trackName":"MadMags NerdCast", "collectionCensoredName":"MadMags NerdCast", "trackCensoredName":"MadMags NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/madmags-nerdcast/id1517701410?uo=4", "feedUrl":"https://feeds.buzzsprout.com/1144802.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/madmags-nerdcast/id1517701410?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f4/a5/00/f4a50073-2565-3a1c-e42b-ef5b0fb4ca43/mza_7562374305378601449.jpeg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f4/a5/00/f4a50073-2565-3a1c-e42b-ef5b0fb4ca43/mza_7562374305378601449.jpeg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f4/a5/00/f4a50073-2565-3a1c-e42b-ef5b0fb4ca43/mza_7562374305378601449.jpeg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-07-18T20:00:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "trackCount":3, "country":"USA", "currency":"USD", "primaryGenreName":"Personal Journals", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f4/a5/00/f4a50073-2565-3a1c-e42b-ef5b0fb4ca43/mza_7562374305378601449.jpeg/600x600bb.jpg", "genreIds":["1302", "26", "1324"], "genres":["Personal Journals", "Podcasts", "Society & Culture"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1455970880, "trackId":1455970880, "artistName":"Sebastian Bauer; Clemens Gleich", "collectionName":"Die Hupe | Auto- und Motorrad-Nerdcast", "trackName":"Die Hupe | Auto- und Motorrad-Nerdcast", "collectionCensoredName":"Die Hupe | Auto- und Motorrad-Nerdcast", "trackCensoredName":"Die Hupe | Auto- und Motorrad-Nerdcast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/die-hupe-auto-und-motorrad-nerdcast/id1455970880?uo=4", "feedUrl":"https://diehupe-podcast.de/feed/podcast/", "trackViewUrl":"https://podcasts.apple.com/us/podcast/die-hupe-auto-und-motorrad-nerdcast/id1455970880?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1f/7a/6a/1f7a6a2c-f460-2d0f-4858-f42617e27c94/mza_13407915371791255858.png/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1f/7a/6a/1f7a6a2c-f460-2d0f-4858-f42617e27c94/mza_13407915371791255858.png/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1f/7a/6a/1f7a6a2c-f460-2d0f-4858-f42617e27c94/mza_13407915371791255858.png/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-11-11T09:05:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":21, "country":"USA", "currency":"USD", "primaryGenreName":"Automotive", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/1f/7a/6a/1f7a6a2c-f460-2d0f-4858-f42617e27c94/mza_13407915371791255858.png/600x600bb.jpg", "genreIds":["1503", "26", "1502"], "genres":["Automotive", "Podcasts", "Leisure"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1516890276, "trackId":1516890276, "artistName":"Joshua Grisham", "collectionName":"Informants NERDCast!", "trackName":"Informants NERDCast!", "collectionCensoredName":"Informants NERDCast!", "trackCensoredName":"Informants NERDCast!", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/informants-nerdcast/id1516890276?uo=4", "feedUrl":"https://anchor.fm/s/2129d288/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/informants-nerdcast/id1516890276?uo=4", "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/6a/7a/fc6a7a37-5a7b-d1d8-ed88-cbfd64b27cbd/mza_11343535686836192109.jpg/30x30bb.jpg", "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/6a/7a/fc6a7a37-5a7b-d1d8-ed88-cbfd64b27cbd/mza_11343535686836192109.jpg/60x60bb.jpg", "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/6a/7a/fc6a7a37-5a7b-d1d8-ed88-cbfd64b27cbd/mza_11343535686836192109.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-11-26T12:17:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":16, "country":"USA", "currency":"USD", "primaryGenreName":"Entertainment News", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/6a/7a/fc6a7a37-5a7b-d1d8-ed88-cbfd64b27cbd/mza_11343535686836192109.jpg/600x600bb.jpg", "genreIds":["1531", "26", "1489"], "genres":["Entertainment News", "Podcasts", "News"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1446305252, "trackId":1446305252, "artistName":"Brad Davidson", "collectionName":"The Northern NerdCast", "trackName":"The Northern NerdCast", "collectionCensoredName":"The Northern NerdCast", "trackCensoredName":"The Northern NerdCast", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/the-northern-nerdcast/id1446305252?uo=4", "feedUrl":"https://anchor.fm/s/7f90e8c/podcast/rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/the-northern-nerdcast/id1446305252?uo=4", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/05/31/aa/0531aafb-f5e7-8e12-475f-f218c00d7fc1/mza_7714214935270209081.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/05/31/aa/0531aafb-f5e7-8e12-475f-f218c00d7fc1/mza_7714214935270209081.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/05/31/aa/0531aafb-f5e7-8e12-475f-f218c00d7fc1/mza_7714214935270209081.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-03-22T00:09:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":16, "country":"USA", "currency":"USD", "primaryGenreName":"Arts", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/05/31/aa/0531aafb-f5e7-8e12-475f-f218c00d7fc1/mza_7714214935270209081.jpg/600x600bb.jpg", "genreIds":["1301", "26"], "genres":["Arts", "Podcasts"]}, 
-{"wrapperType":"track", "kind":"podcast", "collectionId":1352498495, "trackId":1352498495, "artistName":"Shoky", "collectionName":"SHOKY'S NERDCAST", "trackName":"SHOKY'S NERDCAST", "collectionCensoredName":"SHOKY'S NERDCAST", "trackCensoredName":"SHOKY'S NERDCAST", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/shokys-nerdcast/id1352498495?uo=4", "feedUrl":"http://feeds.soundcloud.com/users/soundcloud:users:311590780/sounds.rss", "trackViewUrl":"https://podcasts.apple.com/us/podcast/shokys-nerdcast/id1352498495?uo=4", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/21/d7/ac/21d7acfc-4cbb-9749-fa07-1b98075b966a/mza_4472748551967161744.jpg/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/21/d7/ac/21d7acfc-4cbb-9749-fa07-1b98075b966a/mza_4472748551967161744.jpg/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/21/d7/ac/21d7acfc-4cbb-9749-fa07-1b98075b966a/mza_4472748551967161744.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "trackRentalPrice":0, "collectionHdPrice":0, "trackHdPrice":0, "trackHdRentalPrice":0, "releaseDate":"2020-06-07T18:49:00Z", "collectionExplicitness":"cleaned", "trackExplicitness":"cleaned", "trackCount":20, "country":"USA", "currency":"USD", "primaryGenreName":"Leisure", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/21/d7/ac/21d7acfc-4cbb-9749-fa07-1b98075b966a/mza_4472748551967161744.jpg/600x600bb.jpg", "genreIds":["1502", "26"], "genres":["Leisure", "Podcasts"]}]
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "im:name": {
+          "label": "Чай с психологом"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/cd/3f/7e/cd3f7eb6-39fb-e3c1-896d-02c2b679b4aa/mza_2407637352233388568.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/cd/3f/7e/cd3f7eb6-39fb-e3c1-896d-02c2b679b4aa/mza_2407637352233388568.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/cd/3f/7e/cd3f7eb6-39fb-e3c1-896d-02c2b679b4aa/mza_2407637352233388568.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Пью согревающий чай и общаюсь с интересными людьми на разные психологические темы. Говорю о разных пищевых расстройствах, страхах, панических атаках, навязчивостях и многом другом. \nМой сайт: https://egor-egorov.ru (там можно записаться ко мне на терапию онлайн) \nМой инстаграм: https://instagram.com/psy_chay/\n\nРеклама и сотрудничество: tea@egor-egorov.ru"
+        },
+        "im:price": {
+          "label": "Загрузить",
+          "attributes": {
+            "amount": "0",
+            "currency": "RUB"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Подкаст"
+          }
+        },
+        "rights": {
+          "label": "© Егор Егоров"
+        },
+        "title": {
+          "label": "Чай с психологом - Егор Егоров"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/ru/podcast/%D1%87%D0%B0%D0%B9-%D1%81-%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC/id1487336390?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/ru/podcast/%D1%87%D0%B0%D0%B9-%D1%81-%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC/id1487336390?uo=2",
+          "attributes": {
+            "im:id": "1487336390"
+          }
+        },
+        "im:artist": {
+          "label": "Егор Егоров"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1517",
+            "term": "Mental Health",
+            "scheme": "https://podcasts.apple.com/ru/genre/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5-%D0%B8-%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D0%BF%D1%81%D0%B8%D1%85%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5/id1517?uo=2",
+            "label": "Психическое здоровье"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-11-30T08:00:00-07:00",
+          "attributes": {
+            "label": "30.11.2020"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "ТЕД на русском"
+        },
+        "im:price": {
+          "label": "Загрузить",
+          "attributes": {
+            "amount": "0",
+            "currency": "RUB"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/7c/e6/0c/7ce60c30-d015-7d9a-b675-2582a453eb53/mza_1220915422705930355.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/7c/e6/0c/7ce60c30-d015-7d9a-b675-2582a453eb53/mza_1220915422705930355.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/7c/e6/0c/7ce60c30-d015-7d9a-b675-2582a453eb53/mza_1220915422705930355.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Идеи, достойные распространения"
+        },
+        "im:artist": {
+          "label": "ТЕД на русском"
+        },
+        "title": {
+          "label": "ТЕД на русском - ТЕД на русском"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/ru/podcast/%D1%82%D0%B5%D0%B4-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC/id1472573277?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/ru/podcast/%D1%82%D0%B5%D0%B4-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC/id1472573277?uo=2",
+          "attributes": {
+            "im:id": "1472573277"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Подкаст"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1304",
+            "term": "Education",
+            "scheme": "https://podcasts.apple.com/ru/genre/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/id1304?uo=2",
+            "label": "Образование"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-12-08T03:28:00-07:00",
+          "attributes": {
+            "label": "08.12.2020"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Otvet.co"
+        },
+        "im:image": [
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5f/23/7b/5f237bff-6e63-62b1-729e-3489b6c59a81/mza_5286774790822407764.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5f/23/7b/5f237bff-6e63-62b1-729e-3489b6c59a81/mza_5286774790822407764.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5f/23/7b/5f237bff-6e63-62b1-729e-3489b6c59a81/mza_5286774790822407764.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Поддержка лучших психологов на расстоянии одного клика. Где бы вы ни находились и что бы вы ни чувствовали, специалисты сервиса «Ответ» всегда с вами!"
+        },
+        "im:price": {
+          "label": "Загрузить",
+          "attributes": {
+            "amount": "0",
+            "currency": "RUB"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Подкаст"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved"
+        },
+        "title": {
+          "label": "Otvet.co - Otvet.co"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/ru/podcast/otvet-co/id1488897817?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/ru/podcast/otvet-co/id1488897817?uo=2",
+          "attributes": {
+            "im:id": "1488897817"
+          }
+        },
+        "im:artist": {
+          "label": "Otvet.co"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1324",
+            "term": "Society & Culture",
+            "scheme": "https://podcasts.apple.com/ru/genre/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/id1324?uo=2",
+            "label": "Общество и культура"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-12-06T23:36:00-07:00",
+          "attributes": {
+            "label": "06.12.2020"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Пожалуй, самая красивая музыка на свете!"
+        },
+        "im:price": {
+          "label": "Загрузить",
+          "attributes": {
+            "amount": "0",
+            "currency": "RUB"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/74/2b/12/742b1247-ce8b-a678-ce6b-f44c32e8869a/mza_2584362037864255843.png/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/74/2b/12/742b1247-ce8b-a678-ce6b-f44c32e8869a/mza_2584362037864255843.png/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/74/2b/12/742b1247-ce8b-a678-ce6b-f44c32e8869a/mza_2584362037864255843.png/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Вдали от будней. Подальше от рутины. Вне тревог и сомнений. \n\nCHILL. Музыка, прерывающая суету больших городов. Пожалуй, самая красивая музыка на свете! Автор и ведущий программы Артем Дмитриев."
+        },
+        "im:artist": {
+          "label": "CHILL"
+        },
+        "title": {
+          "label": "Пожалуй, самая красивая музыка на свете! - CHILL"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/ru/podcast/%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9-%D1%81%D0%B0%D0%BC%D0%B0%D1%8F-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B5%D1%82%D0%B5/id432614039?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/ru/podcast/%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9-%D1%81%D0%B0%D0%BC%D0%B0%D1%8F-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B5%D1%82%D0%B5/id432614039?uo=2",
+          "attributes": {
+            "im:id": "432614039"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Подкаст"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1310",
+            "term": "Music",
+            "scheme": "https://podcasts.apple.com/ru/genre/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/id1310?uo=2",
+            "label": "Музыка"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-12-07T10:48:00-07:00",
+          "attributes": {
+            "label": "07.12.2020"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Деньги делают деньги"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/28/26/bb/2826bb6f-3a02-b10a-d1c3-9b42818a3c0c/mza_3967390620014202275.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/28/26/bb/2826bb6f-3a02-b10a-d1c3-9b42818a3c0c/mza_3967390620014202275.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/28/26/bb/2826bb6f-3a02-b10a-d1c3-9b42818a3c0c/mza_3967390620014202275.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Подкаст Московской Биржи про инвестиции. У Саши Волковой есть 700 000 руб. и меркантильный вопрос: «Что сделать, чтобы деньги зарабатывали?» А Валера знает ответ — он эксперт Московской Биржи. За время подкаста Валера сделает из Саши инвестора. \n\n— Узнать больше про инвестирование можно в Школе Московской биржи school.moex.com\n\n— Телеграм-канал Школы @moex_school"
+        },
+        "im:price": {
+          "label": "Загрузить",
+          "attributes": {
+            "amount": "0",
+            "currency": "RUB"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Подкаст"
+          }
+        },
+        "rights": {
+          "label": "© 2020, Московская Биржа"
+        },
+        "title": {
+          "label": "Деньги делают деньги - Московская Биржа"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/id1521874347?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/id1521874347?uo=2",
+          "attributes": {
+            "im:id": "1521874347"
+          }
+        },
+        "im:artist": {
+          "label": "Московская Биржа"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1412",
+            "term": "Investing",
+            "scheme": "https://podcasts.apple.com/ru/genre/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8/id1412?uo=2",
+            "label": "Инвестиции"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2020-11-08T22:00:00-07:00",
+          "attributes": {
+            "label": "08.11.2020"
+          }
+        }
+      }
+    ],
+    "updated": {
+      "label": "2020-12-08T09:58:44-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Лучшие подкасты"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=ru&id=134570&popId=3"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/ru/rss/toppodcasts/limit=5/explicit=false/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/ru/rss/toppodcasts/limit=5/explicit=false/json"
+    }
+  }
 }
-
-
